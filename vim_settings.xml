@@ -1,0 +1,96 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/_dev/rust/rust-lifx/Cargo.toml" timestamp="1511297890566">
+        <mark key="[" line="5" column="14" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1519839919213">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/_dev/rust/rust-kmeans/Cargo.toml" timestamp="1519923130881">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="3" column="28" />
+        <mark key="." line="3" column="28" />
+      </file>
+      <file name="$USER_HOME$/_dev/rust/rust-kmeans/voters.csv" timestamp="1519744788384">
+        <mark key="[" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/_dev/advent2017/01/main.rs" timestamp="1512672574141">
+        <mark key="[" line="19" column="33" />
+        <mark key="]" line="19" column="34" />
+        <mark key="." line="19" column="33" />
+        <mark key="^" line="19" column="53" />
+      </file>
+      <file name="$USER_HOME$/_dev/rust/spotify-data/Cargo.toml" timestamp="1518805488337">
+        <mark key="[" line="3" column="33" />
+      </file>
+      <file name="$USER_HOME$/_dev/rust/rust-kmeans/src/main.rs" timestamp="1520014037185">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="56" column="25" />
+        <mark key="]" line="56" column="25" />
+        <mark key="." line="56" column="25" />
+        <mark key="^" line="46" column="53" />
+      </file>
+      <file name="$USER_HOME$/_dev/rust/rust-lifx/src/main.rs" timestamp="1511297944511">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1519839862658">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="3" column="0" filename="$USER_HOME$/_dev/rust/rust-kmeans/src/main.rs" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4hKCJ7Oj99IiwgY2x1c3RlcnNfeCk7Cg==</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">ewogICAgZm4gZXEoJnNlbGYsIG90aGVyOiAmVm90ZXIpIC0+IGJvb2wgewogICAgICAgIHNlbGYucHJpb3JpdHkoKSA9PSBvdGhlci5wcmlvcml0eSgpCiAgICB9Cn0=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ewogICAgZm4gZXEoJnNlbGYsIG90aGVyOiAmVm90ZXIpIC0+IGJvb2wgewogICAgICAgIHNlbGYucHJpb3JpdHkoKSA9PSBvdGhlci5wcmlvcml0eSgpCiAgICB9Cn0=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wbCBFcSBmb3IgVm90ZXIgewo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnByaW9yaXR5KCkgPT0gb3RoZXIucHJpb3JpdHkoKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZuIGVxKCZzZWxmLCBvdGhlcjogJlZvdGVyKSAtPiBib29sIHsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBoaWdoZXIgZmlyc3QK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+  </component>
+</application>
