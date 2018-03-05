@@ -1,32 +1,56 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="Python 3.6.1 (/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6)" />
-      <type value="Python SDK" />
-      <version value="Python 3.6.1" />
-      <homePath value="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_121&quot;" />
+      <homePath value="$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home" />
       <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
         <classPath>
           <root type="composite">
-            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
-            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
-            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages" />
-            <root type="simple" url="jar:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/setuptools-28.8.0-py3.6.egg!/" />
-            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharmCE2017.2/python_stubs/-2010535109" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/jfxrt.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/zipfs.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jfxswt.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/lib/ant-javafx.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/lib/dt.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/lib/javafx-mx.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/lib/jconsole.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/lib/packager.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/lib/sa-jdi.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/lib/tools.jar!/" />
           </root>
         </classPath>
-        <sourcePath>
+        <javadocPath>
           <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/src.zip!/" />
+            <root type="simple" url="jar://$USER_HOME$/bin/jdk1.8.0_121.jdk/Contents/Home/javafx-src.zip!/" />
+          </root>
         </sourcePath>
       </roots>
       <additional />
