@@ -6,18 +6,21 @@
       <file name="$USER_HOME$/_dev/rust/rust-lifx/Cargo.toml" timestamp="1511297890566">
         <mark key="[" line="5" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519839919213">
+      <file name="/Dummy.txt" timestamp="1520285263380">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/windows/asp.net-cr-poc/CRViewerSimpleUsrParams.aspx.cs" timestamp="1520283137401" />
-      <file name="$USER_HOME$/_dev/windows/asp.net-cr-poc/CRViewer.aspx.cs" timestamp="1520271595159" />
+      <file name="$USER_HOME$/_dev/windows/asp.net-cr-poc/CRViewer.aspx.cs" timestamp="1520287463617" />
       <file name="$USER_HOME$/_dev/rust/rust-kmeans/Cargo.toml" timestamp="1519923130881">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/_dev/windows/cmdlinepdf/Program.cs" timestamp="1520274114425">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/_dev/windows/cmdlinepdf/Program.cs" timestamp="1520287599219">
+        <mark key="[" line="21" column="43" />
+        <mark key="]" line="21" column="37" />
+        <mark key="." line="21" column="37" />
+        <mark key="^" line="22" column="36" />
       </file>
       <file name="$USER_HOME$/_dev/rust/rust-kmeans/voters.csv" timestamp="1519744788384">
         <mark key="[" line="0" column="1" />
@@ -53,37 +56,37 @@
         <text encoding="base64">ICAgIHByaW50bG4hKCJ7Oj99IiwgY2x1c3RlcnNfeCk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ewogICAgZm4gZXEoJnNlbGYsIG90aGVyOiAmVm90ZXIpIC0+IGJvb2wgewogICAgICAgIHNlbGYucHJpb3JpdHkoKSA9PSBvdGhlci5wcmlvcml0eSgpCiAgICB9Cn0=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5CiAgICAgICAgICAgIHs=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ewogICAgZm4gZXEoJnNlbGYsIG90aGVyOiAmVm90ZXIpIC0+IGJvb2wgewogICAgICAgIHNlbGYucHJpb3JpdHkoKSA9PSBvdGhlci5wcmlvcml0eSgpCiAgICB9Cn0=</text>
+        <text>&quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wbCBFcSBmb3IgVm90ZXIgewo=</text>
+        <text encoding="base64">ZGRkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnByaW9yaXR5KCkgPT0gb3RoZXIucHJpb3JpdHkoKQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgLyogTm90IHN1cmUgaWYgaXQgbmVlZHMgdG8gbG9vcCB0aHJvdWdoIHN1YnJlcG9ydHMgYXMgdGhlIGFib3ZlIGRpZCBpdCBhbmQgd29ya3MuCiAgICAgICAgICAgIGZvcmVhY2ggKFJlcG9ydERvY3VtZW50IHN1YnJlcG9ydCBpbiBDUlNyYzIuUmVwb3J0RG9jdW1lbnQuU3VicmVwb3J0cykKICAgICAgICAgICAgewoKICAgICAgICAgICAgfQogICAgICAgICAgICAqLw==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGZuIGVxKCZzZWxmLCBvdGhlcjogJlZvdGVyKSAtPiBib29sIHsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ewogICAgZm4gZXEoJnNlbGYsIG90aGVyOiAmVm90ZXIpIC0+IGJvb2wgewogICAgICAgIHNlbGYucHJpb3JpdHkoKSA9PSBvdGhlci5wcmlvcml0eSgpCiAgICB9Cn0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBoaWdoZXIgZmlyc3QK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wbCBFcSBmb3IgVm90ZXIgewo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
     </registers>
     <search>
