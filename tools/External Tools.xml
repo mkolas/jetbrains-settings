@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="mypy" description="checks types" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="mypy" />
+      <option name="PARAMETERS" value="--ignore-missing-imports create.py" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/_dev/python/ice-json-create" />
+    </exec>
+  </tool>
+</toolSet>
