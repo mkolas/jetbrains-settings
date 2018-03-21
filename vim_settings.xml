@@ -249,11 +249,11 @@
         <mark key="^" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/extractconfigs.py" timestamp="1521577515169">
-        <mark key="[" line="26" column="93" />
-        <mark key="]" line="54" column="108" />
-        <mark key="^" line="54" column="108" />
-        <mark key="." line="54" column="108" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/extractconfigs.py" timestamp="1521638363448">
+        <mark key="[" line="54" column="41" />
+        <mark key="]" line="54" column="41" />
+        <mark key="^" line="54" column="40" />
+        <mark key="." line="54" column="41" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/transactions/trx.py" timestamp="1511894297927">
         <mark key="[" line="10" column="15" />
@@ -420,10 +420,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>primaryClinic</text>
