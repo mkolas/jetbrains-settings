@@ -349,10 +349,11 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/charting/perio.py" timestamp="1521730146178">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/charting/perio.py" timestamp="1521740591307">
+        <mark key="[" line="85" column="44" />
+        <mark key="]" line="85" column="44" />
+        <mark key="." line="85" column="44" />
+        <mark key="^" line="84" column="45" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/treatment/treatmentcodes.py" timestamp="1510342817775">
         <mark key="[" line="1" column="5" />
@@ -418,11 +419,11 @@
       <jump line="93" column="34" filename="$USER_HOME$/_dev/advent2017/21/art.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>E</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>E</text>
       </register>
       <register name="/" type="4">
         <text>primaryClinic</text>
