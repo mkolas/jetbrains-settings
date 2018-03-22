@@ -349,11 +349,10 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/charting/perio.py" timestamp="1521740591307">
-        <mark key="[" line="86" column="44" />
-        <mark key="]" line="86" column="44" />
-        <mark key="." line="86" column="44" />
-        <mark key="^" line="85" column="45" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/charting/perio.py" timestamp="1521747375621">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/treatment/treatmentcodes.py" timestamp="1510342817775">
         <mark key="[" line="1" column="5" />
@@ -419,8 +418,8 @@
       <jump line="93" column="34" filename="$USER_HOME$/_dev/advent2017/21/art.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>E</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjbGVhbmVkX21lYXN1cmVzID0gbGlzdCgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>E</text>
@@ -432,13 +431,13 @@
         <text encoding="base64">ICAgIG1vdXRoQXJlYXMgPSBmaWVsZHMuTWV0aG9kKCdnZXRfbW91dGhfYXJlYXMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGVhbmVkX21lYXN1cmVzID0gbGlzdCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNsZWFyIG91dCBmcmVtaXR1cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJGUkVNIjogIkZyZW1pdHVzIiwK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -453,10 +452,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRzID0gb2Muc2Vzc2lvbi5xdWVyeShkYl9tb2RlbCkuZmlsdGVyKCpmaWx0ZXJfKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
