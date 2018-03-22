@@ -311,7 +311,7 @@
         <mark key="^" line="43" column="12" />
         <mark key="." line="43" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521661131523">
+      <file name="/Dummy.txt" timestamp="1521729666549">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/euler/1-fizzbuzz.py" timestamp="1516203913077">
@@ -349,11 +349,10 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/charting/perio.py" timestamp="1521661155721">
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-        <mark key="^" line="88" column="22" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/charting/perio.py" timestamp="1521730146178">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/treatment/treatmentcodes.py" timestamp="1510342817775">
         <mark key="[" line="1" column="5" />
@@ -420,7 +419,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>g</text>
@@ -432,33 +431,31 @@
         <text encoding="base64">ICAgIG1vdXRoQXJlYXMgPSBmaWVsZHMuTWV0aG9kKCdnZXRfbW91dGhfYXJlYXMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRzID0gb2Muc2Vzc2lvbi5xdWVyeShkYl9tb2RlbCkuZmlsdGVyKCpmaWx0ZXJfKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHlsYWIuc2NhdHRlcihYLCBjPWNvbG9ycykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXguc2NhdHRlcihYWzosIDBdLCBYWzosIDFdLCBYWzosIDJdLCBjPXkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">WklQLExBVCxMTkcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>°
-Longitude:</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZGQK</text>
       </register>
-      <register name="9" type="4">
-        <text>°
-Longitude:</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXN1bHRzID0gb2Muc2Vzc2lvbi5xdWVyeShkYl9tb2RlbCkuZmlsdGVyKCpmaWx0ZXJfKQo=</text>
       </register>
     </registers>
     <search>
