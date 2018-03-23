@@ -290,10 +290,10 @@
         <mark key="^" line="46" column="39" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/patient/patient.py" timestamp="1519055938235">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/patient/patient.py" timestamp="1521816721799">
+        <mark key="[" line="84" column="75" />
+        <mark key="]" line="84" column="75" />
+        <mark key="." line="84" column="75" />
         <mark key="^" line="84" column="27" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/orthopmt.py" timestamp="1506359067673">
@@ -419,11 +419,11 @@
       <jump line="93" column="34" filename="$USER_HOME$/_dev/advent2017/21/art.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjbGVhbmVkX21lYXN1cmVzID0gbGlzdCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>primaryClinic</text>
