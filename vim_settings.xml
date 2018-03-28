@@ -134,11 +134,11 @@
         <mark key="]" line="148" column="0" />
         <mark key="." line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/appointments.py" timestamp="1522243684291">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/appointments.py" timestamp="1522254974246">
+        <mark key="[" line="83" column="41" />
+        <mark key="]" line="73" column="0" />
         <mark key="^" line="33" column="22" />
-        <mark key="." line="34" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/notes/notes.py" timestamp="1517243350935">
         <mark key="[" line="58" column="98" />
@@ -169,10 +169,10 @@
       <file name="$USER_HOME$/_dev/python/python-ml/keras-dogcat.py" timestamp="1518453845149">
         <mark key="[" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/alchemy/oracleconnector.py" timestamp="1517844467738">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/alchemy/oracleconnector.py" timestamp="1522253829712">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/docs/conf.py" timestamp="1506438861272">
         <mark key="[" line="51" column="11" />
@@ -362,10 +362,11 @@
       <file name="$USER_HOME$/_dev/euler/618-primefactorsum.py" timestamp="1516212441249">
         <mark key="[" line="47" column="26" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/alchemy/decorators.py" timestamp="1522247600643">
-        <mark key="[" line="61" column="50" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/alchemy/decorators.py" timestamp="1522254421085">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="56" column="19" />
       </file>
       <file name="$USER_HOME$/_dev/advent2017/15/pickygenerators.py" timestamp="1515171345201">
         <mark key="[" line="19" column="17" />
@@ -417,11 +418,11 @@
       <jump line="93" column="34" filename="$USER_HOME$/_dev/advent2017/21/art.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByTGlzdCA9IGZpZWxkcy5NZXRob2QoJ2dldF9yZXNvdXJjZXMnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>primaryClinic</text>
@@ -430,31 +431,31 @@
         <text encoding="base64">ICAgIG1vdXRoQXJlYXMgPSBmaWVsZHMuTWV0aG9kKCdnZXRfbW91dGhfYXJlYXMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5ld19kYXRhID0gbGlzdCgpCg==</text>
+        <text encoding="base64">ICAgIHByTGlzdCA9IGZpZWxkcy5NZXRob2QoJ2dldF9yZXNvdXJjZXMnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAjIGxhc3RseSwgc2VkYXRpb24gY2FzZQogICAgICAgIGlmIGFwcG9pbnRtZW50LnN0YXR1cyA9PSBjLkFYX1NFRDoKICAgICAgICAgICAgcHJfbGlzdC5hcHBlbmQocmVzb3VyY2UoYy5JQ0VfU0VEX1JFU09VUkNFKSkKCiAgICAgICAgcmV0dXJuIHByX2xpc3Q=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJfbGlzdC5hcHBlbmQocHJvdmlkZXIoYXBwb2ludG1lbnQucHJvdmlkZXJfaWQuc3RyaXAoKVsxOl0ubG93ZXIoKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgndmFsdWU9Jyt2YWx1ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpZiB3ZSdyZSBsb29raW5nIGF0IGEgQ0hBSVIgb3IgQk9USCwgdGhlbiBncmFiIHRoZSBjaGFpcgo=</text>
+        <text encoding="base64">ZW5naW5lID0gY3JlYXRlX2VuZ2luZSgnb3JhY2xlOi8vbWtvbGFzOlBob3NwaGF0MyFAYXhpdW1fbGl2ZScpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBWSUVXX0RJQ1Rbc2VsZi5nZXRfY2xpbmljKGFwcG9pbnRtZW50KV0gIT0gYy5DSEFJUjoK</text>
+        <text encoding="base64">ICAgIG5ld19kYXRhID0gbGlzdCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByX2xpc3QuYXBwZW5kKHByb3ZpZGVyKGFwcG9pbnRtZW50LmFzc2lzdGFudFsxOl0ubG93ZXIoKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgYXBwb2ludG1lbnQuYXNzaXN0YW50WzE6XS5sb3dlcigpICE9ICIiOgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
     <search>
