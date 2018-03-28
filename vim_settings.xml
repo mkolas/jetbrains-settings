@@ -47,11 +47,11 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/create.py" timestamp="1517345834020">
-        <mark key="[" line="98" column="11" />
-        <mark key="]" line="68" column="0" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/create.py" timestamp="1522251274549">
+        <mark key="[" line="46" column="44" />
+        <mark key="]" line="46" column="44" />
         <mark key="^" line="65" column="17" />
-        <mark key="." line="68" column="0" />
+        <mark key="." line="46" column="44" />
       </file>
       <file name="$USER_HOME$/_dev/advent2017/13/firewall2.py" timestamp="1513190182004">
         <mark key="[" line="55" column="0" />
@@ -208,11 +208,11 @@
         <mark key="]" line="53" column="22" />
         <mark key="." line="53" column="22" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/mapfunctions.py" timestamp="1522079044130">
-        <mark key="[" line="54" column="6" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-        <mark key="^" line="65" column="1" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/mapfunctions.py" timestamp="1522251478101">
+        <mark key="[" line="16" column="40" />
+        <mark key="]" line="16" column="41" />
+        <mark key="." line="16" column="41" />
+        <mark key="^" line="16" column="40" />
       </file>
       <file name="$USER_HOME$/_dev/advent2017/22/virus.py" timestamp="1515179709134">
         <mark key="[" line="48" column="3" />
@@ -418,10 +418,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>primaryClinic</text>
@@ -430,31 +430,31 @@
         <text encoding="base64">ICAgIG1vdXRoQXJlYXMgPSBmaWVsZHMuTWV0aG9kKCdnZXRfbW91dGhfYXJlYXMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIG5ld19kYXRhID0gbGlzdCgpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJfbGlzdC5hcHBlbmQocHJvdmlkZXIoYXBwb2ludG1lbnQucHJvdmlkZXJfaWQuc3RyaXAoKVsxOl0ubG93ZXIoKSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpZiB3ZSdyZSBsb29raW5nIGF0IGEgQ0hBSVIgb3IgQk9USCwgdGhlbiBncmFiIHRoZSBjaGFpcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJfbGlzdC5hcHBlbmQocHJvdmlkZXIoYXBwb2ludG1lbnQucHJvdmlkZXJfaWQuc3RyaXAoKVsxOl0ubG93ZXIoKSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBWSUVXX0RJQ1Rbc2VsZi5nZXRfY2xpbmljKGFwcG9pbnRtZW50KV0gIT0gYy5DSEFJUjoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBpZiB3ZSdyZSBsb29raW5nIGF0IGEgQ0hBSVIgb3IgQk9USCwgdGhlbiBncmFiIHRoZSBjaGFpcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByX2xpc3QuYXBwZW5kKHByb3ZpZGVyKGFwcG9pbnRtZW50LmFzc2lzdGFudFsxOl0ubG93ZXIoKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBWSUVXX0RJQ1Rbc2VsZi5nZXRfY2xpbmljKGFwcG9pbnRtZW50KV0gIT0gYy5DSEFJUjoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgYXBwb2ludG1lbnQuYXNzaXN0YW50WzE6XS5sb3dlcigpICE9ICIiOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByX2xpc3QuYXBwZW5kKHByb3ZpZGVyKGFwcG9pbnRtZW50LmFzc2lzdGFudFsxOl0ubG93ZXIoKSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBWSUVXX0RJQ1Rbc2VsZi5nZXRfY2xpbmljKGFwcG9pbnRtZW50KV0gPT0gYy5PUkFMU1VSRzoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgYXBwb2ludG1lbnQuYXNzaXN0YW50WzE6XS5sb3dlcigpICE9ICIiOgo=</text>
       </register>
     </registers>
     <search>
