@@ -134,11 +134,11 @@
         <mark key="]" line="148" column="0" />
         <mark key="." line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/appointments.py" timestamp="1522262864253">
-        <mark key="[" line="87" column="12" />
-        <mark key="]" line="87" column="37" />
-        <mark key="." line="87" column="37" />
-        <mark key="^" line="87" column="37" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/appointments.py" timestamp="1522268188796">
+        <mark key="[" line="91" column="96" />
+        <mark key="]" line="91" column="97" />
+        <mark key="." line="91" column="97" />
+        <mark key="^" line="91" column="97" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/notes/notes.py" timestamp="1517243350935">
         <mark key="[" line="58" column="98" />
@@ -419,10 +419,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>primaryClinic</text>
