@@ -197,10 +197,10 @@
         <mark key="^" line="12" column="59" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/providers/providercustomfields.py" timestamp="1522862196166">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="12" column="23" />
-        <mark key="^" line="12" column="23" />
-        <mark key="." line="12" column="23" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="15" column="23" />
+        <mark key="^" line="15" column="23" />
+        <mark key="." line="15" column="23" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/configs.py" timestamp="1505938004495">
         <mark key="[" line="19" column="38" />
@@ -213,8 +213,8 @@
         <mark key="]" line="53" column="22" />
         <mark key="." line="53" column="22" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/mapfunctions.py" timestamp="1522251478101">
-        <mark key="[" line="16" column="40" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/mapfunctions.py" timestamp="1522863327516">
+        <mark key="[" line="171" column="0" />
         <mark key="]" line="16" column="41" />
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="40" />
