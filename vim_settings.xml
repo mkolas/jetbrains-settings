@@ -212,11 +212,10 @@
         <mark key="]" line="53" column="22" />
         <mark key="." line="53" column="22" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/mapfunctions.py" timestamp="1522938774312">
-        <mark key="[" line="22" column="37" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="33" column="0" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/mapfunctions.py" timestamp="1522942567046">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/advent2017/22/virus.py" timestamp="1515179709134">
         <mark key="[" line="48" column="3" />
@@ -252,11 +251,11 @@
         <mark key="^" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/extractconfigs.py" timestamp="1522856539002">
-        <mark key="[" line="47" column="80" />
-        <mark key="]" line="2" column="25" />
-        <mark key="^" line="2" column="29" />
-        <mark key="." line="2" column="25" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/extractconfigs.py" timestamp="1522942700481">
+        <mark key="[" line="33" column="84" />
+        <mark key="]" line="33" column="72" />
+        <mark key="^" line="33" column="0" />
+        <mark key="." line="33" column="72" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/transactions/trx.py" timestamp="1511894297927">
         <mark key="[" line="10" column="15" />
@@ -429,10 +428,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>primaryClinic</text>
@@ -441,31 +440,31 @@
         <text encoding="base64">ICAgIG1vdXRoQXJlYXMgPSBmaWVsZHMuTWV0aG9kKCdnZXRfbW91dGhfYXJlYXMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHJlCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBqc29uX2V4dHJhY3QucHJvdmlkZXJzLnByb3ZpZGVycyBpbXBvcnQgUHJvdmlkZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBqc29uX2V4dHJhY3QucHJvdmlkZXJzLnByb3ZpZGVycyBpbXBvcnQgUHJvdmlkZXIK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbCA9IFByb3ZpZGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbCA9IFByb3ZpZGVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpcnN0WWVhcgo=</text>
+        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpc2NhbFllYXIK</text>
+        <text encoding="base64">ICAgIGZpcnN0WWVhcgo=</text>
       </register>
     </registers>
     <search>
