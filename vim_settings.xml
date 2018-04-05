@@ -196,11 +196,10 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="12" column="59" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/providers/providercustomfields.py" timestamp="1522934631024">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="23" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/providers/providercustomfields.py" timestamp="1522935710913">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/configs.py" timestamp="1505938004495">
         <mark key="[" line="19" column="38" />
@@ -448,25 +447,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbCA9IFByb3ZpZGVyCg==</text>
+        <text encoding="base64">ZnJvbSBqc29uX2V4dHJhY3QucHJvdmlkZXJzLnByb3ZpZGVycyBpbXBvcnQgUHJvdmlkZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpcnN0WWVhcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpc2NhbFllYXIK</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbCA9IFByb3ZpZGVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBtYXJzaG1hbGxvd19zcWxhbGNoZW15IGltcG9ydCBNb2RlbFNjaGVtYQo=</text>
+        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpcnN0WWVhcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpc2NhbFllYXIK</text>
       </register>
     </registers>
     <search>
