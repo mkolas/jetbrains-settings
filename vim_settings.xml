@@ -41,11 +41,10 @@
       <file name="/a.dummy" timestamp="1522950980814">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/python-scratchpad/2018-04-06-playgroundfees/export_to_csv.py" timestamp="1523037309879">
-        <mark key="[" line="15" column="48" />
-        <mark key="]" line="15" column="24" />
-        <mark key="." line="15" column="24" />
-        <mark key="^" line="15" column="24" />
+      <file name="$USER_HOME$/_dev/python/python-scratchpad/2018-04-06-playgroundfees/export_to_csv.py" timestamp="1523038659089">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="7" column="4" />
       </file>
       <file name="$USER_HOME$/_dev/python/kmeans-mich-voters/parsevoters.py" timestamp="1519064980888">
         <mark key="[" line="35" column="0" />
@@ -64,6 +63,7 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/_dev/python/python-scratchpad/2018-04-06-playgroundfees/fee-schedules_split1.json" timestamp="1523038456194" />
       <file name="$USER_HOME$/_dev/advent2017/05/maze.py" timestamp="1515169384197">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="14" column="0" />
@@ -442,10 +442,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>primaryClinic</text>
@@ -454,31 +454,31 @@
         <text encoding="base64">ICAgIG1vdXRoQXJlYXMgPSBmaWVsZHMuTWV0aG9kKCdnZXRfbW91dGhfYXJlYXMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2NoZWR1bGUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb2Rlc1tjb2RlWydjb2RlJ11dLmFwcGVuZChjb2RlWydyYXRlJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29kZWRpY3RbY29kZV0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZlZXMgPSAiLCIuam9pbihjb2RlXWkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpbGUuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHJlCg==</text>
+        <text encoding="base64">ICAgICAgICBjb2Rlc1tjb2RlWydjb2RlJ11dLmFwcGVuZChjb2RlWydyYXRlJ10pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZlZXMgPSAiLCIuam9pbihjb2RlXWkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpbGUuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBqc29uX2V4dHJhY3QucHJvdmlkZXJzLnByb3ZpZGVycyBpbXBvcnQgUHJvdmlkZXIK</text>
+        <text encoding="base64">aW1wb3J0IHJlCg==</text>
       </register>
     </registers>
     <search>
