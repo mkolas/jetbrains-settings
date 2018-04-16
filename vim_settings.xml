@@ -64,7 +64,6 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/python-scratchpad/2018-04-06-playgroundfees/fee-schedules_split1.json" timestamp="1523038456194" />
       <file name="$USER_HOME$/_dev/advent2017/05/maze.py" timestamp="1515169384197">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="14" column="0" />
@@ -229,6 +228,7 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="3" column="14" />
       </file>
+      <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1523884981353" />
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/procedure/procedures.py" timestamp="1522683203408">
         <mark key="[" line="87" column="0" />
         <mark key="]" line="83" column="36" />
@@ -255,6 +255,12 @@
         <mark key="]" line="81" column="0" />
         <mark key="^" line="81" column="0" />
         <mark key="." line="81" column="0" />
+      </file>
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/events.py" timestamp="1523885917851">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="65" />
+        <mark key="^" line="7" column="65" />
+        <mark key="." line="7" column="65" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/extractconfigs.py" timestamp="1523460857803">
         <mark key="[" line="48" column="89" />
