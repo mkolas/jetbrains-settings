@@ -262,11 +262,10 @@
         <mark key="^" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/events.py" timestamp="1524155554881">
-        <mark key="[" line="30" column="28" />
-        <mark key="]" line="5" column="28" />
-        <mark key="." line="5" column="28" />
-        <mark key="^" line="5" column="28" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/events.py" timestamp="1524156978902">
+        <mark key="[" line="40" column="38" />
+        <mark key="]" line="40" column="38" />
+        <mark key="." line="40" column="38" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/extractconfigs.py" timestamp="1523460857803">
         <mark key="[" line="48" column="89" />
@@ -454,10 +453,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>primaryClinic</text>
@@ -466,31 +465,31 @@
         <text encoding="base64">ICAgIG1vdXRoQXJlYXMgPSBmaWVsZHMuTWV0aG9kKCdnZXRfbW91dGhfYXJlYXMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHJhbmRvbQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm5fb2JqZWN0WydyZXNvdXJjZXMnXSA9IFtzZWxmLmdldF9yZXNvdXJjZV9ibG9jayhvYmosIHN0YXJ0X3RpbWUsIGVuZF90aW1lKV0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">aW1wb3J0IHJhbmRvbQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAiRmVtYWxlIgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIkZlbWFsZSIK</text>
+        <text encoding="base64">ICAgIHJldHVybiAiRmVtYWxlIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIHJhbmRvbS5yYW5kb20oKSA+IC41Ogo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIkZlbWFsZSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIk90aGVyIgo=</text>
+        <text encoding="base64">ICAgIGlmIHJhbmRvbS5yYW5kb20oKSA+IC41Ogo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIHJhbmRvbS5yYW5kb20oKSA8IDAuMDU6Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIk90aGVyIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGdldF9nZW5kZXIoKToK</text>
+        <text encoding="base64">ICAgIGlmIHJhbmRvbS5yYW5kb20oKSA8IDAuMDU6Cg==</text>
       </register>
     </registers>
     <search>
