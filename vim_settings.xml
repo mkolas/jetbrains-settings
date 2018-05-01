@@ -149,11 +149,10 @@
         <mark key="]" line="82" column="21" />
         <mark key="." line="82" column="21" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/notes/notes.py" timestamp="1525191647067">
-        <mark key="[" line="71" column="18" />
-        <mark key="]" line="71" column="57" />
-        <mark key="^" line="71" column="57" />
-        <mark key="." line="71" column="57" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/notes/notes.py" timestamp="1525192943868">
+        <mark key="[" line="38" column="55" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/Jenkinsfile" timestamp="1515431785261">
         <mark key="[" line="4" column="32" />
@@ -459,11 +458,11 @@
       <jump line="13" column="4" filename="$USER_HOME$/_dev/python/ice-json-create/json_extract/providers/customfields.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s =</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>s =</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>primaryClinic</text>
@@ -472,31 +471,31 @@
         <text encoding="base64">ICAgIG1vdXRoQXJlYXMgPSBmaWVsZHMuTWV0aG9kKCdnZXRfbW91dGhfYXJlYXMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZm9ybS5wYXRpZW50LmluZGl2aWR1YWxDb2RlCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIGZvcm0ucGF0aWVudCBpcyBub3QgTm9uZToK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGdldF9pbmRpdmlkdWFsX2NvZGUoZm9ybTogVW5pb25bQWRtaW5Ob3RlLCBUcmFuc2FjdGlvbk5vdGVdKSAtPiBVbmlvbltzdHIsIE5vbmVdOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZvcm0ucGF0aWVudC5pbmRpdmlkdWFsQ29kZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBmb3JtLnBhdGllbnQgaXMgbm90IE5vbmU6Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IyBjbGFzcyBOb3RlKEJhc2UpOgojICAgICBfX3RhYmxlbmFtZV9fID0gJ25vdGVzMicKIwojICAgICBub3RlX2lkID0gQ29sdW1uKEludGVnZXIsIG5hbWU9IkF1dG8iLCBwcmltYXJ5X2tleT1UcnVlKQojICAgICB0ZXh0ID0gQ29sdW1uKFN0cmluZywgbmFtZT0iVGV4dCIpCiMgICAgIHR5cGUgPSBDb2x1bW4oSW50ZWdlciwgbmFtZT0iVHlwZSIpCiMgICAgIHRpbWUgPSBDb2x1bW4oSW50ZWdlciwgbmFtZT0iRlRpbWUiKQojICAgICBwYXRpZW50Ml9pZCA9IENvbHVtbihJbnRlZ2VyLCBGb3JlaWduS2V5KCJwYXRpZW50Mi5BdXRvIiksIG5hbWU9IlBJZCIpCiMgICAgIHBhdGllbnQyID0gcmVsYXRpb25zaGlwKCJQYXRpZW50MiIpCiMKIwojIGNsYXNzIE5vdGVTY2hlbWEoTW9kZWxTY2hlbWEpOgojICAgICBpbmRpdmlkdWFsQ29kZSA9IGZpZWxkcy5NZXRob2QoJ2dldF9jaGFydCcpCiMKIyAgICAgQHN0YXRpY21ldGhvZAojICAgICBkZWYgZ2V0X2NoYXJ0KG5vdGU6IE5vdGUpIC0+IHN0cjoKIyAgICAgICAgIHByaW50KG5vdGUucGF0aWVudDIucGF0aWVudCkKIyAgICAgICAgIHJldHVybiBub3RlLnBhdGllbnQyLnBhdGllbnQuaW5kaXZpZHVhbENvZGUKIwojICAgICBjbGFzcyBNZXRhOgoKIyAgICAgICAgIG1vZGVsID0gTm90ZQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZXRfaW5kaXZpZHVhbF9jb2RlKGZvcm06IEFkbWluTm90ZSkgLT4gc3RyOgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGR0Lm1pbi50aW1lKCkpICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRkKG1pbnV0ZXM9b2JqWydlbmRUaW1lJ10p</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
