@@ -315,9 +315,10 @@
         <mark key="^" line="46" column="39" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/patient/patient.py" timestamp="1527270320673">
-        <mark key="]" line="97" column="39" />
-        <mark key="." line="97" column="39" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/patient/patient.py" timestamp="1527271446873">
+        <mark key="[" line="146" column="52" />
+        <mark key="]" line="146" column="52" />
+        <mark key="." line="146" column="52" />
         <mark key="^" line="97" column="39" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/orthopmt.py" timestamp="1506359067673">
@@ -458,11 +459,11 @@
       <jump line="13" column="4" filename="$USER_HOME$/_dev/python/ice-json-create/json_extract/providers/customfields.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRhdGVPZkJpcnRoID0gZmllbGRzLkZ1bmN0aW9uKGxhbWJkYSB4OiBkYXRlKDE5MDEsIDEsIDEpIGlmIG5vdCB4IGVsc2UgeCkK</text>
+      <register name="&quot;" type="4">
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>primaryClinic</text>
