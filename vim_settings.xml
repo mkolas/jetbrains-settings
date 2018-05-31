@@ -274,6 +274,12 @@
         <mark key="." line="43" column="51" />
         <mark key="^" line="43" column="51" />
       </file>
+      <file name="$USER_HOME$/_dev/python/rainwater/rainwater.py" timestamp="1527795452827">
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="10" column="19" />
+      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/extractconfigs.py" timestamp="1527786654712">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
@@ -393,6 +399,11 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="3" />
       </file>
+      <file name="$USER_HOME$/_dev/python/rainwater/sample.txt" timestamp="1527793283403">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/treatment/treatmentcodes.py" timestamp="1510342817775">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="1" column="17" />
@@ -459,11 +470,11 @@
       <jump line="13" column="4" filename="$USER_HOME$/_dev/python/ice-json-create/json_extract/providers/customfields.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJjYXVnaHQiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>primaryClinic</text>
@@ -472,31 +483,31 @@
         <text encoding="base64">ICAgIG1vdXRoQXJlYXMgPSBmaWVsZHMuTWV0aG9kKCdnZXRfbW91dGhfYXJlYXMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGVPZkJpcnRoID0gZmllbGRzLkZ1bmN0aW9uKGxhbWJkYSB4OiBkYXRlKDE5MDEsIDEsIDEpIGlmIG5vdCB4IGVsc2UgeCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJjYXVnaHQiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRhdGVPZkJpcnRoID0gZmllbGRzLkZ1bmN0aW9uKGxhbWJkYSB4OiBkYXRlKDE5MDEsIDEsIDEpIGlmIG5vdCB4IGVsc2UgeCkK</text>
+        <text encoding="base64">cHJpbnQoZWxldmF0aW9ucykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZAo=</text>
+        <text encoding="base64">ICAgIG1hcF8uYXBwZW5kKG1hcF9yb3cpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaW50KG1hcF9yb3cpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwX3Jvdy4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZvcm0ucGF0aWVudC5pbmRpdmlkdWFsQ29kZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwX3Jvdy5hcHBlbmQoJ3gnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBmb3JtLnBhdGllbnQgaXMgbm90IE5vbmU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfaW5kaXZpZHVhbF9jb2RlKGZvcm06IEFkbWluTm90ZSkgLT4gc3RyOgo=</text>
+        <text encoding="base64">ICAgIGZvciB4IGluIHJhbmdlKGxlbihlbGV2YXRpb25zKSk6ICAjIGdldCB3aWR0aCBvZiBtYXAK</text>
       </register>
     </registers>
     <search>
