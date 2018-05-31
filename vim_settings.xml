@@ -274,11 +274,11 @@
         <mark key="." line="43" column="51" />
         <mark key="^" line="43" column="51" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/extractconfigs.py" timestamp="1527782064969">
-        <mark key="[" line="40" column="72" />
-        <mark key="]" line="35" column="41" />
-        <mark key="^" line="61" column="71" />
-        <mark key="." line="35" column="41" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/extractconfigs.py" timestamp="1527786654712">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="67" column="38" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/transactions/trx.py" timestamp="1511894297927">
         <mark key="[" line="10" column="15" />
@@ -387,8 +387,8 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/charting/perio.py" timestamp="1527782534515">
-        <mark key="[" line="81" column="0" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/charting/perio.py" timestamp="1527786478911">
+        <mark key="[" line="39" column="21" />
         <mark key="]" line="14" column="3" />
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="3" />
@@ -460,10 +460,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
         <text>primaryClinic</text>
