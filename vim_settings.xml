@@ -149,12 +149,7 @@
         <mark key="]" line="82" column="21" />
         <mark key="." line="82" column="21" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/notes/notes.py" timestamp="1528123144260">
-        <mark key="[" line="69" column="18" />
-        <mark key="]" line="69" column="23" />
-        <mark key="^" line="69" column="23" />
-        <mark key="." line="69" column="23" />
-      </file>
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/notes/notes.py" timestamp="1528124467181" />
       <file name="$USER_HOME$/_dev/python/ice-json-create/Jenkinsfile" timestamp="1515431785261">
         <mark key="[" line="4" column="32" />
         <mark key="]" line="0" column="4" />
@@ -472,10 +467,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Function</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Function</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>primaryClinic</text>
