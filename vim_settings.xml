@@ -144,10 +144,10 @@
         <mark key="]" line="164" column="0" />
         <mark key="." line="164" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/appointments.py" timestamp="1524682243294">
-        <mark key="[" line="82" column="21" />
-        <mark key="]" line="82" column="21" />
-        <mark key="." line="82" column="21" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/appointments.py" timestamp="1528383807789">
+        <mark key="[" line="109" column="20" />
+        <mark key="]" line="109" column="20" />
+        <mark key="." line="109" column="20" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/notes/notes.py" timestamp="1528126473260">
         <mark key="[" line="17" column="29" />
@@ -471,11 +471,11 @@
       <jump line="13" column="4" filename="$USER_HOME$/_dev/python/ice-json-create/json_extract/providers/customfields.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBlcm1hbmVudF9tYXAgPSBDb2x1bW4oVG9vdGhNYXAsIG5hbWU9IlBlcm1hbmVudFN0YXRlIikK</text>
+      <register name="&quot;" type="4">
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>primaryClinic</text>
