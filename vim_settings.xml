@@ -278,11 +278,10 @@
         <mark key="^" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/events.py" timestamp="1524667196286">
-        <mark key="[" line="43" column="51" />
-        <mark key="]" line="43" column="51" />
-        <mark key="." line="43" column="51" />
-        <mark key="^" line="43" column="51" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/events.py" timestamp="1528908138196">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/rainwater/rainwater.py" timestamp="1527867836584">
         <mark key="[" line="17" column="14" />
@@ -290,11 +289,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/extractconfigs.py" timestamp="1528743989654">
-        <mark key="[" line="61" column="9" />
-        <mark key="]" line="60" column="49" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/extractconfigs.py" timestamp="1528908087883">
+        <mark key="[" line="5" column="103" />
+        <mark key="]" line="5" column="103" />
         <mark key="^" line="60" column="49" />
-        <mark key="." line="60" column="49" />
+        <mark key="." line="5" column="103" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/transactions/trx.py" timestamp="1511894297927">
         <mark key="[" line="10" column="15" />
@@ -475,18 +474,11 @@
       <jump line="630" column="4" filename="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/scheduledicts.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d = 0
-        while True:
-            print(s[i:d])
-            if len(s[i:d]) == len(set(s[i:d])):
-                longest = d
-                d += 1
-            else:
-                break</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>, NoteCode</text>
       </register>
       <register name="/" type="4">
         <text>primaryClinic</text>
@@ -494,7 +486,10 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1vdXRoQXJlYXMgPSBmaWVsZHMuTWV0aG9kKCdnZXRfbW91dGhfYXJlYXMnKQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>d = 0
         while True:
             print(s[i:d])
@@ -504,30 +499,27 @@
             else:
                 break</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHRleHQgPSBDb2x1bW4oU3RyaXBwZWRTdHJpbmcsIG5hbWU9IlRleHQiKSAgIyB0ZXh0IG9mIG5vdGVjb2RlLSB3b24ndCB1c2UgdGhpCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>)
     active</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZWRCeUNvZGUgPSBmaWVsZHMuQ29uc3RhbnQoIm1rb2xhcyIpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIGNyZWF0ZWRCeUNvZGUgPSBmaWVsZHMuQ29uc3RhbnQoIm1rb2xhcyIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBlcm1hbmVudF9tYXAgPSBDb2x1bW4oVG9vdGhNYXAsIG5hbWU9IlBlcm1hbmVudFN0YXRlIikK</text>
+        <text encoding="base64">ICAgIGNyZWF0ZWRCeUNvZGUgPSBmaWVsZHMuQ29uc3RhbnQoIm1rb2xhcyIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW1hcnlfbWFwID0gQ29sdW1uKFRvb3RoTWFwLCBuYW1lPSJQcmltYXJ5U3RhdGUiKQo=</text>
+        <text encoding="base64">ICAgIHBlcm1hbmVudF9tYXAgPSBDb2x1bW4oVG9vdGhNYXAsIG5hbWU9IlBlcm1hbmVudFN0YXRlIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRlZXRoID0gZmllbGRzLk1ldGhvZCgnbWVyZ2VfbWFwcycpCg==</text>
+        <text encoding="base64">ICAgIHByaW1hcnlfbWFwID0gQ29sdW1uKFRvb3RoTWFwLCBuYW1lPSJQcmltYXJ5U3RhdGUiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRoCg==</text>
+        <text encoding="base64">ICAgIHRlZXRoID0gZmllbGRzLk1ldGhvZCgnbWVyZ2VfbWFwcycpCg==</text>
       </register>
     </registers>
     <search>
