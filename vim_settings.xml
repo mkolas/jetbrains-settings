@@ -292,11 +292,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/extractconfigs.py" timestamp="1529431087500">
-        <mark key="[" line="52" column="37" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="60" column="49" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/extractconfigs.py" timestamp="1529437860832">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="36" column="1" />
+        <mark key="^" line="36" column="1" />
+        <mark key="." line="36" column="1" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/transactions/trx.py" timestamp="1511894297927">
         <mark key="[" line="10" column="15" />
