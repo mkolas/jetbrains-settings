@@ -240,11 +240,10 @@
         <mark key="]" line="53" column="22" />
         <mark key="." line="53" column="22" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/mapfunctions.py" timestamp="1529698341099">
-        <mark key="[" line="25" column="77" />
-        <mark key="]" line="216" column="0" />
-        <mark key="." line="216" column="0" />
-        <mark key="^" line="216" column="0" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/mapfunctions.py" timestamp="1529939855252">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/advent2017/22/virus.py" timestamp="1515179709134">
         <mark key="[" line="48" column="3" />
@@ -480,8 +479,8 @@
       <jump line="630" column="4" filename="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/scheduledicts.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KGpzb25fb2JqZWN0KQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -493,18 +492,21 @@
         <text encoding="base64">ICAgIG1vdXRoQXJlYXMgPSBmaWVsZHMuTWV0aG9kKCdnZXRfbW91dGhfYXJlYXMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChvYmopCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGpzb25fb2JqZWN0KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KG9iaikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChvYmopCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGF0ZSxzdGFydFRpbWUsZW5kVGltZSxwcm92aWRlcix0aXRsZSxkZXNjcmlwdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KG9iaikK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ZGF0ZSxzdGFydFRpbWUsZW5kVGltZSxwcm92aWRlcix0aXRsZSxkZXNjcmlwdGlvbgo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>d = 0
         while True:
             print(s[i:d])
@@ -514,15 +516,12 @@
             else:
                 break</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHRleHQgPSBDb2x1bW4oU3RyaXBwZWRTdHJpbmcsIG5hbWU9IlRleHQiKSAgIyB0ZXh0IG9mIG5vdGVjb2RlLSB3b24ndCB1c2UgdGhpCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>)
     active</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZWRCeUNvZGUgPSBmaWVsZHMuQ29uc3RhbnQoIm1rb2xhcyIpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIGNyZWF0ZWRCeUNvZGUgPSBmaWVsZHMuQ29uc3RhbnQoIm1rb2xhcyIpCg==</text>
