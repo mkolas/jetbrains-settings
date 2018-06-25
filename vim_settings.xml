@@ -240,11 +240,11 @@
         <mark key="]" line="53" column="22" />
         <mark key="." line="53" column="22" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/mapfunctions.py" timestamp="1529940553794">
-        <mark key="[" line="33" column="89" />
-        <mark key="]" line="33" column="75" />
-        <mark key="." line="33" column="75" />
-        <mark key="^" line="33" column="75" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/mapfunctions.py" timestamp="1529943009793">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="29" column="21" />
       </file>
       <file name="$USER_HOME$/_dev/advent2017/22/virus.py" timestamp="1515179709134">
         <mark key="[" line="48" column="3" />
@@ -292,11 +292,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/extractconfigs.py" timestamp="1529940758138">
-        <mark key="[" line="53" column="97" />
-        <mark key="]" line="53" column="97" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/extractconfigs.py" timestamp="1529942438853">
+        <mark key="[" line="53" column="98" />
+        <mark key="]" line="53" column="98" />
         <mark key="^" line="37" column="1" />
-        <mark key="." line="53" column="97" />
+        <mark key="." line="53" column="98" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/transactions/trx.py" timestamp="1511894297927">
         <mark key="[" line="10" column="15" />
@@ -480,11 +480,11 @@
       <jump line="630" column="4" filename="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/scheduledicts.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KGpzb25fb2JqZWN0KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>primaryClinic</text>
@@ -496,18 +496,24 @@
         <text encoding="base64">ICAgIHByaW50KGpzb25fb2JqZWN0KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChvYmopCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBrZXkgaXMgbm90ICdpbmRpdmlkdWFsQ29kZSc6ICAjIHNraXAgSUMgaGVyZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KG9iaikK</text>
+        <text encoding="base64">ICAgIHByaW50KGpzb25fb2JqZWN0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGF0ZSxzdGFydFRpbWUsZW5kVGltZSxwcm92aWRlcix0aXRsZSxkZXNjcmlwdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChvYmopCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjIHByaW50KG9iaikK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGF0ZSxzdGFydFRpbWUsZW5kVGltZSxwcm92aWRlcix0aXRsZSxkZXNjcmlwdGlvbgo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>d = 0
         while True:
             print(s[i:d])
@@ -517,15 +523,8 @@
             else:
                 break</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRleHQgPSBDb2x1bW4oU3RyaXBwZWRTdHJpbmcsIG5hbWU9IlRleHQiKSAgIyB0ZXh0IG9mIG5vdGVjb2RlLSB3b24ndCB1c2UgdGhpCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>)
-    active</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZWRCeUNvZGUgPSBmaWVsZHMuQ29uc3RhbnQoIm1rb2xhcyIpCg==</text>
+        <text encoding="base64">ICAgIHRleHQgPSBDb2x1bW4oU3RyaXBwZWRTdHJpbmcsIG5hbWU9IlRleHQiKSAgIyB0ZXh0IG9mIG5vdGVjb2RlLSB3b24ndCB1c2UgdGhpCg==</text>
       </register>
     </registers>
     <search>
