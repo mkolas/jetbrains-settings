@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="oraclepoc.py" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

@@ -21,6 +21,11 @@
         <mark key="]" line="582" column="85" />
         <mark key="." line="582" column="85" />
       </file>
+      <file name="$USER_HOME$/_dev/python/python-scratchpad/mysqltest/InCommon.CA.crt" timestamp="1531405152492">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/procedure/procedurecodes.py" timestamp="1517605623413">
         <mark key="[" line="32" column="47" />
         <mark key="]" line="32" column="43" />
@@ -64,6 +69,9 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/_dev/python/python-scratchpad/mysqltest/mysqlalch.py" timestamp="1531404793895">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/_dev/advent2017/05/maze.py" timestamp="1515169384197">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="14" column="0" />
@@ -76,7 +84,6 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="85" />
       </file>
-      <file name="$USER_HOME$/_dev/python/python-scratchpad/providerstraining.py" timestamp="1530630423152" />
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/scheduledicts.py" timestamp="1528743621985">
         <mark key="'" line="630" column="4" />
         <mark key="[" line="0" column="5" />
@@ -481,7 +488,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBoYXNlRGlzcGxheU9yZGVyID0gZmllbGRzLkNvbnN0YW50KDApCg==</text>
+        <text encoding="base64">SW5Db21tb24uQ0EuY3J0Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGNvZA==</text>
@@ -493,31 +500,31 @@
         <text encoding="base64">ICAgIG1vdXRoQXJlYXMgPSBmaWVsZHMuTWV0aG9kKCdnZXRfbW91dGhfYXJlYXMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBoYXNlRGlzcGxheU9yZGVyID0gZmllbGRzLkNvbnN0YW50KDApCg==</text>
+        <text encoding="base64">SW5Db21tb24uQ0EuY3J0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9wdGlvbiA9IGZpZWxkcy5Db25zdGFudCgiQSIpCg==</text>
+        <text encoding="base64">ICAgIHBoYXNlRGlzcGxheU9yZGVyID0gZmllbGRzLkNvbnN0YW50KDApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBoYXNlID0gZmllbGRzLkNvbnN0YW50KCJEZWZpbml0aXZlIikK</text>
+        <text encoding="base64">ICAgIG9wdGlvbiA9IGZpZWxkcy5Db25zdGFudCgiQSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBncm91cGVkX2RpY3RzLnNvcnQoa2V5PWxhbWJkYSBrOiBrWydjb2RlJ10pICAjIGljZSBwcmVmZXJzIHRoZXNlIGZlZXMgc29ydGVkIGJ5IGNvZGUgYXNjCg==</text>
+        <text encoding="base64">ICAgIHBoYXNlID0gZmllbGRzLkNvbnN0YW50KCJEZWZpbml0aXZlIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGpzb25fZGF0YSA9IGJhc2ljX29ybShkYl9tb2RlbCwganNvbl9zY2hlbWEsICoqa3dhcmdzKQo=</text>
+        <text encoding="base64">ICAgICAgICBncm91cGVkX2RpY3RzLnNvcnQoa2V5PWxhbWJkYSBrOiBrWydjb2RlJ10pICAjIGljZSBwcmVmZXJzIHRoZXNlIGZlZXMgc29ydGVkIGJ5IGNvZGUgYXNjCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGpzb25fb2JqZWN0KQo=</text>
+        <text encoding="base64">ICAgIGpzb25fZGF0YSA9IGJhc2ljX29ybShkYl9tb2RlbCwganNvbl9zY2hlbWEsICoqa3dhcmdzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBrZXkgaXMgbm90ICdpbmRpdmlkdWFsQ29kZSc6ICAjIHNraXAgSUMgaGVyZQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaW50KGpzb25fb2JqZWN0KQo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBrZXkgaXMgbm90ICdpbmRpdmlkdWFsQ29kZSc6ICAjIHNraXAgSUMgaGVyZQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChvYmopCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGpzb25fb2JqZWN0KQo=</text>
       </register>
     </registers>
     <search>
