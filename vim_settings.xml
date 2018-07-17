@@ -302,6 +302,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="10" column="19" />
       </file>
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/extractconfigs.py" timestamp="1531854899196">
+        <mark key="[" line="62" column="105" />
+        <mark key="]" line="62" column="37" />
+        <mark key="." line="62" column="37" />
+      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/transactions/trx.py" timestamp="1511894297927">
         <mark key="[" line="10" column="15" />
         <mark key="]" line="8" column="0" />
@@ -361,7 +366,7 @@
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/providers/customfields.py" timestamp="1529697843340">
         <mark key="[" line="9" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531834832882">
+      <file name="/Dummy.txt" timestamp="1531854461531">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/euler/1-fizzbuzz.py" timestamp="1516203913077">
@@ -395,8 +400,8 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/payers.py" timestamp="1531852799688">
-        <mark key="[" line="18" column="38" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/payers.py" timestamp="1531854974364">
+        <mark key="[" line="24" column="38" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/tests/test_utilities.py" timestamp="1515432974407">
         <mark key="[" line="5" column="31" />
@@ -488,10 +493,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>L</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
         <text>primaryClinic</text>
