@@ -87,13 +87,6 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="85" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/scheduledicts.py" timestamp="1528743621985">
-        <mark key="'" line="630" column="4" />
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-        <mark key="^" line="268" column="6" />
-      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json-extract/charting/perio/perio.py" timestamp="1506103803991">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
@@ -159,6 +152,10 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/notes/clinicalnotes.py" timestamp="1531940356628">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/providers/providers.py" timestamp="1529954080129">
         <mark key="[" line="130" column="29" />
@@ -401,7 +398,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/payers.py" timestamp="1531938833707">
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/payers.py" timestamp="1531939833727">
         <mark key="'" line="48" column="18" />
         <mark key="[" line="47" column="21" />
         <mark key="]" line="42" column="35" />
@@ -496,6 +493,7 @@
       <jump line="268" column="4" filename="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/scheduledicts.py" />
       <jump line="630" column="4" filename="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/scheduledicts.py" />
       <jump line="49" column="18" filename="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/payers.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/_dev/python/ice-json-create/json_extract/notes/clinicalnotes.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
