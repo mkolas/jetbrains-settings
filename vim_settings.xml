@@ -304,11 +304,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/extractconfigs.py" timestamp="1532632530346">
-        <mark key="[" line="98" column="62" />
-        <mark key="]" line="32" column="86" />
-        <mark key="." line="32" column="86" />
-        <mark key="^" line="32" column="86" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/extractconfigs.py" timestamp="1532973123024">
+        <mark key="[" line="68" column="57" />
+        <mark key="]" line="33" column="86" />
+        <mark key="." line="33" column="86" />
+        <mark key="^" line="33" column="86" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/transactions/trx.py" timestamp="1511894297927">
         <mark key="[" line="10" column="15" />
@@ -403,12 +403,12 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/payers.py" timestamp="1531939833727">
-        <mark key="'" line="48" column="18" />
-        <mark key="[" line="47" column="21" />
-        <mark key="]" line="42" column="35" />
-        <mark key="^" line="42" column="35" />
-        <mark key="." line="42" column="35" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/payers.py" timestamp="1532973106337">
+        <mark key="'" line="51" column="18" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="45" column="35" />
+        <mark key="^" line="45" column="35" />
+        <mark key="." line="45" column="35" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/tests/test_utilities.py" timestamp="1515432974407">
         <mark key="[" line="5" column="31" />
