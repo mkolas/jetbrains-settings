@@ -160,10 +160,10 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/notes/clinicalnotes.py" timestamp="1533237236852">
-        <mark key="[" line="33" column="23" />
-        <mark key="]" line="33" column="23" />
-        <mark key="." line="33" column="23" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/notes/clinicalnotes.py" timestamp="1533319306383">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
         <mark key="^" line="33" column="24" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/providers/providers.py" timestamp="1529954080129">
@@ -507,11 +507,11 @@
       <jump line="9" column="16" filename="$USER_HOME$/_dev/python/ice-json-create/json_extract/mapfunctions.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgW1Byb2dyZXNzTm90ZS5ub3RlX3R5cGUgPT0gMF0K</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>orm</text>
