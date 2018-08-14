@@ -412,11 +412,11 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/charting/perio.py" timestamp="1527786478911">
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/charting/perio.py" timestamp="1534270564898">
         <mark key="[" line="39" column="21" />
-        <mark key="]" line="14" column="3" />
+        <mark key="]" line="39" column="21" />
         <mark key="^" line="14" column="3" />
-        <mark key="." line="14" column="3" />
+        <mark key="." line="39" column="21" />
       </file>
       <file name="$USER_HOME$/_dev/python/rainwater/sample.txt" timestamp="1527793283403">
         <mark key="[" line="0" column="0" />
@@ -495,10 +495,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRzXD4=</text>
