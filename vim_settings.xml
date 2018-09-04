@@ -342,10 +342,10 @@
         <mark key="^" line="46" column="39" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/patient/patient.py" timestamp="1531850301827">
-        <mark key="[" line="149" column="33" />
-        <mark key="]" line="149" column="37" />
-        <mark key="." line="149" column="37" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/patient/patient.py" timestamp="1536080757772">
+        <mark key="[" line="156" column="30" />
+        <mark key="]" line="156" column="30" />
+        <mark key="." line="156" column="30" />
         <mark key="^" line="149" column="37" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/orthopmt.py" timestamp="1506359067673">
@@ -496,11 +496,11 @@
       <jump line="75" column="10" filename="$USER_HOME$/_dev/python/ice-json-create/json_extract/mapfunctions.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>... regex here ..</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>... regex here ..</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRzXD4=</text>
