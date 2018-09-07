@@ -263,12 +263,6 @@
         <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1529328483992" />
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/procedure/procedures.py" timestamp="1533325589575">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="95" column="27" />
-        <mark key="." line="74" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1518452567082">
         <mark key="[" line="0" column="0" />
       </file>
@@ -301,12 +295,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="10" column="19" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/extractconfigs.py" timestamp="1536256058982">
-        <mark key="[" line="98" column="112" />
-        <mark key="]" line="98" column="111" />
-        <mark key="^" line="98" column="111" />
-        <mark key="." line="98" column="111" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/transactions/trx.py" timestamp="1511894297927">
         <mark key="[" line="10" column="15" />
