@@ -33,6 +33,7 @@
         <mark key="[" line="28" column="86" />
         <mark key="]" line="28" column="86" />
         <mark key="." line="28" column="86" />
+        <mark key="^" line="41" column="43" />
       </file>
       <file name="$USER_HOME$/_dev/python/kmeans-mich-voters/zipcodes.csv" timestamp="1519070620782">
         <mark key="[" line="0" column="0" />
@@ -202,11 +203,6 @@
       <file name="$USER_HOME$/_dev/python/python-ml/keras-dogcat.py" timestamp="1518453845149">
         <mark key="[" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/alchemy/oracleconnector.py" timestamp="1522676699095">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/docs/conf.py" timestamp="1506438861272">
         <mark key="[" line="51" column="11" />
         <mark key="]" line="51" column="30" />
@@ -264,6 +260,7 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="3" column="14" />
       </file>
+      <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1538674768129" />
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/procedure/procedures.py" timestamp="1537218150506">
         <mark key="[" line="82" column="67" />
         <mark key="]" line="82" column="67" />
@@ -271,6 +268,11 @@
       </file>
       <file name="/Python Console" timestamp="1518452567082">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/_dev/python/ice-json-create/csv/cdtcodes.csv" timestamp="1538674239854">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/ptbal.py" timestamp="1506359062869">
         <mark key="[" line="0" column="5" />
@@ -410,6 +412,12 @@
         <mark key="]" line="5" column="31" />
         <mark key="." line="5" column="31" />
       </file>
+      <file name="$USER_HOME$/_dev/python/python-scratchpad/mergingproccodes/jsontocsv.py" timestamp="1538675414350">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/_dev/advent2017/14/disk.py" timestamp="1513268876211">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -498,10 +506,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHRoaXMgaXMgdGhlIGFiYnJldi4gZm9yIHRoZSBtYXBwZWQgY28=</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRoaXMgaXMgdGhlIGFiYnJldi4gZm9yIHRoZSBtYXBwZWQgY28=</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRzXD4=</text>
