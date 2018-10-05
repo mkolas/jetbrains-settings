@@ -39,7 +39,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/csv/customcodes.csv" timestamp="1538685664924" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/csv/customcodes.csv" timestamp="1538756078037">
+        <mark key="[" line="320" column="0" />
+        <mark key="]" line="320" column="0" />
+        <mark key="." line="320" column="0" />
+      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/docs/extracts.rst" timestamp="1517853080702">
         <mark key="[" line="123" column="46" />
         <mark key="]" line="125" column="59" />
@@ -274,6 +278,11 @@
       <file name="/Python Console" timestamp="1518452567082">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/_dev/python/ice-json-create/csv/cdtcodes.csv" timestamp="1538756066110">
+        <mark key="[" line="267" column="0" />
+        <mark key="]" line="267" column="0" />
+        <mark key="." line="267" column="0" />
+      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/ptbal.py" timestamp="1506359062869">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="5" />
@@ -505,8 +514,8 @@
       <jump line="75" column="10" filename="$USER_HOME$/_dev/python/ice-json-create/json_extract/mapfunctions.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Method('get_sanitized_string')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">RDU1MjBBLFJlcGxhY2UgVG9vdGggQ0QgTGFiLEQ1NTIwLENEVCxwcm9jZWR1cmUsTWljaGlnYW4gQ3VzdG9tIFByb2NlZHVyZSBDb2RlcyxDVVMscHJpbWFyeSxUUlVFLFRSVUUsRkFMU0UsRkFMU0UK</text>
       </register>
       <register name="-" type="4">
         <text>Method('get_sanitized_string')</text>
@@ -518,31 +527,31 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RDU1MjBBLFJlcGxhY2UgVG9vdGggQ0QgTGFiLEQ1NTIwLENEVCxwcm9jZWR1cmUsTWljaGlnYW4gQ3VzdG9tIFByb2NlZHVyZSBDb2RlcyxDVVMscHJpbWFyeSxUUlVFLFRSVUUsRkFMU0UsRkFMU0UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2MK</text>
+        <text encoding="base64">RDU1MTBBLFJlcHIgQmFzZSBDRCBMYWIsRDU1MTAsQ0RULHByb2NlZHVyZSxNaWNoaWdhbiBDdXN0b20gUHJvY2VkdXJlIENvZGVzLENVUyxwcmltYXJ5LFRSVUUsVFJVRSxGQUxTRSxGQUxTRQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2MK</text>
+        <text encoding="base64">RDU1MjAsUmVwbGFjZSBtaXNzaW5nIG9yIGJyb2tlbiB0ZWV0aCAtIGNvbXBsZXRlIGRlbnR1cmUgKGVhY2ggdG9vdGgpLFRSVUUsRkFMU0UsVFJVRSwxOTcwLTAxLTAyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YzEK</text>
+        <text encoding="base64">RDU1MTAsUmVwYWlyIGJyb2tlbiBjb21wbGV0ZSBkZW50dXJlIGJhc2UsVFJVRSxGQUxTRSxUUlVFLDE5NzAtMDEtMDIK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBnZXRfc2FuaXRpemVkX3N0cmluZyhzZWxmLCBvYmopIC0+IHN0cjoKICAgICAgICByZXR1cm4gcmUuc3ViKCk=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2MK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Z2V0X3Nhbml0aXplZF9zdHJpbmcoc2VsZiwgb2JqKSAtPiBzdHI6CiAgICAgICAgcmV0dXJuIHJlLnN1Yigp</text>
+      <register name="7" type="2">
+        <text encoding="base64">Y2MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YzEK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB0aGlzIHdpbGwgaG9wZWZ1bGx5IGNhdGNoIGFueSBub3QtYWN0dWFsLWVtYWlscywgYWx0aG91Z2ggdGhleSB3b24ndCBiZSB2YWxpZC4KICAgICAgICAgICAgIyB0aAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBnZXRfc2FuaXRpemVkX3N0cmluZyhzZWxmLCBvYmopIC0+IHN0cjoKICAgICAgICByZXR1cm4gcmUuc3ViKCk=</text>
       </register>
     </registers>
     <search>
