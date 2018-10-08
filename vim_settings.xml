@@ -257,11 +257,11 @@
         <mark key="]" line="53" column="22" />
         <mark key="." line="53" column="22" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/mapfunctions.py" timestamp="1539011451604">
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/mapfunctions.py" timestamp="1539029115755">
         <mark key="'" line="76" column="10" />
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="74" column="4" />
-        <mark key="." line="74" column="4" />
+        <mark key="[" line="229" column="7" />
+        <mark key="]" line="229" column="0" />
+        <mark key="." line="229" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/advent2017/22/virus.py" timestamp="1515179709134">
         <mark key="[" line="48" column="3" />
@@ -313,10 +313,10 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/extractconfigs.py" timestamp="1538683652451">
-        <mark key="[" line="92" column="9" />
-        <mark key="]" line="92" column="9" />
-        <mark key="." line="92" column="9" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/extractconfigs.py" timestamp="1539028900038">
+        <mark key="[" line="105" column="51" />
+        <mark key="]" line="105" column="51" />
+        <mark key="." line="105" column="51" />
         <mark key="^" line="103" column="50" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/transactions/trx.py" timestamp="1511894297927">
@@ -515,10 +515,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">RDU1MjBBLFJlcGxhY2UgVG9vdGggQ0QgTGFiLEQ1NTIwLENEVCxwcm9jZWR1cmUsTWljaGlnYW4gQ3VzdG9tIFByb2NlZHVyZSBDb2RlcyxDVVMscHJpbWFyeSxUUlVFLFRSVUUsRkFMU0UsRkFMU0UK</text>
+        <text encoding="base64">ZHMK</text>
       </register>
       <register name="-" type="4">
-        <text>Method('get_sanitized_string')</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRzXD4=</text>
@@ -527,31 +527,31 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RDU1MjBBLFJlcGxhY2UgVG9vdGggQ0QgTGFiLEQ1NTIwLENEVCxwcm9jZWR1cmUsTWljaGlnYW4gQ3VzdG9tIFByb2NlZHVyZSBDb2RlcyxDVVMscHJpbWFyeSxUUlVFLFRSVUUsRkFMU0UsRkFMU0UK</text>
+        <text encoding="base64">ZHMK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">RDU1MTBBLFJlcHIgQmFzZSBDRCBMYWIsRDU1MTAsQ0RULHByb2NlZHVyZSxNaWNoaWdhbiBDdXN0b20gUHJvY2VkdXJlIENvZGVzLENVUyxwcmltYXJ5LFRSVUUsVFJVRSxGQUxTRSxGQUxTRQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIDpwYXJhbSBtYXBfbmFtZTogCiAgICA6cGFyYW0ganNvbl9zY2hlbWE6IAogICAgOnBhcmFtIGNoaWxkX2NvbmZpZzogCiAgICA6cGFyYW0gY2hpbGRfYXR0cjogCiAgICA6cGFyYW0gYWR1bHRfYXR0cjogCiAgICA6cGFyYW0gYWR1bHRfdGFyZ2V0OiAKICAgIDpwYXJhbSBrd2FyZ3M6IAogICAgOnJldHVybjog</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RDU1MjAsUmVwbGFjZSBtaXNzaW5nIG9yIGJyb2tlbiB0ZWV0aCAtIGNvbXBsZXRlIGRlbnR1cmUgKGVhY2ggdG9vdGgpLFRSVUUsRkFMU0UsVFJVRSwxOTcwLTAxLTAyCg==</text>
+        <text encoding="base64">RDU1MjBBLFJlcGxhY2UgVG9vdGggQ0QgTGFiLEQ1NTIwLENEVCxwcm9jZWR1cmUsTWljaGlnYW4gQ3VzdG9tIFByb2NlZHVyZSBDb2RlcyxDVVMscHJpbWFyeSxUUlVFLFRSVUUsRkFMU0UsRkFMU0UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RDU1MTAsUmVwYWlyIGJyb2tlbiBjb21wbGV0ZSBkZW50dXJlIGJhc2UsVFJVRSxGQUxTRSxUUlVFLDE5NzAtMDEtMDIK</text>
+        <text encoding="base64">RDU1MTBBLFJlcHIgQmFzZSBDRCBMYWIsRDU1MTAsQ0RULHByb2NlZHVyZSxNaWNoaWdhbiBDdXN0b20gUHJvY2VkdXJlIENvZGVzLENVUyxwcmltYXJ5LFRSVUUsVFJVRSxGQUxTRSxGQUxTRQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RDU1MjAsUmVwbGFjZSBtaXNzaW5nIG9yIGJyb2tlbiB0ZWV0aCAtIGNvbXBsZXRlIGRlbnR1cmUgKGVhY2ggdG9vdGgpLFRSVUUsRkFMU0UsVFJVRSwxOTcwLTAxLTAyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2MK</text>
+        <text encoding="base64">RDU1MTAsUmVwYWlyIGJyb2tlbiBjb21wbGV0ZSBkZW50dXJlIGJhc2UsVFJVRSxGQUxTRSxUUlVFLDE5NzAtMDEtMDIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YzEK</text>
+        <text encoding="base64">Y2MK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBnZXRfc2FuaXRpemVkX3N0cmluZyhzZWxmLCBvYmopIC0+IHN0cjoKICAgICAgICByZXR1cm4gcmUuc3ViKCk=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Y2MK</text>
       </register>
     </registers>
     <search>
