@@ -257,11 +257,12 @@
         <mark key="]" line="53" column="22" />
         <mark key="." line="53" column="22" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/mapfunctions.py" timestamp="1539190357404">
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/mapfunctions.py" timestamp="1539195356163">
         <mark key="'" line="76" column="10" />
-        <mark key="[" line="243" column="32" />
-        <mark key="]" line="247" column="36" />
-        <mark key="." line="247" column="36" />
+        <mark key="[" line="248" column="0" />
+        <mark key="]" line="248" column="0" />
+        <mark key="^" line="239" column="26" />
+        <mark key="." line="248" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/advent2017/22/virus.py" timestamp="1515179709134">
         <mark key="[" line="48" column="3" />
@@ -409,6 +410,13 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="2" column="6" />
       </file>
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/payers.py" timestamp="1532973106337">
+        <mark key="'" line="51" column="18" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="45" column="35" />
+        <mark key="^" line="45" column="35" />
+        <mark key="." line="45" column="35" />
+      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/tests/test_utilities.py" timestamp="1515432974407">
         <mark key="[" line="5" column="31" />
         <mark key="]" line="5" column="31" />
@@ -507,8 +515,8 @@
       <jump line="75" column="10" filename="$USER_HOME$/_dev/python/ice-json-create/json_extract/mapfunctions.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>[</text>
@@ -520,7 +528,7 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SVNfUEFUSUVOVF9RVUVSWSA9IHNlc3Npb24ucXVlcnkoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -531,17 +539,17 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICMga2V5cyA9IGdldF91bmlxdWVfdmFsdWVzKGRhdGEsIGNoaWxkX2F0dHIpICAjIHR5cGU6IExpc3Rbc3RyXQogICAgIyBkYXRhX3RvX3JldHVybiA9IFtdICAjIHR5cGU6IExpc3RbRGljdF0KICAgICMgZm9yIGtleSBpbiBrZXlzOgogICAgIyAgICAgZ3JvdXBlZF9kaWN0cyA9IFtkaWN0XyBmb3IgZGljdF8gaW4gZGF0YSBpZiBkaWN0X1tjaGlsZF9hdHRyXSA9PSBrZXldCiAgICAjICAgICBwYXJlbnRfZGljdCA9IGRpY3QoKQogICAgIyAgICAgcGFyZW50X2RpY3RbYWR1bHRfYXR0cl0gPSBrZXkKICAgICMgICAgIHBhcmVudF9kaWN0W2FkdWx0X3RhcmdldF0gPSBncm91cGVkX2RpY3RzCiAgICAjICAgICBkYXRhX3RvX3JldHVybi5hcHBlbmQocGFyZW50X2RpY3QpCgogICAgIyBzY2hlbWEgPSBqc29uX3NjaGVtYSgpCiAgICAjIGRhdGEsIGVycm9yID0gc2NoZW1hLmR1bXAoZGF0YV90b19yZXR1cm4sIG1hbnk9VHJ1ZSkKICAgICMgaWYgZXJyb3I6CiAgICAjICAgICBwcmludChlcnJvcik=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2MK</text>
+        <text encoding="base64">ICAgIHByaW50KCJmaW5pc2hlZCB3aXRoIGdldHRpbmcgZmxhdCBsaXN0IikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2MK</text>
+        <text encoding="base64">ICAgIHByaW50KGRhdGEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SVNfUEFUSUVOVF9RVUVSWSA9IHNlc3Npb24ucXVlcnkoKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
