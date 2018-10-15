@@ -94,6 +94,11 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="85" />
       </file>
+      <file name="$USER_HOME$/_dev/python/python-scratchpad/providerstraining.py" timestamp="1539615909028">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json-extract/charting/perio/perio.py" timestamp="1506103803991">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
@@ -515,11 +520,11 @@
       <jump line="75" column="10" filename="$USER_HOME$/_dev/python/ice-json-create/json_extract/mapfunctions.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRvX2NyZWF0ZVsndHlwZSddID0gcHJvdmlkZXJbMl0K</text>
+      <register name="&quot;" type="4">
+        <text>providers = [</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>providers = [</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRzXD4=</text>
