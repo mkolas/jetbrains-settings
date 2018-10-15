@@ -235,11 +235,11 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="12" column="59" />
       </file>
-      <file name="$USER_HOME$/_dev/python/python-scratchpad/2018-04-06-playgroundfees/providerstraining.py" timestamp="1539289263754">
-        <mark key="[" line="33" column="45" />
-        <mark key="]" line="44" column="81" />
-        <mark key="." line="44" column="81" />
-        <mark key="^" line="52" column="84" />
+      <file name="$USER_HOME$/_dev/python/python-scratchpad/2018-04-06-playgroundfees/providerstraining.py" timestamp="1539612273809">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="35" column="52" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/providers/providercustomfields.py" timestamp="1522936602896">
         <mark key="[" line="4" column="6" />
@@ -516,10 +516,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRvX2NyZWF0ZVsndHlwZSddID0gcHJvdmlkZXJbMl0K</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRzXD4=</text>
@@ -528,7 +528,7 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRvX2NyZWF0ZVsndHlwZSddID0gcHJvdmlkZXJbMl0K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -539,20 +539,20 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">ICAgICMga2V5cyA9IGdldF91bmlxdWVfdmFsdWVzKGRhdGEsIGNoaWxkX2F0dHIpICAjIHR5cGU6IExpc3Rbc3RyXQogICAgIyBkYXRhX3RvX3JldHVybiA9IFtdICAjIHR5cGU6IExpc3RbRGljdF0KICAgICMgZm9yIGtleSBpbiBrZXlzOgogICAgIyAgICAgZ3JvdXBlZF9kaWN0cyA9IFtkaWN0XyBmb3IgZGljdF8gaW4gZGF0YSBpZiBkaWN0X1tjaGlsZF9hdHRyXSA9PSBrZXldCiAgICAjICAgICBwYXJlbnRfZGljdCA9IGRpY3QoKQogICAgIyAgICAgcGFyZW50X2RpY3RbYWR1bHRfYXR0cl0gPSBrZXkKICAgICMgICAgIHBhcmVudF9kaWN0W2FkdWx0X3RhcmdldF0gPSBncm91cGVkX2RpY3RzCiAgICAjICAgICBkYXRhX3RvX3JldHVybi5hcHBlbmQocGFyZW50X2RpY3QpCgogICAgIyBzY2hlbWEgPSBqc29uX3NjaGVtYSgpCiAgICAjIGRhdGEsIGVycm9yID0gc2NoZW1hLmR1bXAoZGF0YV90b19yZXR1cm4sIG1hbnk9VHJ1ZSkKICAgICMgaWYgZXJyb3I6CiAgICAjICAgICBwcmludChlcnJvcik=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaW50KCJmaW5pc2hlZCB3aXRoIGdldHRpbmcgZmxhdCBsaXN0IikK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaW50KGRhdGEpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">SVNfUEFUSUVOVF9RVUVSWSA9IHNlc3Npb24ucXVlcnkoKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SVNfUEFUSUVOVF9RVUVSWSA9IHNlc3Npb24ucXVlcnkoKQo=</text>
       </register>
     </registers>
     <search>
