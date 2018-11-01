@@ -148,10 +148,10 @@
       <file name="$USER_HOME$/_dev/python/spotify-data/spotify.py" timestamp="1518806972917">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/python-scratchpad/othoprovtraining.py" timestamp="1541079773265">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/_dev/python/python-scratchpad/othoprovtraining.py" timestamp="1541080807973">
+        <mark key="[" line="17" column="52" />
+        <mark key="]" line="17" column="64" />
+        <mark key="." line="17" column="52" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/functions.py" timestamp="1506347996557">
         <mark key="[" line="74" column="11" />
@@ -527,10 +527,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
+        <text>demopt</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
+        <text>demopt</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRzXD4=</text>
