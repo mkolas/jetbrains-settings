@@ -319,11 +319,10 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/extractconfigs.py" timestamp="1541173310522">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="105" />
-        <mark key="." line="88" column="105" />
-        <mark key="^" line="88" column="51" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/extractconfigs.py" timestamp="1541452824505">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/transactions/trx.py" timestamp="1511894297927">
         <mark key="[" line="10" column="15" />
@@ -526,10 +525,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICM=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIw==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRzXD4=</text>
