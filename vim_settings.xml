@@ -273,19 +273,21 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1538674768129" />
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/procedure/procedures.py" timestamp="1539807584116">
         <mark key="[" line="82" column="67" />
         <mark key="]" line="82" column="67" />
         <mark key="." line="82" column="67" />
       </file>
-      <file name="/Python Console" timestamp="1539187555820">
+      <file name="/Python Console" timestamp="1541436196625">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/csv/cdtcodes.csv" timestamp="1538756066110">
         <mark key="[" line="267" column="0" />
         <mark key="]" line="267" column="0" />
         <mark key="." line="267" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1541435645491">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/ptbal.py" timestamp="1506359062869">
         <mark key="[" line="0" column="5" />
@@ -358,7 +360,7 @@
         <mark key="^" line="46" column="39" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/patient/patient.py" timestamp="1541428175639">
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/patient/patient.py" timestamp="1541435624849">
         <mark key="'" line="18" column="28" />
         <mark key="[" line="214" column="10" />
         <mark key="]" line="214" column="10" />
@@ -383,7 +385,7 @@
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/providers/customfields.py" timestamp="1529697843340">
         <mark key="[" line="9" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539187307171">
+      <file name="/Dummy.txt" timestamp="1541435605942">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/euler/1-fizzbuzz.py" timestamp="1516203913077">
@@ -405,8 +407,11 @@
         <mark key="]" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/patient_export.py" timestamp="1532981793504">
-        <mark key="[" line="16" column="40" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/patient_export.py" timestamp="1541436077858">
+        <mark key="[" line="17" column="62" />
+        <mark key="]" line="17" column="62" />
+        <mark key="." line="17" column="62" />
+        <mark key="^" line="14" column="81" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/iterators.py" timestamp="1506359776907">
         <mark key="[" line="1" column="5" />
@@ -521,10 +526,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>A</text>
+        <text encoding="base64">CiAgICAgICAgICAgICM=</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRzXD4=</text>
@@ -532,32 +537,32 @@
       <register name="0" type="4">
         <text>key</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">VU1CYXNlID0gZGVjbGFyYXRpdmVfYmFzZShtZXRhZGF0YT1NZXRhRGF0YShzY2hlbWE9J3VtZGVudCcpKSAgIyB0eXBlOiBBbnkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICM=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHNjaGVtYSA9ICJ1bWRlbnQiCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICM=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoZidvcmFjbGU6Ly97VVNFUn06e1BBU1NXT1JEfUB7VE5TTkFNRX0nKQo=</text>
+        <text encoding="base64">IyAxMDczODM1Ngo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZW5naW5lID0gY3JlYXRlX2VuZ2luZSgnb3JhY2xlOi8ve306e31Ae30nLmZvcm1hdChjb25maWdbJ0VOViddWydVU0VSJ10sIGNvbmZpZ1snRU5WJ11bJ1BBU1NXT1JEJ10sCg==</text>
+        <text encoding="base64">VU1CYXNlID0gZGVjbGFyYXRpdmVfYmFzZShtZXRhZGF0YT1NZXRhRGF0YShzY2hlbWE9J3VtZGVudCcpKSAgIyB0eXBlOiBBbnkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uZmlnLnNlY3Rpb25zKCkK</text>
+        <text encoding="base64">ICAgIHNjaGVtYSA9ICJ1bWRlbnQiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoZidvcmFjbGU6Ly97VVNFUn06e1BBU1NXT1JEfUB7VE5TTkFNRX0nKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICgiaGxjaGFuIiwgIkdyYWQgUGVyaW8iKSwKICAgICAgICAgICAgICgibWFya2ZpdHoiLCAiREZBIERlbnRhbCBGYWN1bHR5IEFzc29jaWF0ZXMiKSwKICAgICAgICAgICAgICgiZG9pZyIsICJQcmVkb2MgUEFFUyIpLAogICAgICAgICAgICAgKCJzb21lcmxlZCIsICJHcmFkIEVuZG8iKSwKICAgICAgICAgICAgICgiY2JhaXNjaCIsICJHcmFkIE9yYWwgU3VyZyIpLAogICAgICAgICAgICAgKCJkamZhcyIsICJERkEgT3JhbCBNZWRpY2luZSIpLAogICAgICAgICAgICAgKCJraW5uZXlqIiwgIkRGQSBEZW50YWwgRmFjdWx0eSBBc3NvY2lhdGVzIiksCiAgICAgICAgICAgICAoInRkYW5jaXUiLCAiREZBIE9yYWwgTWVkaWNpbmUiKSwKICAgICAgICAgICAgICgibWZvbnRhbiIsICJSZXNlYXJjaCBHcmFkIFJlc3RvcmF0aXZlIiksCiAgICAgICAgICAgICAoImFidXNjaGhhIiwgIkRGQSBEZW50YWwgRmFjdWx0eSBBc3NvY2lhdGVzIiksCiAgICAgICAgICAgICAoImRvbXN3IiwgIkdyYWQgUmVzdG9yYXRpdmUiKSwKICAgICAgICAgICAgICgicHlhbSIsICJHcmFkIFJlc3RvcmF0aXZlIiksCiAgICAgICAgICAgICAoInRhYmEiLCAiREZBIERlbnRhbCBGYWN1bHR5IEFzc29jaWF0ZXMiKSwKICAgICAgICAgICAgICgiZmdlb3JnZSIsICJQcmVkb2MgM01haXplIiksCiAgICAgICAgICAgICAoInNoYW5oeXUiLCAiR3JhZCBQZXJpbyIpLAogICAgICAgICAgICAgKCJwaGlscmljaCIsICJQcmVkb2MgMk1haXplIiksCiAgICAgICAgICAgICAoImZ1cmdlc29uIiwgIkRGQSBQZXJpbyIpLAogICAgICAgICAgICAgKCJyb25qaGUiLCAiUHJlZG9jIDJNYWl6ZSIpLAogICAgICAgICAgICAgKCJqZWZmd2EiLCAiREZBIFBlcmlvIiksCiAgICAgICAgICAgICAoImdhcmFpY29hIiwgIkdyYWQgUGVyaW8iKSwKICAgICAgICAgICAgICgiYmVybWFuaCIsICJERkEgT3J0aG8iKSwKICAgICAgICAgICAgICgia2FuZWwiLCAiUHJlZG9jIDNCbHVlIiksCiAgICAgICAgICAgICAoInN0ZXJsaXR6IiwgIkRGQSBEZW50YWwgRmFjdWx0eSBBc3NvY2lhdGVzIiksCiAgICAgICAgICAgICAoInN1bmdoc2llIiwgIkdyYWQgT3JhbCBTdXJnIiks</text>
+      <register name="7" type="2">
+        <text encoding="base64">ZW5naW5lID0gY3JlYXRlX2VuZ2luZSgnb3JhY2xlOi8ve306e31Ae30nLmZvcm1hdChjb25maWdbJ0VOViddWydVU0VSJ10sIGNvbmZpZ1snRU5WJ11bJ1BBU1NXT1JEJ10sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICgiZ3ZhbXZvdWQiLCAiUHJlZG9jIFBBRVMiKSwK</text>
+        <text encoding="base64">Y29uZmlnLnNlY3Rpb25zKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICgiZm94bWkiLCAiUHJlZG9jIFBBRVMiKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
