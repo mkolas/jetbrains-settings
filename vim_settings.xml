@@ -133,8 +133,8 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/findings/findingcodes.py" timestamp="1541537475164">
-        <mark key="[" line="12" column="0" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/findings/findingcodes.py" timestamp="1541539476099">
+        <mark key="[" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/resources.py" timestamp="1506346607426">
         <mark key="[" line="1" column="0" />
@@ -151,7 +151,6 @@
       <file name="$USER_HOME$/_dev/python/spotify-data/spotify.py" timestamp="1518806972917">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/python-scratchpad/othoprovtraining.py" timestamp="1541084463694" />
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/functions.py" timestamp="1506347996557">
         <mark key="[" line="74" column="11" />
         <mark key="]" line="74" column="11" />
@@ -175,22 +174,22 @@
         <mark key="]" line="21" column="67" />
         <mark key="." line="21" column="67" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/providers/providers.py" timestamp="1529954080129">
-        <mark key="[" line="130" column="29" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/providers/providers.py" timestamp="1541540351674">
+        <mark key="[" line="100" column="0" />
         <mark key="]" line="130" column="29" />
         <mark key="." line="130" column="29" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/appointments.py" timestamp="1541518646393">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="63" column="67" />
-        <mark key="." line="63" column="67" />
-        <mark key="^" line="132" column="87" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/appointments.py" timestamp="1541540941301">
+        <mark key="[" line="64" column="44" />
+        <mark key="]" line="66" column="67" />
+        <mark key="." line="66" column="67" />
+        <mark key="^" line="135" column="87" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/notes/notes.py" timestamp="1541537651455">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="73" column="45" />
-        <mark key="." line="73" column="45" />
-        <mark key="^" line="86" column="94" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="74" column="45" />
+        <mark key="." line="74" column="45" />
+        <mark key="^" line="87" column="94" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/Jenkinsfile" timestamp="1515431785261">
         <mark key="[" line="4" column="32" />
@@ -327,8 +326,8 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/transactions/trx.py" timestamp="1511894297927">
-        <mark key="[" line="10" column="15" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/transactions/trx.py" timestamp="1541540601590">
+        <mark key="[" line="12" column="25" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="7" column="5" />
         <mark key="." line="8" column="0" />
@@ -409,21 +408,15 @@
         <mark key="]" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/patient_export.py" timestamp="1541436077858">
-        <mark key="[" line="17" column="62" />
-        <mark key="]" line="17" column="62" />
-        <mark key="." line="17" column="62" />
-        <mark key="^" line="14" column="81" />
-      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/iterators.py" timestamp="1506359776907">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
         <mark key="^" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/payers.py" timestamp="1541525145860">
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/payers.py" timestamp="1541540908701">
         <mark key="'" line="51" column="18" />
-        <mark key="[" line="27" column="0" />
+        <mark key="[" line="60" column="0" />
         <mark key="]" line="45" column="35" />
         <mark key="^" line="45" column="35" />
         <mark key="." line="45" column="35" />
