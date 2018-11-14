@@ -185,11 +185,11 @@
         <mark key="." line="66" column="67" />
         <mark key="^" line="135" column="87" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/notes/notes.py" timestamp="1542228078136">
-        <mark key="[" line="65" column="45" />
-        <mark key="]" line="65" column="45" />
-        <mark key="." line="65" column="45" />
-        <mark key="^" line="65" column="44" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/notes/notes.py" timestamp="1542228230413">
+        <mark key="[" line="62" column="30" />
+        <mark key="]" line="66" column="45" />
+        <mark key="." line="66" column="45" />
+        <mark key="^" line="66" column="44" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/Jenkinsfile" timestamp="1515431785261">
         <mark key="[" line="4" column="32" />
@@ -274,6 +274,7 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="3" column="14" />
       </file>
+      <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1542228142715" />
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/procedure/procedures.py" timestamp="1541516956994">
         <mark key="[" line="11" column="48" />
         <mark key="]" line="11" column="46" />
@@ -432,11 +433,11 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/notes/nodecode.py" timestamp="1542228096420">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="13" column="12" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/notes/nodecode.py" timestamp="1542228213582">
+        <mark key="[" line="13" column="40" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/advent2017/14/disk.py" timestamp="1513268876211">
         <mark key="[" line="76" column="0" />
@@ -527,11 +528,11 @@
       <jump line="6" column="39" filename="$USER_HOME$/_dev/python/ice-json-create/json_extract/notes/nodecode.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRzXD4=</text>
@@ -540,31 +541,31 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SVNfUEFUSUVOVF9RVUVSWSA9ICJzZWxlY3QgKiBmcm9tICIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBJU19QQVRJRU5UX1FVRVJZID0gb2Muc2Vzc2lvbi5xdWVyeShJc1BhdGllbnQucGF0aWVudCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICM=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15Lm9ybSBpbXBvcnQgcmVsYXRpb25zaGlwCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICM=</text>
+      <register name="5" type="2">
+        <text encoding="base64">IyBmcm9tIHBhdGllbnQucGF0aWVudCBpbXBvcnQgUGF0aWVudAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAxMDczODM1Ngo=</text>
+        <text encoding="base64">IyBmcm9tIGNoYXJ0aW5nLmRvbnRpYSBpbXBvcnQgUGF0aWVudDIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VU1CYXNlID0gZGVjbGFyYXRpdmVfYmFzZShtZXRhZGF0YT1NZXRhRGF0YShzY2hlbWE9J3VtZGVudCcpKSAgIyB0eXBlOiBBbnkK</text>
+        <text encoding="base64">ZnJvbSBqc29uX2V4dHJhY3QuYWxjaGVteS5kZWNvcmF0b3JzIGltcG9ydCBTdHJpcHBlZFN0cmluZywgVW5peFRpbWVzdGFtcAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNjaGVtYSA9ICJ1bWRlbnQiCg==</text>
+        <text encoding="base64">ZnJvbSBtYXJzaG0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoZidvcmFjbGU6Ly97VVNFUn06e1BBU1NXT1JEfUB7VE5TTkFNRX0nKQo=</text>
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaQo=</text>
       </register>
     </registers>
     <search>
