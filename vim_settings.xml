@@ -185,10 +185,10 @@
         <mark key="." line="66" column="67" />
         <mark key="^" line="135" column="87" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/notes/notes.py" timestamp="1542232506342">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/notes/notes.py" timestamp="1542233261996">
+        <mark key="[" line="77" column="42" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/Jenkinsfile" timestamp="1515431785261">
         <mark key="[" line="4" column="32" />
@@ -321,10 +321,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/extractconfigs.py" timestamp="1542208285408">
-        <mark key="[" line="26" column="53" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/extractconfigs.py" timestamp="1542233593934">
+        <mark key="[" line="86" column="94" />
+        <mark key="]" line="86" column="94" />
+        <mark key="." line="86" column="94" />
+        <mark key="^" line="86" column="94" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/transactions/trx.py" timestamp="1541540601590">
         <mark key="[" line="12" column="25" />
@@ -432,11 +433,8 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/notes/nodecode.py" timestamp="1542228213582">
-        <mark key="[" line="13" column="40" />
-        <mark key="]" line="6" column="0" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/notes/nodecode.py" timestamp="1542233232406">
         <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/advent2017/14/disk.py" timestamp="1513268876211">
         <mark key="[" line="76" column="0" />
@@ -527,11 +525,11 @@
       <jump line="6" column="39" filename="$USER_HOME$/_dev/python/ice-json-create/json_extract/notes/nodecode.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRzXD4=</text>
@@ -540,7 +538,7 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBqc29uX2V4dHJhY3Qubm90ZXMubm9kZWNvZGUgaW1wb3J0IE5vdGVDb2RlCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -558,13 +556,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15Lm9ybSBpbXBvcnQgcmVsYXRpb25zaGlwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBmcm9tIHBhdGllbnQucGF0aWVudCBpbXBvcnQgUGF0aWVudAo=</text>
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15Lm9ybSBpbXBvcnQgcmVsYXRpb25zaGlwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBmcm9tIGNoYXJ0aW5nLmRvbnRpYSBpbXBvcnQgUGF0aWVudDIK</text>
+        <text encoding="base64">IyBmcm9tIHBhdGllbnQucGF0aWVudCBpbXBvcnQgUGF0aWVudAo=</text>
       </register>
     </registers>
     <search>
