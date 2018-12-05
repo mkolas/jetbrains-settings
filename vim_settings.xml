@@ -125,6 +125,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/_dev/python/advent2018/05/5.py" timestamp="1544022403172">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="12" column="16" />
+      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/docs/conf.py" timestamp="1506438861272">
         <mark key="[" line="51" column="11" />
         <mark key="]" line="51" column="30" />
@@ -298,7 +304,6 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/docs/building.rst" timestamp="1543607933100" />
       <file name="$USER_HOME$/_dev/python/ice-json-create/csv/events.csv" timestamp="1528917831972">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -543,11 +548,11 @@
       <jump line="6" column="39" filename="$USER_HOME$/_dev/python/ice-json-create/json_extract/notes/nodecode.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">RXh0cmFjdCB3cml0dGVuIGFnYWluc3Qg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQod2luZG93KQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RXh0cmFjdCB3cml0dGVuIGFnYWluc3Qg</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRzXD4=</text>
@@ -556,31 +561,31 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SXQgaXMgYnVpbHQgc3BlY2lmaWNhbGx5IGZvciBleHRyYWN0aW5nIGRhdGEgZnJvbQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQod2luZG93KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGkgPSAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VGhpcyBSRUFETUUgd291bGQgbm9ybWFsbHkgZG9jdW1lbnQgd2hhdGV2ZXIgc3RlcHMgYXJlIG5lY2Vzc2FyeSB0byBnZXQgeW91ciBhcHBsaWNhdGlvbiB1cCBhbmQgcnVubmluZy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNzdgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGkgKz0gMQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb25fZXh0cmFjdC5wcm9jZWR1cmUucHJvY2VkdXJlbWV0aG9kcyBhcyBtCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGkgPSAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SVNfUEFUSUVOVF9RVUVSWV9DSEFSVCA9IG9jLnNlc3Npb24ucXVlcnkoUGF0aWVudC5pbmRpdmlkdWFsQ29kZSkuam9pbihJc1BhdGllbnQpCg==</text>
+        <text encoding="base64">SXQgaXMgYnVpbHQgc3BlY2lmaWNhbGx5IGZvciBleHRyYWN0aW5nIGRhdGEgZnJvbQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBqc29uX2V4dHJhY3Qubm90ZXMubm9kZWNvZGUgaW1wb3J0IE5vdGVDb2RlCg==</text>
+        <text encoding="base64">VGhpcyBSRUFETUUgd291bGQgbm9ybWFsbHkgZG9jdW1lbnQgd2hhdGV2ZXIgc3RlcHMgYXJlIG5lY2Vzc2FyeSB0byBnZXQgeW91ciBhcHBsaWNhdGlvbiB1cCBhbmQgcnVubmluZy4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNzdgo=</text>
       </register>
     </registers>
     <search>
