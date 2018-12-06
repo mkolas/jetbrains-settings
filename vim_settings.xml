@@ -143,10 +143,10 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="12" column="59" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/README.md" timestamp="1543608582526">
-        <mark key="[" line="7" column="2" />
-        <mark key="]" line="7" column="2" />
-        <mark key="." line="7" column="2" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/README.md" timestamp="1544114202394">
+        <mark key="[" line="13" column="2" />
+        <mark key="]" line="13" column="2" />
+        <mark key="." line="13" column="2" />
         <mark key="^" line="3" column="48" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/providers/providercustomfields.py" timestamp="1522936602896">
@@ -548,11 +548,11 @@
       <jump line="6" column="39" filename="$USER_HOME$/_dev/python/ice-json-create/json_extract/notes/nodecode.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIG9yaWdpbmFsID0gJycuam9pbihzdHJpbmcpCg==</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRzXD4=</text>
