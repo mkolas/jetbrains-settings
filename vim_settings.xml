@@ -131,11 +131,17 @@
         <mark key="^" line="20" column="28" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/_dev/python/advent2018/08/input1.txt" timestamp="1544460076738" />
       <file name="$USER_HOME$/_dev/python/ice-json-create/docs/conf.py" timestamp="1506438861272">
         <mark key="[" line="51" column="11" />
         <mark key="]" line="51" column="30" />
         <mark key="." line="51" column="30" />
         <mark key="^" line="51" column="30" />
+      </file>
+      <file name="$USER_HOME$/_dev/python/advent2018/08/8.py" timestamp="1544461844237">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="12" />
+        <mark key="." line="34" column="12" />
       </file>
       <file name="$USER_HOME$/_dev/advent2017/12/pipes.py" timestamp="1515169931412">
         <mark key="[" line="39" column="0" />
@@ -339,12 +345,6 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/notes/clinicalnotes.py" timestamp="1541693107220">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="21" column="67" />
-        <mark key="." line="21" column="67" />
-      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/appointments.py" timestamp="1542641399862">
         <mark key="[" line="64" column="44" />
         <mark key="]" line="66" column="67" />
@@ -454,6 +454,7 @@
       <file name="/Dummy.txt" timestamp="1542652585529">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/_dev/python/advent2018/07/7.py" timestamp="1544460526294" />
       <file name="$USER_HOME$/_dev/euler/presistence.py" timestamp="1516294032610">
         <mark key="[" line="11" column="27" />
         <mark key="]" line="11" column="26" />
@@ -470,13 +471,6 @@
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
         <mark key="^" line="2" column="6" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/payers.py" timestamp="1541540908701">
-        <mark key="'" line="51" column="18" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="45" column="35" />
-        <mark key="^" line="45" column="35" />
-        <mark key="." line="45" column="35" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/notes/nodecode.py" timestamp="1542233232406">
         <mark key="^" line="6" column="0" />
@@ -549,11 +543,11 @@
       <jump line="6" column="39" filename="$USER_HOME$/_dev/python/ice-json-create/json_extract/notes/nodecode.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiogUXVpY2sgc3VtbWFyeQoqIFZlcnNpb24KKiBbTGVhcm4gTWFya2Rvd25dKGh0dHBzOi8vYml0YnVja2V0Lm9yZy90dXRvcmlhbHMvbWFya2Rvd25kZW1vKQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhbHVlID0gMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>What is this repository for?</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRzXD4=</text>
@@ -561,32 +555,32 @@
       <register name="0" type="4">
         <text>key</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiogUXVpY2sgc3VtbWFyeQoqIFZlcnNpb24KKiBbTGVhcm4gTWFya2Rvd25dKGh0dHBzOi8vYml0YnVja2V0Lm9yZy90dXRvcmlhbHMvbWFya2Rvd25kZW1vKQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHZhbHVlID0gMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIG9yaWdpbmFsID0gJycuam9pbihzdHJpbmcpCg==</text>
+        <text encoding="base64">ICAgIG1ldGFkYXRhX3ZhbHVlID0gMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgic3RyaW5nIHt9Ii5mb3JtYXQoc3RyaW5nKSkK</text>
+        <text encoding="base64">dHJlZV9kYXRhID0gW10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgib3JpZ2luYWwge30iLmZvcm1hdChvcmlnaW5hbCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgic3RhcnRpbmcgbG9vcCIpCg==</text>
+        <text encoding="base64">dHJlZV9kYXRhID0gW10K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHN0cmluZykK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiogUXVpY2sgc3VtbWFyeQoqIFZlcnNpb24KKiBbTGVhcm4gTWFya2Rvd25dKGh0dHBzOi8vYml0YnVja2V0Lm9yZy90dXRvcmlhbHMvbWFya2Rvd25kZW1vKQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQod2luZG93KQo=</text>
+        <text encoding="base64">ICAgICAgICAjIG9yaWdpbmFsID0gJycuam9pbihzdHJpbmcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQod2luZG93KQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgic3RyaW5nIHt9Ii5mb3JtYXQoc3RyaW5nKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGkgPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgib3JpZ2luYWwge30iLmZvcm1hdChvcmlnaW5hbCkpCg==</text>
       </register>
     </registers>
     <search>
