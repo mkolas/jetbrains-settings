@@ -138,10 +138,12 @@
         <mark key="." line="51" column="30" />
         <mark key="^" line="51" column="30" />
       </file>
-      <file name="$USER_HOME$/_dev/python/advent2018/08/8.py" timestamp="1544461844237">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="12" />
-        <mark key="." line="34" column="12" />
+      <file name="$USER_HOME$/_dev/python/advent2018/08/8.py" timestamp="1544464635907">
+        <mark key="'" line="40" column="45" />
+        <mark key="[" line="40" column="45" />
+        <mark key="]" line="40" column="32" />
+        <mark key="." line="40" column="32" />
+        <mark key="^" line="40" column="32" />
       </file>
       <file name="$USER_HOME$/_dev/advent2017/12/pipes.py" timestamp="1515169931412">
         <mark key="[" line="39" column="0" />
@@ -541,13 +543,14 @@
       <jump line="75" column="10" filename="$USER_HOME$/_dev/python/ice-json-create/json_extract/mapfunctions.py" />
       <jump line="18" column="28" filename="$USER_HOME$/_dev/python/ice-json-create/json_extract/patient/patient.py" />
       <jump line="6" column="39" filename="$USER_HOME$/_dev/python/ice-json-create/json_extract/notes/nodecode.py" />
+      <jump line="40" column="45" filename="$USER_HOME$/_dev/python/advent2018/08/8.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbHVlID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWUgKz0gY2hpbGQuZ2V0X3ZhbHVlKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRzXD4=</text>
@@ -556,31 +559,31 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbHVlID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWUgKz0gY2hpbGQuZ2V0X3ZhbHVlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1ldGFkYXRhX3ZhbHVlID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImNoaWxkIHZhbCB7fSIuZm9ybWF0KGNoaWxkLmdldF92YWx1ZSgpKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dHJlZV9kYXRhID0gW10K</text>
+        <text encoding="base64">ICAgIHByaW50KG1ldGFkYXRhKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGNoaWxkcmVuKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dHJlZV9kYXRhID0gW10K</text>
+        <text encoding="base64">d2hpbGUgdHJlZV9kYXRhX2I6Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiogUXVpY2sgc3VtbWFyeQoqIFZlcnNpb24KKiBbTGVhcm4gTWFya2Rvd25dKGh0dHBzOi8vYml0YnVja2V0Lm9yZy90dXRvcmlhbHMvbWFya2Rvd25kZW1vKQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmluZGV4ID0gaW5kZXgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIG9yaWdpbmFsID0gJycuam9pbihzdHJpbmcpCg==</text>
+        <text encoding="base64">ICAgIGluZGV4ID0gMAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgic3RyaW5nIHt9Ii5mb3JtYXQoc3RyaW5nKSkK</text>
+        <text encoding="base64">ICAgIHRyZWVfZGF0YSA9IFtpbnQoeCkgZm9yIHggaW4gZmlsZS5yZWFkbGluZSgpLnNwbGl0KCIgIildCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgib3JpZ2luYWwge30iLmZvcm1hdChvcmlnaW5hbCkpCg==</text>
+        <text encoding="base64">d2l0aCBvcGVuKCJ0ZXN0aW5wdXQudHh0IikgYXMgZmlsZToK</text>
       </register>
     </registers>
     <search>
