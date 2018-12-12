@@ -150,11 +150,11 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="12" column="59" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/README.md" timestamp="1544126232704">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/README.md" timestamp="1544632498352">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
         <mark key="^" line="25" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/providers/providercustomfields.py" timestamp="1522936602896">
         <mark key="[" line="4" column="6" />
@@ -454,6 +454,7 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="55" column="30" />
       </file>
+      <file name="$USER_HOME$/_dev/python/ice-json-create/docs/howtouse.rst" timestamp="1544632487844" />
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/patient/patient.py" timestamp="1542380274871">
         <mark key="'" line="18" column="28" />
         <mark key="[" line="86" column="75" />
@@ -552,7 +553,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQocGFyZW50KQo=</text>
+        <text encoding="base64">KiBEZXBsb3ltZW50IGluc3RydWN0aW9ucwo=</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -564,31 +565,31 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQocGFyZW50KQo=</text>
+        <text encoding="base64">KiBEZXBsb3ltZW50IGluc3RydWN0aW9ucwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJDcmVhdGluZyBub2RlIHdpdGgge30gY2hpbGRyZW4gYW5kIHt9IG1ldGFkYXRhIi5mb3JtYXQobGVuKGNoaWxkcmVuKSwgbGVuKG1ldGFkYXRhKSkpCg==</text>
+        <text encoding="base64">KiBIb3cgdG8gcnVuIHRlc3RzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJldHVybiBzdW0oW3guZ2V0X3ZhbHVlKCkgZm9yIHggaW4gc2VsZi5jaGlsZHJlbl0pCg==</text>
+        <text encoding="base64">KiBEYXRhYmFzZSBjb25maWd1cmF0aW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgidmFsdWUgd2FzIHt9Ii5mb3JtYXQodmFsdWUpKQo=</text>
+        <text encoding="base64">KiBEZXBlbmRlbmNpZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJnZXR0aW5nIHZhbHVlIGZvciBjaGlsZCB7fSIuZm9ybWF0KHNlbGYuY2hpbGRyZW5baXRlbS0xXSkpCg==</text>
+        <text encoding="base64">KiBDb25maWd1cmF0aW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJnZXR0aW5nIHZhbHVlIGZvciBjaGlsZCB7fSIuZm9ybWF0KHNlbGYuY2hpbGRyZW5baXRlbS0xXSkpCg==</text>
+        <text encoding="base64">KiBTdW1tYXJ5IG9mIHNldCB1cAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbHVlID0gMAo=</text>
+        <text encoding="base64">cHJpbnQocGFyZW50KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3VtKHNlbGYubWV0YWRhdGEpKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJDcmVhdGluZyBub2RlIHdpdGgge30gY2hpbGRyZW4gYW5kIHt9IG1ldGFkYXRhIi5mb3JtYXQobGVuKGNoaWxkcmVuKSwgbGVuKG1ldGFkYXRhKSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgibGVuZ3RoIG9mIG5vZGUge30ge30iLmZvcm1hdChsZW4oc2VsZi5jaGlsZHJlbiksIGxlbihzZWxmLm1ldGFkYXRhKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHJldHVybiBzdW0oW3guZ2V0X3ZhbHVlKCkgZm9yIHggaW4gc2VsZi5jaGlsZHJlbl0pCg==</text>
       </register>
     </registers>
     <search>
