@@ -131,7 +131,6 @@
         <mark key="^" line="20" column="28" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/advent2018/08/input1.txt" timestamp="1544460076738" />
       <file name="$USER_HOME$/_dev/python/ice-json-create/docs/conf.py" timestamp="1506438861272">
         <mark key="[" line="51" column="11" />
         <mark key="]" line="51" column="30" />
@@ -168,6 +167,7 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="3" column="14" />
       </file>
+      <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1544628487337" />
       <file name="/Python Console" timestamp="1542741178793">
         <mark key="[" line="0" column="0" />
       </file>
@@ -314,7 +314,6 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/docs/building.rst" timestamp="1544117301128" />
       <file name="$USER_HOME$/_dev/python/ice-json-create/csv/events.csv" timestamp="1528917831972">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -393,6 +392,12 @@
         <mark key="]" line="92" column="26" />
         <mark key="." line="92" column="0" />
       </file>
+      <file name="$USER_HOME$/_dev/python/ice-json-create/notes/migrationtransformations.txt" timestamp="1544629148085">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/_dev/python/python-scratchpad/2018-04-06-playgroundfees/providerstraining.py" timestamp="1539612273809">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
@@ -458,7 +463,6 @@
       <file name="/Dummy.txt" timestamp="1542652585529">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/advent2018/07/7.py" timestamp="1544460526294" />
       <file name="$USER_HOME$/_dev/euler/presistence.py" timestamp="1516294032610">
         <mark key="[" line="11" column="27" />
         <mark key="]" line="11" column="26" />
