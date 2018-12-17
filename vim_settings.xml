@@ -185,8 +185,10 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/_dev/python/advent2018/12/12.py" timestamp="1545064568501">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/_dev/python/advent2018/12/12.py" timestamp="1545065281193">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/events.py" timestamp="1528918915394">
         <mark key="[" line="24" column="4" />
@@ -574,7 +576,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgicG93ZXIgbGV2ZWwgYXQge30uIHt9ID0ge30iLmZvcm1hdCh4LCB5LCBwb3dlcl9sZXZlbCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvdHNbaV0gPSBjaGFyCg==</text>
       </register>
       <register name="-" type="4">
         <text>8</text>
@@ -586,33 +588,33 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgicG93ZXIgbGV2ZWwgYXQge30uIHt9ID0ge30iLmZvcm1hdCh4LCB5LCBwb3dlcl9sZXZlbCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvdHNbaV0gPSBjaGFyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoZ2V0X3Bvd2VyX2Zvcl9jb29yZChtYXhfY29vcmRbMF0sIG1heF9jb29yZFsxXSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGksIGNoYXIgaW4gZW51bWVyYXRlKGluaXRfc3RhdGUpOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImFkZGVkIHt9Ii5mb3JtYXQoY2VzbGxzWyh4LHkpXSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgicG93ZXIgbGV2ZWwgYXQge30uIHt9ID0ge30iLmZvcm1hdCh4LCB5LCBwb3dlcl9sZXZlbCkpCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">cHJpbnQoZ2V0X3Bvd2VyX2Zvcl9jb29yZChtYXhfY29vcmRbMF0sIG1heF9jb29yZFsxXSkpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImFkZGVkIHt9Ii5mb3JtYXQoY2VzbGxzWyh4LHkpXSkpCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">c2VyaWFsX3Rlc3QgPSAzOQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>y in range(1, 301):
     
 for x in range(1, 301):</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGlmIHByaW50ZWRfcG9pbnRzID4gMToK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">cHJpbnRfcG9pbnRzKCkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">bWF4X3kgPSAtOTk5OTk5OQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">bWF4X3ggPSAtOTk5OTk5OQo=</text>
+        <text encoding="base64">cHJpbnRfcG9pbnRzKCkK</text>
       </register>
     </registers>
     <search>
