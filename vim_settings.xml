@@ -226,11 +226,10 @@
         <mark key="^" line="46" column="39" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/advent2018/10/10.py" timestamp="1544822220344">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="12" />
-        <mark key="." line="46" column="12" />
-        <mark key="^" line="37" column="37" />
+      <file name="$USER_HOME$/_dev/python/advent2018/10/10.py" timestamp="1544823902388">
+        <mark key="[" line="35" column="42" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/orthopmt.py" timestamp="1506359067673">
         <mark key="[" line="0" column="5" />
@@ -565,8 +564,8 @@
       <jump line="55" column="15" filename="$USER_HOME$/_dev/python/advent2018/08/8.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmIHByaW50ZWRfcG9pbnRzID4gMToK</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -578,31 +577,31 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnRfcG9pbnRzKCkK</text>
+        <text encoding="base64">ICAgIGlmIHByaW50ZWRfcG9pbnRzID4gMToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWF4X3kgPSAtOTk5OTk5OQo=</text>
+        <text encoding="base64">cHJpbnRfcG9pbnRzKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bWF4X3ggPSAtOTk5OTk5OQo=</text>
+        <text encoding="base64">bWF4X3kgPSAtOTk5OTk5OQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bWluX3kgPSA5OTk5OTk5Cg==</text>
+        <text encoding="base64">bWF4X3ggPSAtOTk5OTk5OQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bWluX3ggPSA5OTk5OTk5Cg==</text>
+        <text encoding="base64">bWluX3kgPSA5OTk5OTk5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5feSA9IHkK</text>
+        <text encoding="base64">bWluX3ggPSA5OTk5OTk5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIHkgPCBtaW5feToK</text>
+        <text encoding="base64">ICAgICAgICBtaW5feSA9IHkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5feCA9IHgK</text>
+        <text encoding="base64">ICAgIGlmIHkgPCBtaW5feToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIHggPCBtaW5feDoK</text>
+        <text encoding="base64">ICAgICAgICBtaW5feCA9IHgK</text>
       </register>
     </registers>
     <search>
