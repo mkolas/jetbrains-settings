@@ -225,6 +225,12 @@
         <mark key="^" line="28" column="69" />
         <mark key="." line="28" column="69" />
       </file>
+      <file name="$USER_HOME$/mitools_assets/import.py" timestamp="1547588547979">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="2" column="9" />
+        <mark key="^" line="2" column="9" />
+        <mark key="." line="2" column="9" />
+      </file>
       <file name="$USER_HOME$/_dev/advent2017/18/duet.py" timestamp="1513610118631">
         <mark key="[" line="47" column="18" />
         <mark key="]" line="48" column="0" />
@@ -242,7 +248,6 @@
         <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/_dev/python/advent2018/06/6.py" timestamp="1544717613289" />
       <file name="$USER_HOME$/_dev/advent2017/06/memory.py" timestamp="1512572913718">
         <mark key="[" line="42" column="14" />
         <mark key="]" line="43" column="12" />
@@ -481,7 +486,6 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="55" column="30" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/docs/howtouse.rst" timestamp="1544644884885" />
       <file name="$USER_HOME$/_dev/python/kmeans-mich-voters/centroids.csv" timestamp="1519077019292">
         <mark key="[" line="13" column="25" />
       </file>
