@@ -225,11 +225,10 @@
         <mark key="^" line="28" column="69" />
         <mark key="." line="28" column="69" />
       </file>
-      <file name="$USER_HOME$/mitools_assets/import.py" timestamp="1547588547979">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="2" column="9" />
-        <mark key="^" line="2" column="9" />
-        <mark key="." line="2" column="9" />
+      <file name="$USER_HOME$/mitools_assets/import.py" timestamp="1547590487390">
+        <mark key="[" line="26" column="16" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/advent2017/18/duet.py" timestamp="1513610118631">
         <mark key="[" line="47" column="18" />
@@ -580,7 +579,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIi4iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RfZmlsZS53cml0ZShiJ1xuJykK</text>
       </register>
       <register name="-" type="4">
         <text>8</text>
@@ -592,31 +591,31 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIi4iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RfZmlsZS53cml0ZShiJ1xuJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIGluZGV4IG5vdCBpbiBwb3RzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RfZmlsZS53cml0ZShmX2NvbnRlbnQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGdldF9wb3Rfc2FmZShpbmRleCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIi4iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgIGlmIGluZGV4IG5vdCBpbiBwb3RzOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">ZGVmIGdldF9wb3Rfc2FmZShpbmRleCk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVja19zdHJpbmcgPSBvbGRfcG90c1tpLTI6aSsyXQo=</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxlZnRtb3N0LCBsZW4ob2xkX3BvdHMpLTIpOgo=</text>
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxlZnQK</text>
+        <text encoding="base64">ICAgICAgICBjaGVja19zdHJpbmcgPSBvbGRfcG90c1tpLTI6aSsyXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmlnaHRtb3N0ID0gbGVuKHBvdF9zdHJpbmcpCg==</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxlZnRtb3N0LCBsZW4ob2xkX3BvdHMpLTIpOgo=</text>
       </register>
     </registers>
     <search>
