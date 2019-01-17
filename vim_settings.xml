@@ -225,10 +225,11 @@
         <mark key="^" line="28" column="69" />
         <mark key="." line="28" column="69" />
       </file>
-      <file name="$USER_HOME$/mitools_assets/import.py" timestamp="1547590487390">
-        <mark key="[" line="26" column="16" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/mitools_assets/import.py" timestamp="1547751380282">
+        <mark key="[" line="21" column="56" />
+        <mark key="]" line="21" column="56" />
+        <mark key="." line="21" column="56" />
+        <mark key="^" line="21" column="64" />
       </file>
       <file name="$USER_HOME$/_dev/advent2017/18/duet.py" timestamp="1513610118631">
         <mark key="[" line="47" column="18" />
@@ -578,11 +579,11 @@
       <jump line="55" column="15" filename="$USER_HOME$/_dev/python/advent2018/08/8.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RfZmlsZS53cml0ZShiJ1xuJykK</text>
+      <register name="&quot;" type="4">
+        <text>techproducts</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>techproducts</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
