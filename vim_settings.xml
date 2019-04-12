@@ -31,7 +31,7 @@
         <mark key="]" line="33" column="25" />
         <mark key="." line="33" column="25" />
       </file>
-      <file name="/a.dummy" timestamp="1542208288716">
+      <file name="/a.dummy" timestamp="1555095127719">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/kmeans-mich-voters/parsevoters.py" timestamp="1519064980888">
@@ -341,6 +341,9 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
       </file>
+      <file name="$USER_HOME$/_dev/python/wsse/tests/test_wsse.py" timestamp="1555095154302">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/notes/migrationnotes.txt" timestamp="1544645317793">
         <mark key="[" line="1" column="119" />
         <mark key="]" line="1" column="119" />
@@ -519,8 +522,11 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/wsse/server.py" timestamp="1555093803799">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/_dev/python/wsse/server.py" timestamp="1555094930438">
+        <mark key="[" line="9" column="40" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="48" column="25" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/charting/perio.py" timestamp="1541517878662">
         <mark key="[" line="40" column="0" />
@@ -538,7 +544,7 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/wsse/wssetest.py" timestamp="1555092649897">
+      <file name="$USER_HOME$/_dev/python/wsse/wssetest.py" timestamp="1555094814197">
         <mark key="[" line="28" column="34" />
         <mark key="]" line="28" column="34" />
         <mark key="." line="28" column="34" />
@@ -593,11 +599,11 @@
       <jump line="55" column="15" filename="$USER_HOME$/_dev/python/advent2018/08/8.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>O</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -606,31 +612,31 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoci5jb250ZW50KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ciA9IHJlcXVlc3RzLmdldCgiaHR0cDovL2dvb2dsZS5jb20iKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAiTm90IHlldCBpbXBsZW1lbnRlZCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgICAgICAgICAgICAgICBhdXRoPVdTU0VBdXRoKHVzZXJuYW1lLCBwYXNzd29yZCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyByZXNwb25zZSA9IHJlcXVlc3RzLmdldCgiaHR0cHM6Ly9tY2ludHZ3cnByZC5tZWQudW1pY2guZWR1L0ludGVyY29ubmVjdC1QUkQvd2NmL0N1c3RvbS5DbGluaWNhbC5HZW5lcmF0ZWRTZXJ2aWNlcy9QYXRpZW50LnN2Yz93c2RsIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSB3c3NlLmNsaWVudC5yZXF1ZXN0cy5hdXRoIGltcG9ydCBXU1NFQXV0aAo=</text>
+        <text encoding="base64">cHJpbnQoci5jb250ZW50KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ciA9IHJlcXVlc3RzLmdldCgiIikK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ciA9IHJlcXVlc3RzLmdldCgiaHR0cDovL2dvb2dsZS5jb20iKQo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyAgICAgICAgICAgICAgICAgICAgICAgICBhdXRoPVdTU0VBdXRoKHVzZXJuYW1lLCBwYXNzd29yZCkpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyByZXNwb25zZSA9IHJlcXVlc3RzLmdldCgiaHR0cHM6Ly9tY2ludHZ3cnByZC5tZWQudW1pY2guZWR1L0ludGVyY29ubmVjdC1QUkQvd2NmL0N1c3RvbS5DbGluaWNhbC5HZW5lcmF0ZWRTZXJ2aWNlcy9QYXRpZW50LnN2Yz93c2RsIiwK</text>
       </register>
     </registers>
     <search>
