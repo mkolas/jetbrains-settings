@@ -161,6 +161,7 @@
         <mark key="]" line="4" column="6" />
         <mark key="." line="4" column="6" />
       </file>
+      <file name="$USER_HOME$/_dev/python/wsse/wssepoc.py" timestamp="1555098852905" />
       <file name="$USER_HOME$/_dev/advent2017/22/virus.py" timestamp="1515179709134">
         <mark key="[" line="48" column="3" />
         <mark key="]" line="38" column="0" />
@@ -341,8 +342,11 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/_dev/python/wsse/tests/test_wsse.py" timestamp="1555095154302">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/_dev/python/wsse/tests/test_wsse.py" timestamp="1555097621174">
+        <mark key="[" line="10" column="37" />
+        <mark key="]" line="10" column="37" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="10" column="37" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/notes/migrationnotes.txt" timestamp="1544645317793">
         <mark key="[" line="1" column="119" />
@@ -522,11 +526,11 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/wsse/server.py" timestamp="1555094930438">
-        <mark key="[" line="9" column="40" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="48" column="25" />
+      <file name="$USER_HOME$/_dev/python/wsse/server.py" timestamp="1555099310973">
+        <mark key="[" line="45" column="22" />
+        <mark key="]" line="45" column="21" />
+        <mark key="^" line="45" column="21" />
+        <mark key="." line="45" column="21" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/charting/perio.py" timestamp="1541517878662">
         <mark key="[" line="40" column="0" />
@@ -600,10 +604,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICJPdXRwdXRGb3JtYXQiOiAiSFRNTCIsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>O</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -612,31 +616,31 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICJPdXRwdXRGb3JtYXQiOiAiSFRNTCIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAiTm90IHlldCBpbXBsZW1lbnRlZCIK</text>
+        <text encoding="base64">ICAgIHJlcXVlc3RfZGF0YSA9IGRpY3QoKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAiTm90IHlldCBpbXBsZW1lbnRlZCIK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoci5jb250ZW50KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ciA9IHJlcXVlc3RzLmdldCgiaHR0cDovL2dvb2dsZS5jb20iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgICAgICAgICAgICAgICBhdXRoPVdTU0VBdXRoKHVzZXJuYW1lLCBwYXNzd29yZCkpCg==</text>
+        <text encoding="base64">cHJpbnQoci5jb250ZW50KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyByZXNwb25zZSA9IHJlcXVlc3RzLmdldCgiaHR0cHM6Ly9tY2ludHZ3cnByZC5tZWQudW1pY2guZWR1L0ludGVyY29ubmVjdC1QUkQvd2NmL0N1c3RvbS5DbGluaWNhbC5HZW5lcmF0ZWRTZXJ2aWNlcy9QYXRpZW50LnN2Yz93c2RsIiwK</text>
+        <text encoding="base64">ciA9IHJlcXVlc3RzLmdldCgiaHR0cDovL2dvb2dsZS5jb20iKQo=</text>
       </register>
     </registers>
     <search>
