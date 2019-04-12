@@ -535,11 +535,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/wsse/wssetest.py" timestamp="1555085222516">
+      <file name="$USER_HOME$/_dev/python/wsse/wssetest.py" timestamp="1555090972431">
         <mark key="[" line="28" column="34" />
         <mark key="]" line="28" column="34" />
         <mark key="." line="28" column="34" />
-        <mark key="^" line="27" column="0" />
+        <mark key="^" line="28" column="44" />
       </file>
       <file name="$USER_HOME$/_dev/euler/2-fibonacci.py" timestamp="1516208732046">
         <mark key="[" line="12" column="24" />
@@ -591,10 +591,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
