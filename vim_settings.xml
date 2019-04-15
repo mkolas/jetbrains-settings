@@ -31,7 +31,7 @@
         <mark key="]" line="33" column="25" />
         <mark key="." line="33" column="25" />
       </file>
-      <file name="/a.dummy" timestamp="1555095127719">
+      <file name="/a.dummy" timestamp="1555354436207">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/kmeans-mich-voters/parsevoters.py" timestamp="1519064980888">
@@ -86,11 +86,23 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/_dev/python/michart-python/project/__init__.py" timestamp="1555355309747">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="86" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/charting/perio/perio.py" timestamp="1506111559553">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/_dev/python/michart-python/project/client.py" timestamp="1555355268140">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+        <mark key="." line="0" column="31" />
       </file>
       <file name="$USER_HOME$/_dev/advent2017/19/test.txt" timestamp="1513694604445">
         <mark key="[" line="0" column="5" />
@@ -365,6 +377,12 @@
         <mark key="]" line="1" column="119" />
         <mark key="." line="1" column="119" />
       </file>
+      <file name="$USER_HOME$/_dev/python/michart-python/project/endpoints.py" timestamp="1555355885956">
+        <mark key="[" line="0" column="39" />
+        <mark key="]" line="0" column="37" />
+        <mark key="^" line="0" column="37" />
+        <mark key="." line="0" column="37" />
+      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/csv/events.csv" timestamp="1528917831972">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -615,11 +633,11 @@
       <jump line="55" column="15" filename="$USER_HOME$/_dev/python/advent2018/08/8.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, UsernameToken</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSB6ZWVwLndzc2UudXNlcm5hbWUgaW1wb3J0IFVzZXJuYW1lVG9rZW4K</text>
       </register>
       <register name="-" type="4">
-        <text>, UsernameToken</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -628,31 +646,31 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB6ZWVwLndzc2UudXNlcm5hbWUgaW1wb3J0IFVzZXJuYW1lVG9rZW4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB6ZWVwIGltcG9ydCBDbGllbnQK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXV0aCA9IFVzZXJuYW1lVG9rZW4odXNlcm5hbWUsIHBhc3N3b3JkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXBwID0gRmxhc2soX19uYW1lX18pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y3JlYXRlX2FwcCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFwcC5ydW4oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
