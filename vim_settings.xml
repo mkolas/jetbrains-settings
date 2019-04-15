@@ -137,13 +137,6 @@
         <mark key="." line="51" column="30" />
         <mark key="^" line="51" column="30" />
       </file>
-      <file name="$USER_HOME$/_dev/python/advent2018/08/8.py" timestamp="1544477860919">
-        <mark key="'" line="52" column="15" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="44" column="15" />
-      </file>
       <file name="$USER_HOME$/_dev/advent2017/12/pipes.py" timestamp="1515169931412">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -316,6 +309,9 @@
       <file name="$USER_HOME$/_dev/python/advent2018/09/9.py" timestamp="1544479756357">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/_dev/python/wsse/__init__.py" timestamp="1555339756886">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/procedure/proceduremethods.py" timestamp="1535468279350">
         <mark key="[" line="6" column="20" />
       </file>
@@ -342,10 +338,10 @@
         <mark key="^" line="16" column="24" />
       </file>
       <file name="$USER_HOME$/_dev/python/wsse/tests/test_wsse.py" timestamp="1555336198580">
-        <mark key="[" line="15" column="18" />
-        <mark key="]" line="9" column="4" />
-        <mark key="^" line="9" column="8" />
-        <mark key="." line="9" column="4" />
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="10" column="4" />
+        <mark key="^" line="10" column="8" />
+        <mark key="." line="10" column="4" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/notes/migrationnotes.txt" timestamp="1544645317793">
         <mark key="[" line="1" column="119" />
