@@ -40,6 +40,12 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/_dev/python/wsse/project/__init__.py" timestamp="1555352932570">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="30" />
+        <mark key="." line="1" column="23" />
+      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/create.py" timestamp="1527267776966">
         <mark key="[" line="46" column="44" />
         <mark key="]" line="46" column="44" />
@@ -160,7 +166,7 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1544628487337" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1555350127809" />
       <file name="/Python Console" timestamp="1555092654004">
         <mark key="[" line="0" column="0" />
       </file>
@@ -248,6 +254,9 @@
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/providers/customfields.py" timestamp="1529697843340">
         <mark key="[" line="9" column="32" />
+      </file>
+      <file name="$USER_HOME$/_dev/python/wsse/main.py" timestamp="1555349227902">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/euler/1-fizzbuzz.py" timestamp="1516203913077">
         <mark key="[" line="0" column="0" />
@@ -339,11 +348,17 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/_dev/python/wsse/tests/test_wsse.py" timestamp="1555336198580">
+      <file name="$USER_HOME$/_dev/python/wsse/tests/test_wsse.py" timestamp="1555353136062">
         <mark key="[" line="16" column="18" />
         <mark key="]" line="10" column="4" />
         <mark key="^" line="10" column="8" />
         <mark key="." line="10" column="4" />
+      </file>
+      <file name="$USER_HOME$/_dev/python/wsse/project/server.py" timestamp="1555349442719">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="55" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/notes/migrationnotes.txt" timestamp="1544645317793">
         <mark key="[" line="1" column="119" />
@@ -600,11 +615,11 @@
       <jump line="55" column="15" filename="$USER_HOME$/_dev/python/advent2018/08/8.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFwcC5jb25maWcK</text>
+      <register name="&quot;" type="4">
+        <text>, UsernameToken</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>, UsernameToken</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -613,31 +628,31 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFwcC5jb25maWcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjICJPdXRwdXRGb3JtYXQiOiAiSFRNTCIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RfZGF0YSA9IGRpY3QoKQo=</text>
+        <text encoding="base64">YXV0aCA9IFVzZXJuYW1lVG9rZW4odXNlcm5hbWUsIHBhc3N3b3JkKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAiTm90IHlldCBpbXBsZW1lbnRlZCIK</text>
+        <text encoding="base64">YXBwID0gRmxhc2soX19uYW1lX18pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y3JlYXRlX2FwcCgpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFwcC5ydW4oKQo=</text>
       </register>
     </registers>
     <search>
