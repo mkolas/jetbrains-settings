@@ -309,8 +309,10 @@
       <file name="$USER_HOME$/_dev/python/advent2018/09/9.py" timestamp="1544479756357">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/wsse/__init__.py" timestamp="1555339756886">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/_dev/python/wsse/__init__.py" timestamp="1555341913262">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/procedure/proceduremethods.py" timestamp="1535468279350">
         <mark key="[" line="6" column="20" />
@@ -598,8 +600,8 @@
       <jump line="55" column="15" filename="$USER_HOME$/_dev/python/advent2018/08/8.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>self</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>self</text>
@@ -611,19 +613,19 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjICJPdXRwdXRGb3JtYXQiOiAiSFRNTCIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RfZGF0YSA9IGRpY3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICAjICJPdXRwdXRGb3JtYXQiOiAiSFRNTCIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3RfZGF0YSA9IGRpY3QoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAiTm90IHlldCBpbXBsZW1lbnRlZCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAiTm90IHlldCBpbXBsZW1lbnRlZCIK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -632,10 +634,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoci5jb250ZW50KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ciA9IHJlcXVlc3RzLmdldCgiaHR0cDovL2dvb2dsZS5jb20iKQo=</text>
+        <text encoding="base64">cHJpbnQoci5jb250ZW50KQo=</text>
       </register>
     </registers>
     <search>
