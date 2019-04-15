@@ -161,7 +161,6 @@
         <mark key="]" line="4" column="6" />
         <mark key="." line="4" column="6" />
       </file>
-      <file name="$USER_HOME$/_dev/python/wsse/wssepoc.py" timestamp="1555098852905" />
       <file name="$USER_HOME$/_dev/advent2017/22/virus.py" timestamp="1515179709134">
         <mark key="[" line="48" column="3" />
         <mark key="]" line="38" column="0" />
@@ -342,8 +341,8 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/_dev/python/wsse/tests/test_wsse.py" timestamp="1555101367294">
-        <mark key="[" line="9" column="4" />
+      <file name="$USER_HOME$/_dev/python/wsse/tests/test_wsse.py" timestamp="1555336198580">
+        <mark key="[" line="15" column="18" />
         <mark key="]" line="9" column="4" />
         <mark key="^" line="9" column="8" />
         <mark key="." line="9" column="4" />
