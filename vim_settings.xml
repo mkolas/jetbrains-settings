@@ -377,11 +377,11 @@
         <mark key="]" line="1" column="119" />
         <mark key="." line="1" column="119" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/project/endpoints.py" timestamp="1555355885956">
-        <mark key="[" line="0" column="39" />
-        <mark key="]" line="0" column="37" />
-        <mark key="^" line="0" column="37" />
-        <mark key="." line="0" column="37" />
+      <file name="$USER_HOME$/_dev/python/michart-python/project/endpoints.py" timestamp="1555358922290">
+        <mark key="[" line="51" column="28" />
+        <mark key="]" line="51" column="20" />
+        <mark key="^" line="51" column="20" />
+        <mark key="." line="51" column="20" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/csv/events.csv" timestamp="1528917831972">
         <mark key="[" line="0" column="0" />
@@ -531,7 +531,7 @@
       <file name="$USER_HOME$/_dev/python/kmeans-mich-voters/centroids.csv" timestamp="1519077019292">
         <mark key="[" line="13" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555004738298">
+      <file name="/Dummy.txt" timestamp="1555358927257">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/euler/presistence.py" timestamp="1516294032610">
