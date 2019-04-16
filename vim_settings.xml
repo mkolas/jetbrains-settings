@@ -26,11 +26,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1555441499546">
-        <mark key="[" line="54" column="68" />
-        <mark key="]" line="54" column="58" />
-        <mark key="." line="54" column="58" />
-        <mark key="^" line="54" column="58" />
+      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1555442867518">
+        <mark key="[" line="59" column="10" />
+        <mark key="]" line="59" column="11" />
+        <mark key="." line="59" column="11" />
+        <mark key="^" line="59" column="3" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/procedure/procedurecodes.py" timestamp="1538684752097">
         <mark key="[" line="33" column="25" />
@@ -191,7 +191,7 @@
         <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1555350127809" />
-      <file name="/Python Console" timestamp="1555441516455">
+      <file name="/Python Console" timestamp="1555442869269">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/csv/cdtcodes.csv" timestamp="1538756066110">
@@ -377,6 +377,9 @@
         <mark key="]" line="10" column="4" />
         <mark key="^" line="10" column="8" />
         <mark key="." line="10" column="4" />
+      </file>
+      <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/vitals.html" timestamp="1555442458818">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/wsse/project/server.py" timestamp="1555349442719">
         <mark key="[" line="4" column="0" />
@@ -654,11 +657,11 @@
       <jump line="55" column="15" filename="$USER_HOME$/_dev/python/advent2018/08/8.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvciBlYWNoIHYgaW4gcmVzdWx0LlZpdGFsU3RhdDoK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
