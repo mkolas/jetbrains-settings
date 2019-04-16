@@ -172,11 +172,11 @@
         <mark key="]" line="4" column="6" />
         <mark key="." line="4" column="6" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/tests/test_wsse.py" timestamp="1555362469123">
-        <mark key="[" line="1" column="20" />
-        <mark key="]" line="1" column="20" />
-        <mark key="." line="1" column="20" />
-        <mark key="^" line="1" column="24" />
+      <file name="$USER_HOME$/_dev/python/michart-python/tests/test_wsse.py" timestamp="1555422734592">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+        <mark key="^" line="1" column="19" />
       </file>
       <file name="$USER_HOME$/_dev/advent2017/22/virus.py" timestamp="1515179709134">
         <mark key="[" line="48" column="3" />
@@ -640,10 +640,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -652,31 +652,31 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgRmxhc2sK</text>
+        <text encoding="base64">ZGVmIGNsaWVudCgpOgogICAgZmxhc2tyLmFwcC5jb25maWdbJ1RFU1RJTkcnXSA9IFRydWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBwID0gRmxhc2soX19uYW1lX18pCg==</text>
+        <text encoding="base64">ICAgIGRiX2ZkLCBhcHAuY29uZmlnWydEQVRBQkFTRSddID0gdGVtcGZpbGUubWtzdGVtcCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
+        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgRmxhc2sK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBwcm9qZWN0LmVuZHBvaW50cyBpbXBvcnQgYXBwCg==</text>
+        <text encoding="base64">YXBwID0gRmxhc2soX19uYW1lX18pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ZnJvbSBwcm9qZWN0LmVuZHBvaW50cyBpbXBvcnQgYXBwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIGNsaWVudAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGNyZWF0ZV9jbGllbnQoKToK</text>
+        <text encoding="base64">ICAgIHlpZWxkIGNsaWVudAo=</text>
       </register>
     </registers>
     <search>
