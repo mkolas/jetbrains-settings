@@ -26,10 +26,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1555447848409">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1555449915337">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/procedure/procedurecodes.py" timestamp="1538684752097">
         <mark key="[" line="33" column="25" />
@@ -660,10 +660,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZW5kZXJfcGRmKEhUTUwoY2xpZW50LnBvc3QoJy9taWNoYXJ0L3ZpdGFscycsIGpzb249cmVxdWVzdC5nZXRfanNvbigpKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBhYm9ydCg0MDApCg==</text>
       </register>
       <register name="-" type="4">
-        <text>={&quot;patientId&quot;: &quot;060000384&quot;, &quot;userId&quot;: &quot;mkolas&quot;})</text>
+        <text>request.get_json()['patientId']</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -672,31 +672,31 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZW5kZXJfcGRmKEhUTUwoY2xpZW50LnBvc3QoJy9taWNoYXJ0L3ZpdGFscycsIGpzb249cmVxdWVzdC5nZXRfanNvbigpKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBhYm9ydCg0MDApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZW5kZXJfcGRmKHVybF9mb3IoJ21pY2hhcnQuZ2V0X3BhdGllbnRfdml0YWxzJywganNvbj1yZXF1ZXN0LmdldF9qc29uKCkpKQo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCByZXF1ZXN0LmdldF9qc29uKCk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGxpPnt7dml0YWwuRlNESUR9fTwvbGk+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICBhYm9ydCg0MDApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGxpPnt7dml0YWwuRlNESUR9fTwvbGk+LS0+Cg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCByZXF1ZXN0LmdldF9qc29uKCk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGxpPnt7dml0YWwuRlNESUR9fTwvbGk+LS0+Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZW5kZXJfcGRmKEhUTUwoY2xpZW50LnBvc3QoJy9taWNoYXJ0L3ZpdGFscycsIGpzb249cmVxdWVzdC5nZXRfanNvbigpKSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGxpPnt7dml0YWwuRlNESUR9fTwvbGk+LS0+Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZW5kZXJfcGRmKHVybF9mb3IoJ21pY2hhcnQuZ2V0X3BhdGllbnRfdml0YWxzJywganNvbj1yZXF1ZXN0LmdldF9qc29uKCkpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPGxpPnt7dml0YWwuRlNESUR9fTwvbGk+LS0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciBlYWNoIHYgaW4gcmVzdWx0LlZpdGFsU3RhdDoK</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPGxpPnt7dml0YWwuRlNESUR9fTwvbGk+LS0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPGxpPnt7dml0YWwuRlNESUR9fTwvbGk+LS0+Cg==</text>
       </register>
     </registers>
     <search>
