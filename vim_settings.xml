@@ -26,10 +26,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1555449915337">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1555513647739">
+        <mark key="[" line="61" column="26" />
+        <mark key="]" line="0" column="37" />
+        <mark key="." line="0" column="37" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/procedure/procedurecodes.py" timestamp="1538684752097">
         <mark key="[" line="33" column="25" />
@@ -190,7 +190,7 @@
         <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1555350127809" />
-      <file name="/Python Console" timestamp="1555444924460">
+      <file name="/Python Console" timestamp="1555513334372">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/csv/cdtcodes.csv" timestamp="1538756066110">
@@ -659,11 +659,11 @@
       <jump line="55" column="15" filename="$USER_HOME$/_dev/python/advent2018/08/8.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhYm9ydCg0MDApCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>request.get_json()['patientId']</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
