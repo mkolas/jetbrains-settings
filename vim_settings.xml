@@ -5,37 +5,17 @@
       <mark key="N" line="288" column="21" filename="$USER_HOME$/_dev/python/ice-json-create/models.py" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/_dev/euler/3-primefactor.py" timestamp="1516206990806">
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="9" />
-        <mark key="." line="2" column="9" />
-      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/create.py" timestamp="1515513057329">
         <mark key="[" line="43" column="19" />
         <mark key="]" line="49" column="26" />
         <mark key="^" line="49" column="26" />
         <mark key="." line="49" column="26" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/csv/codes.csv" timestamp="1537218155537">
-        <mark key="[" line="582" column="84" />
-        <mark key="]" line="582" column="85" />
-        <mark key="." line="582" column="85" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/python-scratchpad/mysqltest/InCommon.CA.crt" timestamp="1531405152492">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1555599311637">
-        <mark key="[" line="43" column="25" />
-        <mark key="]" line="22" column="25" />
-        <mark key="^" line="22" column="25" />
-        <mark key="." line="22" column="25" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/procedure/procedurecodes.py" timestamp="1538684752097">
-        <mark key="[" line="33" column="25" />
-        <mark key="]" line="33" column="25" />
-        <mark key="." line="33" column="25" />
+      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1555602422763">
+        <mark key="[" line="28" column="36" />
+        <mark key="]" line="31" column="47" />
+        <mark key="^" line="31" column="47" />
+        <mark key="." line="31" column="47" />
       </file>
       <file name="/a.dummy" timestamp="1555436810453">
         <mark key="[" line="0" column="0" />
@@ -58,11 +38,6 @@
         <mark key="^" line="65" column="17" />
         <mark key="." line="46" column="44" />
       </file>
-      <file name="$USER_HOME$/_dev/advent2017/13/firewall2.py" timestamp="1513190182004">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-      </file>
       <file name="$USER_HOME$/_dev/python/python-scratchpad/mysqltest/mysqlalch.py" timestamp="1531494509935">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="24" />
@@ -80,11 +55,6 @@
         <mark key="]" line="10" column="31" />
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="85" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/python-scratchpad/providerstraining.py" timestamp="1539615909028">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json-extract/charting/perio/perio.py" timestamp="1506103803991">
         <mark key="[" line="0" column="0" />
@@ -110,11 +80,6 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/_dev/advent2017/19/test.txt" timestamp="1513694604445">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="5" column="15" />
-        <mark key="." line="5" column="15" />
-      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/findings/findingcodes.py" timestamp="1541539476099">
         <mark key="[" line="13" column="0" />
       </file>
@@ -133,21 +98,11 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="74" column="11" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/providers/providers.py" timestamp="1541540351674">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="130" column="29" />
-        <mark key="." line="130" column="29" />
-      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/requirements.txt" timestamp="1526310147380">
         <mark key="[" line="8" column="12" />
         <mark key="]" line="12" column="0" />
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/advent2017/11/hex.py" timestamp="1513011606355">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/advent2018/05/5.py" timestamp="1544025234161">
         <mark key="[" line="9" column="0" />
@@ -179,11 +134,6 @@
         <mark key="^" line="37" column="100" />
         <mark key="." line="37" column="100" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/providers/providercustomfields.py" timestamp="1522936602896">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="4" column="6" />
-        <mark key="." line="4" column="6" />
-      </file>
       <file name="$USER_HOME$/_dev/python/michart-python/tests/test_wsse.py" timestamp="1555596143386">
         <mark key="[" line="20" column="49" />
         <mark key="]" line="20" column="49" />
@@ -197,15 +147,10 @@
         <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1555350127809" />
-      <file name="/Python Console" timestamp="1555596523411">
+      <file name="/Python Console" timestamp="1555602426180">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/csv/cdtcodes.csv" timestamp="1538756066110">
-        <mark key="[" line="267" column="0" />
-        <mark key="]" line="267" column="0" />
-        <mark key="." line="267" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1555441138311">
+      <file name="/fragment.py" timestamp="1555602452092">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/ptbal.py" timestamp="1506359062869">
@@ -213,11 +158,6 @@
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/advent2018/12/12.py" timestamp="1545070207030">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/events.py" timestamp="1528918915394">
         <mark key="[" line="24" column="4" />
@@ -237,11 +177,6 @@
         <mark key="." line="1" column="117" />
         <mark key="^" line="1" column="117" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/extractconfigs.py" timestamp="1542641426315">
-        <mark key="[" line="107" column="72" />
-        <mark key="]" line="29" column="65" />
-        <mark key="." line="29" column="65" />
-      </file>
       <file name="$USER_HOME$/_dev/python/kmeans-mich-voters/voters.csv" timestamp="1519072568748">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -254,21 +189,11 @@
         <mark key="^" line="28" column="69" />
         <mark key="." line="28" column="69" />
       </file>
-      <file name="$USER_HOME$/mitools_assets/import.py" timestamp="1549035653426">
-        <mark key="[" line="23" column="12" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/_dev/advent2017/18/duet.py" timestamp="1513610118631">
         <mark key="[" line="47" column="18" />
         <mark key="]" line="48" column="0" />
         <mark key="^" line="46" column="39" />
         <mark key="." line="48" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/advent2018/10/10.py" timestamp="1544823902388">
-        <mark key="[" line="35" column="42" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/orthopmt.py" timestamp="1506359067673">
         <mark key="[" line="0" column="5" />
@@ -297,26 +222,11 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/python-scratchpad/axium-binary/binary.py" timestamp="1513100717625">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="14" />
-        <mark key="." line="2" column="14" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/tests/test_utilities.py" timestamp="1515432974407">
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="5" column="31" />
-        <mark key="." line="5" column="31" />
-      </file>
       <file name="$USER_HOME$/_dev/python/python-scratchpad/mergingproccodes/jsontocsv.py" timestamp="1538675414350">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/rainwater/sample.txt" timestamp="1527793283403">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/treatment/treatmentcodes.py" timestamp="1510342817775">
         <mark key="[" line="1" column="5" />
@@ -348,23 +258,8 @@
       <file name="$USER_HOME$/_dev/python/advent2018/09/9.py" timestamp="1544479756357">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/wsse/__init__.py" timestamp="1555345173665">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/procedure/proceduremethods.py" timestamp="1535468279350">
         <mark key="[" line="6" column="20" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/kmeans-mich-voters/zipcodes.csv" timestamp="1519070620782">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/csv/customcodes.csv" timestamp="1538756078037">
-        <mark key="[" line="320" column="0" />
-        <mark key="]" line="320" column="0" />
-        <mark key="." line="320" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/docs/extracts.rst" timestamp="1517853080702">
         <mark key="[" line="123" column="46" />
@@ -384,7 +279,7 @@
         <mark key="^" line="10" column="8" />
         <mark key="." line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/vitals.html" timestamp="1555445101220">
+      <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/vitals.html" timestamp="1555601240110">
         <mark key="[" line="7" column="37" />
         <mark key="]" line="6" column="107" />
         <mark key="^" line="6" column="107" />
@@ -395,11 +290,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="55" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/notes/migrationnotes.txt" timestamp="1544645317793">
-        <mark key="[" line="1" column="119" />
-        <mark key="]" line="1" column="119" />
-        <mark key="." line="1" column="119" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/project/endpoints.py" timestamp="1555362145822">
         <mark key="[" line="51" column="28" />
@@ -416,10 +306,11 @@
       <file name="$USER_HOME$/_dev/python/michart-python/main.py" timestamp="1555435146118">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/charting/dontia.py" timestamp="1541516983026">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="17" column="67" />
-        <mark key="." line="17" column="67" />
+      <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/allergies.html" timestamp="1555601645629">
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="12" column="31" />
+        <mark key="^" line="12" column="31" />
+        <mark key="." line="12" column="31" />
       </file>
       <file name="$USER_HOME$/_dev/advent2017/13/firewall.py" timestamp="1515175029802">
         <mark key="[" line="47" column="45" />
@@ -439,11 +330,6 @@
         <mark key="." line="48" column="16" />
         <mark key="^" line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/advent2017/20/test.txt" timestamp="1513782709131">
-        <mark key="[" line="2" column="34" />
-        <mark key="]" line="2" column="34" />
-        <mark key="." line="2" column="34" />
-      </file>
       <file name="$USER_HOME$/_dev/advent2017/20/particle.py" timestamp="1513782882528">
         <mark key="[" line="40" column="6" />
         <mark key="]" line="39" column="0" />
@@ -462,37 +348,17 @@
         <mark key="." line="29" column="29" />
         <mark key="^" line="29" column="29" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/Jenkinsfile" timestamp="1515431785261">
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/config.ini" timestamp="1541085328451">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/twitter-bubble/auth.py" timestamp="1518466632644">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/_dev/python/python-ml/keras-dogcat.py" timestamp="1518453845149">
         <mark key="[" line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/alchemy/oracleconnector.py" timestamp="1541094116125">
-        <mark key="[" line="15" column="63" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/kmeans-mich-voters/centroids.py" timestamp="1519076992308">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
         <mark key="^" line="4" column="24" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/kmeans-mich-voters/kmeans.py" timestamp="1520447025293">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="26" />
-        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/notes/migrationtransformations.txt" timestamp="1544629148085">
         <mark key="[" line="0" column="0" />
@@ -511,11 +377,6 @@
         <mark key="]" line="15" column="34" />
         <mark key="^" line="15" column="34" />
         <mark key="." line="15" column="34" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/constants.py" timestamp="1528743643186">
-        <mark key="[" line="62" column="12" />
-        <mark key="]" line="53" column="22" />
-        <mark key="." line="53" column="22" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/mapfunctions.py" timestamp="1542302917756">
         <mark key="[" line="74" column="61" />
@@ -544,11 +405,6 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/advent2017/19/tubes.py" timestamp="1515179255159">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="$USER_HOME$/_dev/advent2017/22/enhanced.py" timestamp="1515170340713">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -567,11 +423,6 @@
       <file name="/Dummy.txt" timestamp="1555595430578">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/euler/presistence.py" timestamp="1516294032610">
-        <mark key="[" line="11" column="27" />
-        <mark key="]" line="11" column="26" />
-        <mark key="." line="11" column="26" />
-      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/patient_export.py" timestamp="1542312774948">
         <mark key="[" line="22" column="34" />
         <mark key="]" line="19" column="30" />
@@ -583,11 +434,6 @@
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
         <mark key="^" line="2" column="6" />
-      </file>
-      <file name="$USER_HOME$/_dev/advent2017/14/disk.py" timestamp="1513268876211">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/wsse/server.py" timestamp="1555101414921">
         <mark key="[" line="44" column="23" />
@@ -601,26 +447,17 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="46" column="67" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/findings/findings.py" timestamp="1543589402767">
-        <mark key="[" line="3" column="46" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/advent2017/15/pickygenerators.py" timestamp="1515171345201">
-        <mark key="[" line="19" column="17" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/_dev/python/wsse/wssetest.py" timestamp="1555094814197">
         <mark key="[" line="28" column="34" />
         <mark key="]" line="28" column="34" />
         <mark key="." line="28" column="34" />
         <mark key="^" line="28" column="44" />
       </file>
-      <file name="$USER_HOME$/_dev/euler/2-fibonacci.py" timestamp="1516208732046">
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/ptinfo.html" timestamp="1555602354382">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="36" />
+        <mark key="." line="8" column="36" />
+        <mark key="^" line="8" column="36" />
       </file>
     </filemarks>
     <jumps>
@@ -667,10 +504,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ushadron</text>
+        <text>.Value</text>
       </register>
       <register name="-" type="4">
-        <text>ushadron</text>
+        <text>.Value</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -679,31 +516,31 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAiTm90IHlldCBpbXBsZW1lbnRlZCIK</text>
+        <text encoding="base64">eyUgZW5kZm9yICV9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eyUgZm9yIHZpdGFsIGluIHZpdGFsc19saXN0ICV9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHJldHVybiAiTm90IHlldCBpbXBsZW1lbnRlZCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">PGI+V2VpZ2h0OiA8L2I+e3t2aXRhbC5XZWlnaHQuVmFsdWV9fTxiciAvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIklEVHlwZSI6ICJTWVNURU1MT0dJTiIK</text>
+        <text encoding="base64">PGI+SGVpZ2h0OiA8L2I+e3t2aXRhbC5IZWlnaHQuVmFsdWV9fTxiciAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIklEIjogIm1rb2xhcyIsICAjIHRlbXBvcmFyeSBoYXJkY29kZWQgdXNlcgo=</text>
+        <text encoding="base64">PGI+V2VpZ2h0OiA8L2I+e3t2aXRhbC5XZWlnaHQuVmFsdWV9fTxiciAvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAiSUQiOiByZXF1ZXN0LmdldF9qc29uKClbJ3VzZXJJZCddLAo=</text>
+        <text encoding="base64">PGI+SGVpZ2h0OiA8L2I+e3t2aXRhbC5IZWlnaHQuVmFsdWV9fTxiciAvPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiVXNlcklEIjogewo=</text>
+        <text encoding="base64">PGI+UmVzcGlyYXRpb25zOiA8L2I+e3t2aXRhbC5SZXNwaXJhdGlvbnMuVmFsdWV9fSB7eyIoIit2aXRhbC5SZXNwaXJhdGlvbnMuQ29tbWVudCsiKSIgaWYgdml0YWwuUmVzcGlyYXRpb25zLkNvbW1lbnQgIT0gTm9uZX19PGJyIC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">PGI+VGVtcGVyYXR1cmU6IDwvYj57e3ZpdGFsLlRlbXBlcmF0dXJlLlZhbHVlfX0ge3siKCIrdml0YWwuVGVtcGVyYXR1cmUuQ29tbWVudCsiKSIgaWYgdml0YWwuVGVtcGVyYXR1cmUuQ29tbWVudCAhPSBOb25lfX08YnIgLz4K</text>
       </register>
     </registers>
     <search>
