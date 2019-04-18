@@ -14,11 +14,11 @@
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/procedure/proceduremethods.py" timestamp="1535468279350">
         <mark key="[" line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1555606257938">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="2" column="40" />
-        <mark key="^" line="2" column="49" />
-        <mark key="." line="2" column="40" />
+      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1555609134681">
+        <mark key="[" line="54" column="48" />
+        <mark key="]" line="54" column="48" />
+        <mark key="^" line="54" column="34" />
+        <mark key="." line="54" column="48" />
       </file>
       <file name="/a.dummy" timestamp="1555605475164">
         <mark key="[" line="0" column="0" />
@@ -176,6 +176,12 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="2" column="7" />
       </file>
+      <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/appointments.html" timestamp="1555608995211">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="8" column="39" />
+      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/appointments.py" timestamp="1542641399862">
         <mark key="[" line="64" column="44" />
         <mark key="]" line="66" column="67" />
@@ -276,10 +282,10 @@
         <mark key="." line="11" column="46" />
         <mark key="^" line="11" column="46" />
       </file>
-      <file name="/Python Console" timestamp="1555606277599">
+      <file name="/Python Console" timestamp="1555610000690">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1555604216461">
+      <file name="/fragment.py" timestamp="1555609370614">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/ptbal.py" timestamp="1506359062869">
@@ -510,10 +516,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.TimeEntered</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.TimeEntered</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -522,31 +528,31 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgTWlDaGFydENsaWVudChtZXRhY2xhc3M9U2luZ2xldG9uKTopOgo=</text>
+        <text encoding="base64">ICAgIHslIGZvciByZWFjdGlvbiBpbiBhbGxlcmd5LlJlYWN0aW9ucy5zdHJpbmcgJX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgZwo=</text>
+        <text encoding="base64">ICAgIDxsaT57e3JlYWN0aW9ufX08L2xpPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJDdXN0b20uQ2xpbmljYWwuR2VuZXJhdGVkU2VydmljZXMvUGF0aWVudC5zdmM/d3NkbCIsCg==</text>
+        <text encoding="base64">ICAgIHslIGVuZGZvciAlfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdzc2U9VXNlcm5hbWVUb2tlbih1c2VybmFtZSwgcGFzc3dvcmQpKQo=</text>
+        <text encoding="base64">PC91bD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">eyUgZW5kZm9yICV9Cg==</text>
+        <text encoding="base64">Y2xhc3MgTWlDaGFydENsaWVudChtZXRhY2xhc3M9U2luZ2xldG9uKTopOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">eyUgZm9yIHZpdGFsIGluIHZpdGFsc19saXN0ICV9Cg==</text>
+        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAiTm90IHlldCBpbXBsZW1lbnRlZCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJDdXN0b20uQ2xpbmljYWwuR2VuZXJhdGVkU2VydmljZXMvUGF0aWVudC5zdmM/d3NkbCIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGI+V2VpZ2h0OiA8L2I+e3t2aXRhbC5XZWlnaHQuVmFsdWV9fTxiciAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdzc2U9VXNlcm5hbWVUb2tlbih1c2VybmFtZSwgcGFzc3dvcmQpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGI+SGVpZ2h0OiA8L2I+e3t2aXRhbC5IZWlnaHQuVmFsdWV9fTxiciAvPgo=</text>
+        <text encoding="base64">eyUgZW5kZm9yICV9Cg==</text>
       </register>
     </registers>
     <search>
