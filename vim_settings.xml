@@ -26,7 +26,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1555534783241">
+      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1555595157006">
         <mark key="[" line="33" column="34" />
         <mark key="]" line="33" column="34" />
         <mark key="^" line="65" column="101" />
@@ -178,11 +178,11 @@
         <mark key="]" line="4" column="6" />
         <mark key="." line="4" column="6" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/tests/test_wsse.py" timestamp="1555447759495">
-        <mark key="[" line="21" column="10" />
-        <mark key="]" line="22" column="4" />
-        <mark key="." line="22" column="4" />
-        <mark key="^" line="20" column="21" />
+      <file name="$USER_HOME$/_dev/python/michart-python/tests/test_wsse.py" timestamp="1555595410808">
+        <mark key="[" line="20" column="49" />
+        <mark key="]" line="20" column="49" />
+        <mark key="." line="20" column="49" />
+        <mark key="^" line="25" column="18" />
       </file>
       <file name="$USER_HOME$/_dev/advent2017/22/virus.py" timestamp="1515179709134">
         <mark key="[" line="48" column="3" />
@@ -191,7 +191,7 @@
         <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1555350127809" />
-      <file name="/Python Console" timestamp="1555534795334">
+      <file name="/Python Console" timestamp="1555595434916">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/csv/cdtcodes.csv" timestamp="1538756066110">
@@ -558,7 +558,7 @@
       <file name="$USER_HOME$/_dev/python/kmeans-mich-voters/centroids.csv" timestamp="1519077019292">
         <mark key="[" line="13" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555436216122">
+      <file name="/Dummy.txt" timestamp="1555595430578">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/euler/presistence.py" timestamp="1516294032610">
@@ -661,10 +661,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>')</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>')</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
