@@ -14,10 +14,10 @@
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/procedure/proceduremethods.py" timestamp="1535468279350">
         <mark key="[" line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1555618464359">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1555621215772">
+        <mark key="[" line="86" column="89" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1555605475164">
         <mark key="[" line="0" column="0" />
@@ -397,6 +397,12 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/problems.html" timestamp="1555621487293">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="29" />
+        <mark key="." line="1" column="29" />
+        <mark key="^" line="1" column="29" />
+      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/patient_export.py" timestamp="1542312774948">
         <mark key="[" line="22" column="34" />
         <mark key="]" line="19" column="30" />
@@ -469,7 +475,7 @@
       <file name="$USER_HOME$/_dev/python/advent2018/09/9.py" timestamp="1544479756357">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/medications.html" timestamp="1555618154670">
+      <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/medications.html" timestamp="1555621391478">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="8" column="59" />
@@ -519,11 +525,11 @@
       <jump line="55" column="15" filename="$USER_HOME$/_dev/python/advent2018/08/8.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAiTm90IHlldCBpbXBsZW1lbnRlZGRkIgo=</text>
+      <register name="&quot;" type="4">
+        <text>medication_list</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>medication_list</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -532,31 +538,31 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAiTm90IHlldCBpbXBsZW1lbnRlZGRkIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAiTm90IHlldCBpbXBsZW1lbnRlZGRkIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGI+VmlzaXQgVHlwZTogPC9iPnt7YXBwdC5WaXNpdFR5cGVzLlZpc2l0VHlwZVswXS5OYW1lfX08YnIgLz4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PGI+U3RhcnQgRGF0ZTogPC9iPnt7IGVsc2UgIk5vbmUifX08YnIgLz4K</text>
+        <text encoding="base64">PGI+VmlzaXQgVHlwZTogPC9iPnt7YXBwdC5WaXNpdFR5cGVzLlZpc2l0VHlwZVswXS5OYW1lfX08YnIgLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBUcnVlCg==</text>
+        <text encoding="base64">PGI+U3RhcnQgRGF0ZTogPC9iPnt7IGVsc2UgIk5vbmUifX08YnIgLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHslIGZvciByZWFjdGlvbiBpbiBhbGxlcmd5LlJlYWN0aW9ucy5zdHJpbmcgJX0K</text>
+        <text encoding="base64">ICAgIHJldHVybiBUcnVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxsaT57e3JlYWN0aW9ufX08L2xpPgo=</text>
+        <text encoding="base64">ICAgIHslIGZvciByZWFjdGlvbiBpbiBhbGxlcmd5LlJlYWN0aW9ucy5zdHJpbmcgJX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHslIGVuZGZvciAlfQo=</text>
+        <text encoding="base64">ICAgIDxsaT57e3JlYWN0aW9ufX08L2xpPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PC91bD4K</text>
+        <text encoding="base64">ICAgIHslIGVuZGZvciAlfQo=</text>
       </register>
     </registers>
     <search>
