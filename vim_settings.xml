@@ -11,14 +11,20 @@
         <mark key="^" line="49" column="26" />
         <mark key="." line="49" column="26" />
       </file>
+      <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/immunizations.html" timestamp="1556210363498">
+        <mark key="[" line="3" column="59" />
+        <mark key="]" line="2" column="36" />
+        <mark key="." line="2" column="36" />
+        <mark key="^" line="2" column="36" />
+      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/procedure/proceduremethods.py" timestamp="1535468279350">
         <mark key="[" line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1556208132682">
-        <mark key="[" line="56" column="62" />
-        <mark key="]" line="56" column="62" />
-        <mark key="." line="56" column="62" />
-        <mark key="^" line="95" column="68" />
+      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1556209564351">
+        <mark key="[" line="143" column="61" />
+        <mark key="]" line="143" column="61" />
+        <mark key="." line="143" column="61" />
+        <mark key="^" line="142" column="46" />
       </file>
       <file name="/a.dummy" timestamp="1555605475164">
         <mark key="[" line="0" column="0" />
@@ -128,7 +134,7 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/allergies.html" timestamp="1556031683551">
+      <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/allergies.html" timestamp="1556208892742">
         <mark key="[" line="5" column="40" />
         <mark key="]" line="12" column="31" />
         <mark key="^" line="12" column="31" />
@@ -281,10 +287,10 @@
         <mark key="." line="11" column="46" />
         <mark key="^" line="11" column="46" />
       </file>
-      <file name="/Python Console" timestamp="1556207599305">
+      <file name="/Python Console" timestamp="1556210367523">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1556207620861">
+      <file name="/fragment.py" timestamp="1556210314332">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/ptbal.py" timestamp="1506359062869">
@@ -539,10 +545,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -551,31 +557,31 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGI+U3BlY2lhbHR5OiA8L2I+e3thbGxlcmd5LkRhdGVOb3RlZH19PGJyIC8+Cg==</text>
+        <text encoding="base64">PGhyIC8+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PC91bD4K</text>
+        <text encoding="base64">PGI+VGltZSBFbnRlcmVkOiA8L2I+e3thbGxlcmd5LlRpbWVFbnRlcmVkfX08YnIgLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHslIGVuZGZvciAlfQo=</text>
+        <text encoding="base64">PGI+RGF0ZSBOb3RlZDogPC9iPnt7YWxsZXJneS5EYXRlTm90ZWR9fTxiciAvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxsaT57e3JlYWN0aW9ufX08L2xpPgo=</text>
+        <text encoding="base64">PGI+RGF0ZSBFbnRlcmVkOiA8L2I+e3thbGxlcmd5LkRhdGVFbnRlcmVkfX08YnIgLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHslIGZvciByZWFjdGlvbiBpbiBhbGxlcmd5LlJlYWN0aW9ucy5zdHJpbmcgJX0K</text>
+        <text encoding="base64">PGI+SW1tdW5pemF0aW9uOiA8L2I+e3thbGxlcmd5LlJlYWN0aW9uQ29tbWVudH19PGJyIC8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGI+UmVhY3Rpb25zOiA8L2I+IDx1bD4K</text>
+        <text encoding="base64">PGI+SW1tdW5pemF0aW9uRGF0ZTogPC9iPnt7aW1tdW5pemF0aW9uLkltbXVuaXphdGlvbkRhdGV9fTxiciAvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGI+OiA8L2I+e3thbGxlcmd5LlRpbWVFbnRlcmVkfX08YnIgLz4K</text>
+        <text encoding="base64">PGI+SW1tdW5pemF0aW9uVHlwZTogPC9iPnt7aW1tdW5pemF0aW9uLkltbXVuaXphdGlvblR5cGV9fTxiciAvPgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiMKIyBkZWYgZ2V0X2N1c3RvbV9jbGluaWNhbF9jbGllbnQoKToKIyAgICAgaWYgJ2N1c3RvbV9jbGluaWNhbCcgbm90IGluIGc6CiMgICAgICAgICBnLmN1c3RvbV9jbGluaWNhbCA9IENsaWVudCgiaHR0cDovL21jaW50dndycHJkLm1lZC51bWljaC5lZHUvSW50ZXJjb25uZWN0LVBSRC93Y2YvIgojICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIkN1c3RvbS5DbGluaWNhbC5HZW5lcmF0ZWRTZXJ2aWNlcy9QYXRpZW50LnN2Yz93c2RsIiwKIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdzc2U9VXNlcm5hbWVUb2tlbih1c2VybmFtZSwgcGFzc3dvcmQpKQojICAgICByZXR1cm4gZy5jdXN0b21fY2xpbmljYWwuc2VydmljZQojCiMKIyBkZWYgZ2V0X2N1c3RvbV9jbGluaWNhbF9jbGllbnRfMjAxMygpOgojICAgICAiIiIKIyAgICAgU29tZSBvZiB0aGUgaG9zcGl0YWwncyBjdXN0b20gc2VydmljZXMgYXJlIG9uIHRoZSBJUGF0aWVudDIwMTMgcG9ydCBpbnN0ZWFkIG9mIElQYXRpZW50MjAxMS4gRm9yIHRoZXNlLAojICAgICB3ZSBuZWVkIHRvIGJpbmQgdGhlIGNsaWVudCB0byB0aGUgb3RoZXIgc2VydmljZS9wb3J0IGNvbmZpZ3VyYXRpb24uCiMgICAgIDpyZXR1cm46IFNPQVAgQ2xpZW50IGJvdW5kIHRvIFBhdGllbnQvSVBhdGllbnQyMDEzCiMgICAgICIiIgojICAgICBpZiAnY3VzdG9tX2NsaW5pY2FsXzIwMTMnIG5vdCBpbiBnOgojICAgICAgICAgZy5jdXN0b21fY2xpbmljYWxfMjAxMyA9IGcuY3VzdG9tX2NsaW5pY2FsID0gQ2xpZW50KCJodHRwOi8vbWNpbnR2d3JwcmQubWVkLnVtaWNoLmVkdS9JbnRlcmNvbm5lY3QtUFJEL3djZi8iCiMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIkN1c3RvbS5DbGluaWNhbC5HZW5lcmF0ZWRTZXJ2aWNlcy9QYXRpZW50LnN2Yz93c2RsIiwKIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3c3NlPVVzZXJuYW1lVG9rZW4odXNlcm5hbWUsIHBhc3N3b3JkKSkuXAojICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpbmQoc2VydmljZV9uYW1lPSJQYXRpZW50IiwgcG9ydF9uYW1lPSJJUGF0aWVudDIwMTMiKQojICAgICByZXR1cm4gZy5jdXN0b21fY2xpbmljYWxfMjAxMwojCiMKIyBkZWYgZ2V0X2VwaWNfY2xpbmljYWxfY2xpZW50KCk6CiMgICAgIGlmICdlcGljX2NsaW5pY2FsJyBub3QgaW4gZzoKIyAgICAgICAgIGcuZXBpY19jbGluaWNhbCA9IENsaWVudCgiaHR0cDovL21jaW50dndycHJkLm1lZC51bWljaC5lZHUvSW50ZXJjb25uZWN0LVBSRC93Y2YvIgojICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJFcGljLkNsaW5pY2FsLlNlcnZpY2VzL0NsaW5pY2FsLnN2Yz93c2RsIiwKIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3c3NlPVVzZXJuYW1lVG9rZW4odXNlcm5hbWUsIHBhc3N3b3JkKSkKIyAgICAgcmV0dXJuIGcuZXBpY19jbGluaWNhbC5zZXJ2aWNl</text>
+      <register name="8" type="2">
+        <text encoding="base64">PC91bD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHslIGVuZGZvciAlfQo=</text>
       </register>
     </registers>
     <search>
