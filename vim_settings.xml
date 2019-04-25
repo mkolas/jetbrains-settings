@@ -26,6 +26,13 @@
         <mark key="." line="162" column="0" />
         <mark key="^" line="153" column="85" />
       </file>
+      <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/guarantors.html" timestamp="1556222182367">
+        <mark key="'" line="41" column="9" />
+        <mark key="[" line="40" column="60" />
+        <mark key="]" line="40" column="61" />
+        <mark key="." line="40" column="61" />
+        <mark key="^" line="40" column="61" />
+      </file>
       <file name="/a.dummy" timestamp="1555605475164">
         <mark key="[" line="0" column="0" />
       </file>
@@ -287,7 +294,7 @@
         <mark key="." line="11" column="46" />
         <mark key="^" line="11" column="46" />
       </file>
-      <file name="/Python Console" timestamp="1556218371996">
+      <file name="/Python Console" timestamp="1556222207578">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1556214512218">
@@ -542,16 +549,17 @@
       <jump line="6" column="39" filename="$USER_HOME$/_dev/python/ice-json-create/json_extract/notes/nodecode.py" />
       <jump line="40" column="45" filename="$USER_HOME$/_dev/python/advent2018/08/8.py" />
       <jump line="55" column="15" filename="$USER_HOME$/_dev/python/advent2018/08/8.py" />
+      <jump line="8" column="9" filename="$USER_HOME$/_dev/python/michart-python/michart/templates/guarantors.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>encounter</text>
       </register>
       <register name="0" type="4">
         <text>key</text>
@@ -583,11 +591,16 @@
       <register name="9" type="2">
         <text encoding="base64">PGI+SW1tdW5pemF0aW9uVHlwZTogPC9iPnt7aW1tdW5pemF0aW9uLkltbXVuaXphdGlvblR5cGV9fTxiciAvPgo=</text>
       </register>
+      <register name=":" type="4">
+        <text>%s/encounter/guarantor/g</text>
+      </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>encounter</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>encounter</last-pattern>
+      <last-replace>guarantor</last-replace>
+      <last-substitute>encounter</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -600,8 +613,12 @@
         <entry>primaryClinic</entry>
         <entry encoding="base64">XDxyZXN1bHRzXD4=</entry>
         <entry>print</entry>
+        <entry>encounter</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>/%s/encounter/guarantor/g</entry>
+        <entry>%s/encounter/guarantor/g</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
