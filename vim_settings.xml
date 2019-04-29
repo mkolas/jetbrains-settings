@@ -20,11 +20,11 @@
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/procedure/proceduremethods.py" timestamp="1535468279350">
         <mark key="[" line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1556563256264">
-        <mark key="[" line="113" column="11" />
-        <mark key="]" line="113" column="15" />
-        <mark key="." line="113" column="15" />
-        <mark key="^" line="113" column="15" />
+      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1556564163898">
+        <mark key="[" line="115" column="68" />
+        <mark key="]" line="114" column="96" />
+        <mark key="." line="114" column="96" />
+        <mark key="^" line="114" column="96" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/guarantors.html" timestamp="1556222182367">
         <mark key="'" line="41" column="9" />
@@ -555,10 +555,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>vitals</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>vitals</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>encounter</text>
