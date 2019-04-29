@@ -20,11 +20,11 @@
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/procedure/proceduremethods.py" timestamp="1535468279350">
         <mark key="[" line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1556552681968">
-        <mark key="[" line="112" column="57" />
-        <mark key="]" line="112" column="57" />
-        <mark key="." line="112" column="57" />
-        <mark key="^" line="111" column="57" />
+      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1556558305842">
+        <mark key="[" line="111" column="122" />
+        <mark key="]" line="111" column="86" />
+        <mark key="." line="111" column="86" />
+        <mark key="^" line="111" column="86" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/guarantors.html" timestamp="1556222182367">
         <mark key="'" line="41" column="9" />
@@ -295,7 +295,7 @@
         <mark key="." line="11" column="46" />
         <mark key="^" line="11" column="46" />
       </file>
-      <file name="/Python Console" timestamp="1556553661889">
+      <file name="/Python Console" timestamp="1556558335083">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1556214512218">
@@ -553,8 +553,8 @@
       <jump line="8" column="9" filename="$USER_HOME$/_dev/python/michart-python/michart/templates/guarantors.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJlcXVlc3RfcGF5bG9hZFsnRnJvbURhdGUnXSA9IFsK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -566,31 +566,31 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldXRpbC5yZWxhdGl2ZWRlbHRhIGltcG9ydCByZWxhdGl2ZWRlbHRhCg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3RfcGF5bG9hZFsnRnJvbURhdGUnXSA9IFsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9wZXJhdG9yCg==</text>
+        <text encoding="base64">ZnJvbSBkYXRldXRpbC5yZWxhdGl2ZWRlbHRhIGltcG9ydCByZWxhdGl2ZWRlbHRhCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG9wZXJhdG9yCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">eyUgZm9yIGl0ZW0gaW4gaW1tdW5pemF0aW9uLl9fZGljdF9fWyd2YWx1ZXMnXSAlfQo8Yj57aXRlbX19OjwvYj4ge3tpdGVtfX08YnIgLz4KeyUgZW5kZm9yICV9CjxociAvPg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">PGhyIC8+Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">PGI+VGltZSBFbnRlcmVkOiA8L2I+e3thbGxlcmd5LlRpbWVFbnRlcmVkfX08YnIgLz4K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">PGI+RGF0ZSBOb3RlZDogPC9iPnt7YWxsZXJneS5EYXRlTm90ZWR9fTxiciAvPgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PGI+RGF0ZSBFbnRlcmVkOiA8L2I+e3thbGxlcmd5LkRhdGVFbnRlcmVkfX08YnIgLz4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">PGI+SW1tdW5pemF0aW9uOiA8L2I+e3thbGxlcmd5LlJlYWN0aW9uQ29tbWVudH19PGJyIC8+Cg==</text>
+        <text encoding="base64">PGI+RGF0ZSBFbnRlcmVkOiA8L2I+e3thbGxlcmd5LkRhdGVFbnRlcmVkfX08YnIgLz4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/encounter/guarantor/g</text>
