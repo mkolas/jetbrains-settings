@@ -20,11 +20,11 @@
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/procedure/proceduremethods.py" timestamp="1535468279350">
         <mark key="[" line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1556564163898">
-        <mark key="[" line="115" column="68" />
-        <mark key="]" line="114" column="96" />
-        <mark key="." line="114" column="96" />
-        <mark key="^" line="114" column="96" />
+      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1556568491673">
+        <mark key="[" line="119" column="50" />
+        <mark key="]" line="122" column="63" />
+        <mark key="." line="122" column="63" />
+        <mark key="^" line="122" column="63" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/guarantors.html" timestamp="1556222182367">
         <mark key="'" line="41" column="9" />
@@ -295,7 +295,7 @@
         <mark key="." line="11" column="46" />
         <mark key="^" line="11" column="46" />
       </file>
-      <file name="/Python Console" timestamp="1556563258254">
+      <file name="/Python Console" timestamp="1556568571201">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1556214512218">
@@ -413,11 +413,12 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/notes.html" timestamp="1555704986150">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="19" />
-        <mark key="." line="1" column="19" />
-        <mark key="^" line="1" column="19" />
+      <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/notes.html" timestamp="1556569268484">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="10" column="11" />
+        <mark key="." line="10" column="11" />
+        <mark key="^" line="10" column="11" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/problems.html" timestamp="1555704147566">
         <mark key="[" line="8" column="15" />
@@ -552,13 +553,15 @@
       <jump line="40" column="45" filename="$USER_HOME$/_dev/python/advent2018/08/8.py" />
       <jump line="55" column="15" filename="$USER_HOME$/_dev/python/advent2018/08/8.py" />
       <jump line="8" column="9" filename="$USER_HOME$/_dev/python/michart-python/michart/templates/guarantors.html" />
+      <jump line="3" column="62" filename="$USER_HOME$/_dev/python/michart-python/michart/templates/notes.html" />
+      <jump line="8" column="0" filename="$USER_HOME$/_dev/python/michart-python/michart/templates/notes.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.Name</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.Name</text>
       </register>
       <register name="/" type="4">
         <text>encounter</text>
@@ -567,31 +570,31 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5vdGVfbGlzdCA9IHJlc3VsdC5Ob3RlSW5mbwo=</text>
+        <text encoding="base64">PGI+OiA8L2I+e3twcm9ibGVtLkVudHJ5UGVyc29uLk5hbWV9fTxiciAvPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RfcGF5bG9hZFsnRnJvbURhdGUnXSA9IFsK</text>
+        <text encoding="base64">PC91bD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldXRpbC5yZWxhdGl2ZWRlbHRhIGltcG9ydCByZWxhdGl2ZWRlbHRhCg==</text>
+        <text encoding="base64">ICAgIHslIGVuZGZvciAlfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9wZXJhdG9yCg==</text>
+        <text encoding="base64">ICAgIDxsaT48Yj57e2RpYWdub3Npc19pZC5JRFR5cGV9fTo8L2I+IHt7ZGlhZ25vc2lzX2lkLklEfX08L2xpPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHslIGZvciBkaWFnbm9zaXNfaWQgaW4gcHJvYmxlbS5EaWFnbm9zaXNJRHMuRGlhZ25vc2lzICV9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">eyUgZm9yIGl0ZW0gaW4gaW1tdW5pemF0aW9uLl9fZGljdF9fWyd2YWx1ZXMnXSAlfQo8Yj57aXRlbX19OjwvYj4ge3tpdGVtfX08YnIgLz4KeyUgZW5kZm9yICV9CjxociAvPg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">PGI+RGlhZ25vc2lzIElEczogPC9iPiA8dWw+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGhyIC8+Cg==</text>
+        <text encoding="base64">ICAgIG5vdGVfbGlzdCA9IHJlc3VsdC5Ob3RlSW5mbwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGI+VGltZSBFbnRlcmVkOiA8L2I+e3thbGxlcmd5LlRpbWVFbnRlcmVkfX08YnIgLz4K</text>
+        <text encoding="base64">ICAgIHJlcXVlc3RfcGF5bG9hZFsnRnJvbURhdGUnXSA9IFsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGI+RGF0ZSBOb3RlZDogPC9iPnt7YWxsZXJneS5EYXRlTm90ZWR9fTxiciAvPgo=</text>
+        <text encoding="base64">ZnJvbSBkYXRldXRpbC5yZWxhdGl2ZWRlbHRhIGltcG9ydCByZWxhdGl2ZWRlbHRhCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/encounter/guarantor/g</text>
