@@ -413,12 +413,12 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/notes.html" timestamp="1556569268484">
+      <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/notes.html" timestamp="1556571459055">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="10" column="11" />
-        <mark key="." line="10" column="11" />
-        <mark key="^" line="10" column="11" />
+        <mark key="[" line="8" column="65" />
+        <mark key="]" line="8" column="65" />
+        <mark key="." line="8" column="65" />
+        <mark key="^" line="9" column="5" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/problems.html" timestamp="1555704147566">
         <mark key="[" line="8" column="15" />
@@ -558,10 +558,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.Name</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>.Name</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>encounter</text>
