@@ -516,6 +516,11 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="46" column="67" />
       </file>
+      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/mrnstoremove.txt" timestamp="1557168036361">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/_dev/python/wsse/wssetest.py" timestamp="1555094814197">
         <mark key="[" line="28" column="34" />
         <mark key="]" line="28" column="34" />
@@ -584,8 +589,8 @@
       <jump line="27" column="26" filename="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>UMDENT_SCHEMA</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>UMDENT_SCHEMA</text>
@@ -596,11 +601,11 @@
       <register name="0" type="4">
         <text>key</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CjAwNDAwNzk4CjAwNTU2NzI4CjAwNjg0NjczCjAwNzE2MDE3CjAwNzI4NDIxCjAwNzQwMTQ3</text>
-      </register>
-      <register name="2" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CjAwNDAwNzk4CjAwNTU2NzI4CjAwNjg0NjczCjAwNzE2MDE3CjAwNzI4NDIxCjAwNzQwMTQ3</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -608,7 +613,10 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>def create_request_payload(patient_id):
     &quot;&quot;&quot;
     Creates default request payload for Hospital Web Services. Will use 'mkolas' as userID and will assume
@@ -628,17 +636,14 @@
         }
     }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IG1pY2hhcnQK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PGI+OiA8L2I+e3twcm9ibGVtLkVudHJ5UGVyc29uLk5hbWV9fTxiciAvPgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">PC91bD4K</text>
+        <text encoding="base64">PGI+OiA8L2I+e3twcm9ibGVtLkVudHJ5UGVyc29uLk5hbWV9fTxiciAvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
