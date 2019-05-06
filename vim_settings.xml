@@ -257,7 +257,7 @@
       <file name="$USER_HOME$/_dev/euler/618-primefactorsum.py" timestamp="1516212441249">
         <mark key="[" line="47" column="26" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/alchemy/decorators.py" timestamp="1539807736430">
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/alchemy/decorators.py" timestamp="1557159411359">
         <mark key="[" line="43" column="42" />
         <mark key="]" line="40" column="28" />
         <mark key="^" line="40" column="26" />
@@ -472,7 +472,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/patient/patient.py" timestamp="1557156045341" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/patient/patient.py" timestamp="1557159398107" />
       <file name="$USER_HOME$/_dev/python/kmeans-mich-voters/centroids.csv" timestamp="1519077019292">
         <mark key="[" line="13" column="25" />
       </file>
@@ -528,11 +528,12 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" timestamp="1557157572449">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="7" column="21" />
-        <mark key="^" line="7" column="25" />
-        <mark key="." line="7" column="21" />
+      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" timestamp="1557159393815">
+        <mark key="'" line="43" column="26" />
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="27" column="27" />
+        <mark key="^" line="27" column="27" />
+        <mark key="." line="27" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -579,6 +580,8 @@
       <jump line="8" column="9" filename="$USER_HOME$/_dev/python/michart-python/michart/templates/guarantors.html" />
       <jump line="3" column="62" filename="$USER_HOME$/_dev/python/michart-python/michart/templates/notes.html" />
       <jump line="8" column="0" filename="$USER_HOME$/_dev/python/michart-python/michart/templates/notes.html" />
+      <jump line="31" column="35" filename="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" />
+      <jump line="27" column="26" filename="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -588,7 +591,7 @@
         <text>UMDENT_SCHEMA</text>
       </register>
       <register name="/" type="4">
-        <text>encounter</text>
+        <text>Stripped</text>
       </register>
       <register name="0" type="4">
         <text>key</text>
@@ -638,15 +641,15 @@
         <text encoding="base64">PC91bD4K</text>
       </register>
       <register name=":" type="4">
-        <text>%s/encounter/guarantor/g</text>
+        <text>%s/Stripped//g</text>
       </register>
     </registers>
     <search>
-      <last-search>encounter</last-search>
+      <last-search>Stripped</last-search>
       <last-offset />
-      <last-pattern>encounter</last-pattern>
-      <last-replace>guarantor</last-replace>
-      <last-substitute>encounter</last-substitute>
+      <last-pattern>Stripped</last-pattern>
+      <last-replace />
+      <last-substitute>Stripped</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -660,10 +663,14 @@
         <entry encoding="base64">XDxyZXN1bHRzXD4=</entry>
         <entry>print</entry>
         <entry>encounter</entry>
+        <entry>StrippedString</entry>
+        <entry>Stripped</entry>
       </history-search>
       <history-cmd>
         <entry>/%s/encounter/guarantor/g</entry>
         <entry>%s/encounter/guarantor/g</entry>
+        <entry>%s/StrippedString//g</entry>
+        <entry>%s/Stripped//g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
