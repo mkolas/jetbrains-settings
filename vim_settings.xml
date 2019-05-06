@@ -528,8 +528,11 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" timestamp="1557154984080">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" timestamp="1557157572449">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="21" />
+        <mark key="^" line="7" column="25" />
+        <mark key="." line="7" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -579,10 +582,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>smalltest</text>
+        <text>UMDENT_SCHEMA</text>
       </register>
       <register name="-" type="4">
-        <text>smalltest</text>
+        <text>UMDENT_SCHEMA</text>
       </register>
       <register name="/" type="4">
         <text>encounter</text>
