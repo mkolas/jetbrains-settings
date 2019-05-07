@@ -184,6 +184,12 @@
         <mark key="." line="1" column="117" />
         <mark key="^" line="1" column="117" />
       </file>
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/extractconfigs.py" timestamp="1557244278802">
+        <mark key="[" line="52" column="43" />
+        <mark key="]" line="52" column="43" />
+        <mark key="." line="52" column="43" />
+        <mark key="^" line="52" column="43" />
+      </file>
       <file name="$USER_HOME$/_dev/python/kmeans-mich-voters/voters.csv" timestamp="1519072568748">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -589,10 +595,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>~</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>~</text>
       </register>
       <register name="/" type="4">
         <text>Stripped</text>
