@@ -345,6 +345,7 @@
       <file name="$USER_HOME$/_dev/python/michart-python/main.py" timestamp="1555435146118">
         <mark key="[" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/charting/dontia.py" timestamp="1557327748080" />
       <file name="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/tester.py" timestamp="1556657895694">
         <mark key="[" line="9" column="11" />
         <mark key="]" line="9" column="11" />
@@ -544,11 +545,11 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" timestamp="1557236085578">
-        <mark key="[" line="13" column="36" />
-        <mark key="]" line="13" column="36" />
-        <mark key="^" line="13" column="10" />
-        <mark key="." line="13" column="36" />
+      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" timestamp="1557327809234">
+        <mark key="[" line="38" column="18" />
+        <mark key="]" line="38" column="18" />
+        <mark key="." line="38" column="18" />
+        <mark key="^" line="38" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -600,10 +601,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>~</text>
+        <text>ToothMap</text>
       </register>
       <register name="/" type="4">
         <text>Stripped</text>
@@ -612,31 +613,31 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZW5naW5lLmRpYWxlY3QuaWRlbnRpZmllcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHBhdGllbnQgPSByZWxhdGlvbnNoaXAoIlBhdGllbnQiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhdGllbnRfaWQgPSBDb2x1bW4oSW50ZWdlciwgRm9yZWlnbktleSgidW1kZW50LkVYVF9BWFZBTElEUEFUSUVOVFNfVlcuUGF0aWVudCIpLCBuYW1lPSJQdHhQSWQiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCB0eXBlcwo=</text>
+        <text encoding="base64">Y2MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW5naW5lLmRpYWxlY3QuaWRlbnRpZmllcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIjExIiArIHZhbHVlLnJzdHJpcCgpIGlmIHZhbHVlIGVsc2UgIiIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBwcm9jZXNzX3Jlc3VsdF92YWx1ZShzZWxmLCB2YWx1ZSwgZGlhbGVjdCk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCB0eXBlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
