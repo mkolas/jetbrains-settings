@@ -451,7 +451,7 @@
         <mark key="^" line="15" column="34" />
         <mark key="." line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/mapfunctions.py" timestamp="1557172644987">
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/mapfunctions.py" timestamp="1557345288158">
         <mark key="[" line="74" column="61" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/procedure/procedures.py" timestamp="1543589492705">
@@ -472,6 +472,7 @@
         <mark key="^" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
+      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/mrnstoclean.txt" timestamp="1557345450721" />
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/transactions/trx.py" timestamp="1541540601590">
         <mark key="[" line="12" column="25" />
         <mark key="]" line="8" column="0" />
@@ -490,7 +491,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/patient/patient.py" timestamp="1557159398107" />
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/patient/patient.py" timestamp="1557345322649" />
       <file name="$USER_HOME$/_dev/python/kmeans-mich-voters/centroids.csv" timestamp="1519077019292">
         <mark key="[" line="13" column="25" />
       </file>
@@ -551,11 +552,11 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" timestamp="1557344561041">
-        <mark key="[" line="29" column="22" />
-        <mark key="]" line="29" column="21" />
-        <mark key="^" line="29" column="24" />
-        <mark key="." line="29" column="21" />
+      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" timestamp="1557346306768">
+        <mark key="[" line="22" column="39" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -607,10 +608,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Stripped</text>
@@ -619,31 +620,31 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KG9iaikK</text>
+        <text encoding="base64">bXJuc190b19yZW1vdmUgPSBbXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zm9yIG9iaiBpbiBwYXRpZW50X3Jlc3VsdHM6Cg==</text>
+        <text encoding="base64">ICAgICAgICBtcm5zX3RvX3JlbW92ZS5hcHBlbmQobGluZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciBsaW5lIGluIGY6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KG9iaikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9yIG9iaiBpbiBwYXRpZW50X3Jlc3VsdHM6Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRvb3RoX21hcCA9IENvbHVtbihUb290aE1hcCwgbmFtZT0iVG9vdGhTdGF0ZSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhdGllbnQgPSByZWxhdGlvbnNoaXAoIlBhdGllbnQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGluZGl2aWR1YWxDb2RlID0gQ29sdW1uKFBhdGllbnQyQ2hhcnQsIG5hbWU9IkNoYXJ0SWQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
