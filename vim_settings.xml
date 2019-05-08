@@ -26,6 +26,12 @@
       <file name="/a.dummy" timestamp="1556652124959">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/config.ini" timestamp="1557342429194">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+        <mark key="^" line="11" column="15" />
+      </file>
       <file name="$USER_HOME$/_dev/python/kmeans-mich-voters/parsevoters.py" timestamp="1519064980888">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -153,7 +159,7 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="3" column="14" />
       </file>
-      <file name="/Python Console" timestamp="1557332902908">
+      <file name="/Python Console" timestamp="1557343231225">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1556214512218">
@@ -545,7 +551,7 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" timestamp="1557332900173">
+      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" timestamp="1557343134740">
         <mark key="[" line="13" column="21" />
         <mark key="]" line="13" column="21" />
         <mark key="." line="13" column="21" />
@@ -601,10 +607,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>enteger</text>
+        <text>T</text>
       </register>
       <register name="-" type="4">
-        <text>enteger</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>Stripped</text>
