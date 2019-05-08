@@ -153,7 +153,7 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="3" column="14" />
       </file>
-      <file name="/Python Console" timestamp="1556654197343">
+      <file name="/Python Console" timestamp="1557331229225">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1556214512218">
@@ -545,10 +545,11 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" timestamp="1557328441234">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
+      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" timestamp="1557331273366">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="21" />
+        <mark key="^" line="13" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -600,10 +601,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>P</text>
+        <text>enteger</text>
       </register>
       <register name="-" type="4">
-        <text>P</text>
+        <text>enteger</text>
       </register>
       <register name="/" type="4">
         <text>Stripped</text>
