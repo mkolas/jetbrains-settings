@@ -380,8 +380,10 @@
         <mark key="." line="48" column="16" />
         <mark key="^" line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/alchemy/oracleconnector.py" timestamp="1557262738875">
-        <mark key="[" line="17" column="63" />
+      <file name="$USER_HOME$/_dev/python/database-scripts/alchemy/oracleconnector.py" timestamp="1557327081154">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/advent2017/20/particle.py" timestamp="1513782882528">
         <mark key="[" line="40" column="6" />
@@ -597,8 +599,8 @@
       <jump line="27" column="26" filename="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>~</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2MK</text>
       </register>
       <register name="-" type="4">
         <text>~</text>
@@ -610,31 +612,31 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y2MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW5naW5lLmRpYWxlY3QuaWRlbnRpZmllcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCB0eXBlcwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIjExIiArIHZhbHVlLnJzdHJpcCgpIGlmIHZhbHVlIGVsc2UgIiIK</text>
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCB0eXBlcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBwcm9jZXNzX3Jlc3VsdF92YWx1ZShzZWxmLCB2YWx1ZSwgZGlhbGVjdCk6Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIjExIiArIHZhbHVlLnJzdHJpcCgpIGlmIHZhbHVlIGVsc2UgIiIK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdmFsdWVbMjpdLmxqdXN0KDEwKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBwcm9jZXNzX3Jlc3VsdF92YWx1ZShzZWxmLCB2YWx1ZSwgZGlhbGVjdCk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBwcm9jZXNzX2JpbmRfcGFyYW0oc2VsZiwgdmFsdWUsIGRpYWxlY3QpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
