@@ -551,11 +551,11 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" timestamp="1557343134740">
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="13" column="21" />
-        <mark key="." line="13" column="21" />
-        <mark key="^" line="13" column="21" />
+      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" timestamp="1557344561041">
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="29" column="21" />
+        <mark key="^" line="29" column="24" />
+        <mark key="." line="29" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -607,10 +607,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>T</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Stripped</text>
@@ -619,10 +619,10 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KG9iaikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9yIG9iaiBpbiBwYXRpZW50X3Jlc3VsdHM6Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -631,19 +631,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRvb3RoX21hcCA9IENvbHVtbihUb290aE1hcCwgbmFtZT0iVG9vdGhTdGF0ZSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhdGllbnQgPSByZWxhdGlvbnNoaXAoIlBhdGllbnQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGluZGl2aWR1YWxDb2RlID0gQ29sdW1uKFBhdGllbnQyQ2hhcnQsIG5hbWU9IkNoYXJ0SWQiKQo=</text>
+        <text encoding="base64">ICAgIHRvb3RoX21hcCA9IENvbHVtbihUb290aE1hcCwgbmFtZT0iVG9vdGhTdGF0ZSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlkXyA9IENvbHVtbihJbnRlZ2VyLCBuYW1lPSJBdXRvIiwgcHJpbWFyeV9rZXk9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgIHBhdGllbnQgPSByZWxhdGlvbnNoaXAoIlBhdGllbnQiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIF9fdGFibGVfYXJnc19fID0gQVhJVU1fU0NIRU1BCg==</text>
+        <text encoding="base64">ICAgIGluZGl2aWR1YWxDb2RlID0gQ29sdW1uKFBhdGllbnQyQ2hhcnQsIG5hbWU9IkNoYXJ0SWQiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
