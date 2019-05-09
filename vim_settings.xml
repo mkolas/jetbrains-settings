@@ -159,7 +159,7 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="3" column="14" />
       </file>
-      <file name="/Python Console" timestamp="1557343231225">
+      <file name="/Python Console" timestamp="1557416147584">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1556214512218">
@@ -242,6 +242,11 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/outfile.txt" timestamp="1556735375712" />
+      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/mrncleantest.txt" timestamp="1557415749209">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/problems.html" timestamp="1555704147566">
         <mark key="[" line="8" column="15" />
         <mark key="]" line="8" column="15" />
@@ -299,13 +304,6 @@
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/procedure/proceduremethods.py" timestamp="1535468279350">
         <mark key="[" line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/guarantors.html" timestamp="1556222182367">
-        <mark key="'" line="41" column="9" />
-        <mark key="[" line="40" column="60" />
-        <mark key="]" line="40" column="61" />
-        <mark key="." line="40" column="61" />
-        <mark key="^" line="40" column="61" />
-      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/docs/extracts.rst" timestamp="1517853080702">
         <mark key="[" line="123" column="46" />
         <mark key="]" line="125" column="59" />
@@ -352,7 +350,7 @@
         <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/charting/dontia.py" timestamp="1557327748080" />
-      <file name="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/tester.py" timestamp="1556657895694">
+      <file name="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/tester.py" timestamp="1557415217668">
         <mark key="[" line="9" column="11" />
         <mark key="]" line="9" column="11" />
         <mark key="." line="9" column="11" />
@@ -472,7 +470,7 @@
         <mark key="^" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/mrnstoclean.txt" timestamp="1557345450721" />
+      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/mrnstoclean.txt" timestamp="1557415762602" />
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/transactions/trx.py" timestamp="1541540601590">
         <mark key="[" line="12" column="25" />
         <mark key="]" line="8" column="0" />
@@ -501,15 +499,8 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556028136308">
+      <file name="/Dummy.txt" timestamp="1557416421286">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/notes.html" timestamp="1556571459055">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="8" column="65" />
-        <mark key="]" line="8" column="65" />
-        <mark key="." line="8" column="65" />
-        <mark key="^" line="9" column="5" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/patient_export.py" timestamp="1542312774948">
         <mark key="[" line="22" column="34" />
@@ -552,10 +543,11 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" timestamp="1557414807187">
-        <mark key="[" line="17" column="24" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" timestamp="1557416822635">
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="44" column="18" />
+        <mark key="." line="44" column="18" />
+        <mark key="^" line="44" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -606,11 +598,11 @@
       <jump line="27" column="26" filename="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bXJuc190b19jbGVhbiA9IFtdCg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>Stripped</text>
@@ -619,31 +611,31 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bXJuc190b19jbGVhbiA9IFtdCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBsaW5lIGluIGY6Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJ7fSwge30sIHt9Ii5mb3JtYXQocm93LmFsdENvZGUsIHJvdy5sYXN0TmFtZSwgcm93LmZpcnN0TmFtZSkpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Zm9yIHJvdyBpbiBwYXRpZW50X3Jlc3VsdHM6Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">cHJpbnQocGF0aWVudF9yZXN1bHRzLmNvdW50KCkpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">cGF0aWVudF9yZXN1bHRzID0gb2Muc2Vzc2lvbi5xdWVyeShQYXRpZW50KS5maWx0ZXIoUGF0aWVudC5hbHRDb2RlLmluXyhtcm5zX3RvX3JlbW92ZSkpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyBtcm5zX3RvX3JlbW92ZSA9IFt4LmxqdXN0KDE1LCAnICcpIGZvciB4IGluIG1ybnNfdG9fcmVtb3ZlXQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">bXJuc190b19jbGVhbiA9IFtdCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZvciBsaW5lIGluIGY6Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50KCJ7fSwge30sIHt9Ii5mb3JtYXQocm93LmFsdENvZGUsIHJvdy5sYXN0TmFtZSwgcm93LmZpcnN0TmFtZSkpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Zm9yIHJvdyBpbiBwYXRpZW50X3Jlc3VsdHM6Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cHJpbnQocGF0aWVudF9yZXN1bHRzLmNvdW50KCkpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">cGF0aWVudF9yZXN1bHRzID0gb2Muc2Vzc2lvbi5xdWVyeShQYXRpZW50KS5maWx0ZXIoUGF0aWVudC5hbHRDb2RlLmluXyhtcm5zX3RvX3JlbW92ZSkpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyBtcm5zX3RvX3JlbW92ZSA9IFt4LmxqdXN0KDE1LCAnICcpIGZvciB4IGluIG1ybnNfdG9fcmVtb3ZlXQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">bXJuc190b19yZW1vdmUgPSBbXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
