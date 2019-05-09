@@ -535,10 +535,10 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="46" column="67" />
       </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/mrnstoremove.txt" timestamp="1557168036361">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/mrnstoremove.txt" timestamp="1557412718539">
+        <mark key="[" line="768" column="0" />
+        <mark key="]" line="768" column="0" />
+        <mark key="." line="768" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/wsse/wssetest.py" timestamp="1555094814197">
         <mark key="[" line="28" column="34" />
@@ -552,11 +552,11 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" timestamp="1557348909754">
-        <mark key="[" line="31" column="9" />
-        <mark key="]" line="20" column="0" />
+      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" timestamp="1557413049192">
+        <mark key="[" line="26" column="95" />
+        <mark key="]" line="26" column="95" />
         <mark key="^" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+        <mark key="." line="26" column="95" />
       </file>
     </filemarks>
     <jumps>
@@ -608,10 +608,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>).values(Patient.altCode = &quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>).values(Patient.altCode = &quot;</text>
       </register>
       <register name="/" type="4">
         <text>Stripped</text>
@@ -620,22 +620,22 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bXJuc190b19yZW1vdmUgPSBbXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtcm5zX3RvX3JlbW92ZS5hcHBlbmQobGluZSkK</text>
+        <text encoding="base64">bXJuc190b19yZW1vdmUgPSBbXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciBsaW5lIGluIGY6Cg==</text>
+        <text encoding="base64">ICAgICAgICBtcm5zX3RvX3JlbW92ZS5hcHBlbmQobGluZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KG9iaikK</text>
+        <text encoding="base64">ICAgIGZvciBsaW5lIGluIGY6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zm9yIG9iaiBpbiBwYXRpZW50X3Jlc3VsdHM6Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KG9iaikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9yIG9iaiBpbiBwYXRpZW50X3Jlc3VsdHM6Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
