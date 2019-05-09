@@ -117,6 +117,7 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/prodmrns.txt" timestamp="1557435527603" />
       <file name="$USER_HOME$/_dev/python/advent2018/05/5.py" timestamp="1544025234161">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -350,11 +351,11 @@
         <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/charting/dontia.py" timestamp="1557327748080" />
-      <file name="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/tester.py" timestamp="1557415217668">
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="11" />
-        <mark key="." line="9" column="11" />
-        <mark key="^" line="9" column="16" />
+      <file name="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/tester.py" timestamp="1557435558862">
+        <mark key="[" line="26" column="23" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+        <mark key="^" line="9" column="18" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/allergies.html" timestamp="1556208892742">
         <mark key="[" line="5" column="40" />
@@ -499,7 +500,7 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557416421286">
+      <file name="/Dummy.txt" timestamp="1557435639045">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/patient_export.py" timestamp="1542312774948">
@@ -599,10 +600,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Misformated</text>
+        <text>mrnstotest</text>
       </register>
       <register name="-" type="4">
-        <text>Misformated</text>
+        <text>mrnstotest</text>
       </register>
       <register name="/" type="4">
         <text>Stripped</text>
