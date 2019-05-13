@@ -545,10 +545,10 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" timestamp="1557762004726">
-        <mark key="[" line="53" column="21" />
-        <mark key="]" line="44" column="29" />
-        <mark key="." line="44" column="29" />
+      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" timestamp="1557762866237">
+        <mark key="[" line="33" column="14" />
+        <mark key="]" line="33" column="14" />
+        <mark key="." line="33" column="14" />
         <mark key="^" line="44" column="29" />
       </file>
     </filemarks>
@@ -601,10 +601,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Code</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>Code</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>Stripped</text>
