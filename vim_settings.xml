@@ -545,11 +545,10 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" timestamp="1557775537207">
-        <mark key="[" line="34" column="14" />
-        <mark key="]" line="34" column="14" />
-        <mark key="." line="34" column="14" />
-        <mark key="^" line="51" column="29" />
+      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" timestamp="1557778076461">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="4" />
+        <mark key="." line="38" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -600,11 +599,11 @@
       <jump line="27" column="26" filename="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">b2Muc2Vzc2lvbi5idWxrX2luc2VydF9tYXBwaW5ncyh0ZW1wX21ybl9UYWJsZSwgW2RpY3QoTXJuVG9DbGVhbj14KSBmb3IgeCBpbiBtcm5zX3RvX2NsZWFuXSkK</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>mrns_to_clean</text>
       </register>
       <register name="/" type="4">
         <text>Stripped</text>
@@ -613,28 +612,28 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b2Muc2Vzc2lvbi5idWxrX2luc2VydF9tYXBwaW5ncyh0ZW1wX21ybl9UYWJsZSwgW2RpY3QoTXJuVG9DbGVhbj14KSBmb3IgeCBpbiBtcm5zX3RvX2NsZWFuXSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWV0YWRhdGEuY3JlYXRlX2FsbChvYy5lbmdpbmUsIHRhYmxlcz1bdGVtcF9tcm5fVGFibGUuX190YWJsZV9fXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyB0ZW1wX21ybl9UYWJsZSA9IFRhYmxlKCd0ZW1wbXJucycsIG1ldGFkYXRhLCBDb2x1bW4oU3RyaW5nLCBuYW1lPSdNcm5Ub0NsZWFuJywgcHJpbWFyeV9rZXk9VHJ1ZSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJ7fSAtPiB7fSIuZm9ybWF0KGtleSwgdmFsdWUpKQo=</text>
+        <text encoding="base64">bWV0YWRhdGEgPSBNZXRhRGF0YShvYy5lbmdpbmUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zm9yIGtleSwgdmFsdWUgaW4gY2xlYW5lZF9tcm5zLml0ZW1zKCk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">Y2xhc3MgVGVtcE1ybihCYXNlKToKICAgIF9fdGFibGVuYW1lX18gPSAndGVtcG1ybnMnCiAgICBfX3RhYmxlX2FyZ3NfXyA9IA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xlYW5lZF9tcm5zID0gZGljdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -677,6 +676,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
