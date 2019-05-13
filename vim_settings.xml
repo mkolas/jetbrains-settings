@@ -160,10 +160,10 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="3" column="14" />
       </file>
-      <file name="/Python Console" timestamp="1557416147584">
+      <file name="/Python Console" timestamp="1557782684922">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1556214512218">
+      <file name="/fragment.py" timestamp="1557782539320">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/ptbal.py" timestamp="1506359062869">
@@ -545,10 +545,11 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" timestamp="1557778076461">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="4" />
-        <mark key="." line="38" column="4" />
+      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" timestamp="1557782772553">
+        <mark key="[" line="39" column="51" />
+        <mark key="]" line="39" column="30" />
+        <mark key="." line="39" column="30" />
+        <mark key="^" line="39" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -599,11 +600,11 @@
       <jump line="27" column="26" filename="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">b2Muc2Vzc2lvbi5idWxrX2luc2VydF9tYXBwaW5ncyh0ZW1wX21ybl9UYWJsZSwgW2RpY3QoTXJuVG9DbGVhbj14KSBmb3IgeCBpbiBtcm5zX3RvX2NsZWFuXSkK</text>
+      <register name="&quot;" type="4">
+        <text>Integer</text>
       </register>
       <register name="-" type="4">
-        <text>mrns_to_clean</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
         <text>Stripped</text>
@@ -612,28 +613,28 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b2Muc2Vzc2lvbi5idWxrX2luc2VydF9tYXBwaW5ncyh0ZW1wX21ybl9UYWJsZSwgW2RpY3QoTXJuVG9DbGVhbj14KSBmb3IgeCBpbiBtcm5zX3RvX2NsZWFuXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICBDb2x1bW4oJ25hbWUnLFN0cmluZykpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWV0YWRhdGEuY3JlYXRlX2FsbChvYy5lbmdpbmUsIHRhYmxlcz1bdGVtcF9tcm5fVGFibGUuX190YWJsZV9fXSkK</text>
+        <text encoding="base64">b2Muc2Vzc2lvbi5idWxrX2luc2VydF9tYXBwaW5ncyh0ZW1wX21ybl9UYWJsZSwgW2RpY3QoTXJuVG9DbGVhbj14KSBmb3IgeCBpbiBtcm5zX3RvX2NsZWFuXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyB0ZW1wX21ybl9UYWJsZSA9IFRhYmxlKCd0ZW1wbXJucycsIG1ldGFkYXRhLCBDb2x1bW4oU3RyaW5nLCBuYW1lPSdNcm5Ub0NsZWFuJywgcHJpbWFyeV9rZXk9VHJ1ZSkpCg==</text>
+        <text encoding="base64">bWV0YWRhdGEuY3JlYXRlX2FsbChvYy5lbmdpbmUsIHRhYmxlcz1bdGVtcF9tcm5fVGFibGUuX190YWJsZV9fXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bWV0YWRhdGEgPSBNZXRhRGF0YShvYy5lbmdpbmUpCg==</text>
+        <text encoding="base64">IyB0ZW1wX21ybl9UYWJsZSA9IFRhYmxlKCd0ZW1wbXJucycsIG1ldGFkYXRhLCBDb2x1bW4oU3RyaW5nLCBuYW1lPSdNcm5Ub0NsZWFuJywgcHJpbWFyeV9rZXk9VHJ1ZSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWV0YWRhdGEgPSBNZXRhRGF0YShvYy5lbmdpbmUpCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ZGQK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">Y2xhc3MgVGVtcE1ybihCYXNlKToKICAgIF9fdGFibGVuYW1lX18gPSAndGVtcG1ybnMnCiAgICBfX3RhYmxlX2FyZ3NfXyA9IA==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
