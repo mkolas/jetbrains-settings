@@ -26,11 +26,11 @@
       <file name="/a.dummy" timestamp="1557428216547">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/config.ini" timestamp="1557342429194">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="8" />
-        <mark key="." line="1" column="8" />
-        <mark key="^" line="11" column="15" />
+      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/config.ini" timestamp="1557946343135">
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="16" column="18" />
+        <mark key="." line="16" column="18" />
+        <mark key="^" line="16" column="18" />
       </file>
       <file name="$USER_HOME$/_dev/python/kmeans-mich-voters/parsevoters.py" timestamp="1519064980888">
         <mark key="[" line="35" column="0" />
@@ -545,11 +545,10 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" timestamp="1557840014363">
-        <mark key="[" line="39" column="51" />
-        <mark key="]" line="39" column="30" />
-        <mark key="." line="39" column="30" />
-        <mark key="^" line="39" column="30" />
+      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" timestamp="1557946290200">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -601,10 +600,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Integer</text>
+        <text>.WORLD</text>
       </register>
       <register name="-" type="4">
-        <text>Integer</text>
+        <text>.WORLD</text>
       </register>
       <register name="/" type="4">
         <text>Stripped</text>
@@ -613,31 +612,31 @@
         <text>key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICBDb2x1bW4oJ25hbWUnLFN0cmluZykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b2Muc2Vzc2lvbi5idWxrX2luc2VydF9tYXBwaW5ncyh0ZW1wX21ybl9UYWJsZSwgW2RpY3QoTXJuVG9DbGVhbj14KSBmb3IgeCBpbiBtcm5zX3RvX2NsZWFuXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bWV0YWRhdGEuY3JlYXRlX2FsbChvYy5lbmdpbmUsIHRhYmxlcz1bdGVtcF9tcm5fVGFibGUuX190YWJsZV9fXSkK</text>
+        <text encoding="base64">IyB3ZSBuZWVkIHRvIGNyZWF0ZSBhIHRlbXBvcmFyeSB0YWJsZSB0byBob2xkIG91ciBNUk5zLCBzaW5jZSBPcmFjbGUgaGFzIGEgbGltaXQgb2YgMTAwMCBpdGVtcyBpbiBhbiBJTiAoLi4uKSBjbGF1c2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyB0ZW1wX21ybl9UYWJsZSA9IFRhYmxlKCd0ZW1wbXJucycsIG1ldGFkYXRhLCBDb2x1bW4oU3RyaW5nLCBuYW1lPSdNcm5Ub0NsZWFuJywgcHJpbWFyeV9rZXk9VHJ1ZSkpCg==</text>
+        <text encoding="base64">IyBvYy5zZXNzaW9uLmJ1bGtfaW5zZXJ0X21hcHBpbmdzKHRlbXBfbXJucywgW2RpY3QobXJuPXgpIGZvciB4IGluIG1ybnNfdG9fY2xlYW5dKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bWV0YWRhdGEgPSBNZXRhRGF0YShvYy5lbmdpbmUpCg==</text>
+        <text encoding="base64">IyBvYy5zZXNzaW9uLnF1ZXJ5KCJjcmVhdGUgdGFibGUgdGVtcF9tcm5zIChUZW1wTVJOIHZhcmNoYXIyKDE1KSwgY29uc3RyYWludCB0ZW1wX21ybl9wcmsgcHJpbWFyeSBrZXkgKFRlbXBNUk4pKSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBDb2x1bW4oJ25hbWUnLFN0cmluZykpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">b2Muc2Vzc2lvbi5idWxrX2luc2VydF9tYXBwaW5ncyh0ZW1wX21ybl9UYWJsZSwgW2RpY3QoTXJuVG9DbGVhbj14KSBmb3IgeCBpbiBtcm5zX3RvX2NsZWFuXSkK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Y2xhc3MgVGVtcE1ybihCYXNlKToKICAgIF9fdGFibGVuYW1lX18gPSAndGVtcG1ybnMnCiAgICBfX3RhYmxlX2FyZ3NfXyA9IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">bWV0YWRhdGEuY3JlYXRlX2FsbChvYy5lbmdpbmUsIHRhYmxlcz1bdGVtcF9tcm5fVGFibGUuX190YWJsZV9fXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyB0ZW1wX21ybl9UYWJsZSA9IFRhYmxlKCd0ZW1wbXJucycsIG1ldGFkYXRhLCBDb2x1bW4oU3RyaW5nLCBuYW1lPSdNcm5Ub0NsZWFuJywgcHJpbWFyeV9rZXk9VHJ1ZSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
