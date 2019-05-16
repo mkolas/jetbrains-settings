@@ -26,10 +26,10 @@
       <file name="/a.dummy" timestamp="1557428216547">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/config.ini" timestamp="1557946343135">
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="16" column="18" />
-        <mark key="." line="16" column="18" />
+      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/config.ini" timestamp="1558018080700">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="16" />
+        <mark key="." line="16" column="16" />
         <mark key="^" line="16" column="18" />
       </file>
       <file name="$USER_HOME$/_dev/python/kmeans-mich-voters/parsevoters.py" timestamp="1519064980888">
@@ -68,7 +68,6 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="85" />
       </file>
-      <file name="/anaconda3/lib/python3.7/site-packages/flask/app.py" timestamp="1556555619344" />
       <file name="$USER_HOME$/_dev/python/ice-json-create/json-extract/charting/perio/perio.py" timestamp="1506103803991">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
@@ -117,7 +116,6 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/prodmrns.txt" timestamp="1557435527603" />
       <file name="$USER_HOME$/_dev/python/advent2018/05/5.py" timestamp="1544025234161">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -160,6 +158,7 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="3" column="14" />
       </file>
+      <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1557946493709" />
       <file name="/Python Console" timestamp="1557852678752">
         <mark key="[" line="0" column="0" />
       </file>
@@ -172,7 +171,6 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="/anaconda3/lib/python3.7/site-packages/zeep/xsd/types/builtins.py" timestamp="1556562416308" />
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/events.py" timestamp="1528918915394">
         <mark key="[" line="24" column="4" />
         <mark key="]" line="24" column="4" />
@@ -242,7 +240,6 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/outfile.txt" timestamp="1556735375712" />
       <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/mrncleantest.txt" timestamp="1557415749209">
         <mark key="[" line="1" column="8" />
         <mark key="]" line="0" column="0" />
@@ -335,7 +332,6 @@
         <mark key="^" line="55" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/outfileprod.txt" timestamp="1557758405212" />
       <file name="$USER_HOME$/_dev/python/michart-python/project/endpoints.py" timestamp="1555362145822">
         <mark key="[" line="51" column="28" />
         <mark key="]" line="51" column="20" />
@@ -351,7 +347,6 @@
       <file name="$USER_HOME$/_dev/python/michart-python/main.py" timestamp="1555435146118">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/charting/dontia.py" timestamp="1557327748080" />
       <file name="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/tester.py" timestamp="1557435558862">
         <mark key="[" line="26" column="23" />
         <mark key="]" line="9" column="18" />
@@ -472,7 +467,6 @@
         <mark key="^" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/mrnstoclean.txt" timestamp="1557423807314" />
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/transactions/trx.py" timestamp="1541540601590">
         <mark key="[" line="12" column="25" />
         <mark key="]" line="8" column="0" />
@@ -491,7 +485,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/patient/patient.py" timestamp="1557345322649" />
       <file name="$USER_HOME$/_dev/python/kmeans-mich-voters/centroids.csv" timestamp="1519077019292">
         <mark key="[" line="13" column="25" />
       </file>
@@ -600,10 +593,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.WORLD</text>
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>.WORLD</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>Stripped</text>
