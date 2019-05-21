@@ -17,11 +17,11 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1558465297836">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="123" column="33" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1558466920953">
+        <mark key="[" line="131" column="4" />
+        <mark key="]" line="131" column="4" />
+        <mark key="^" line="131" column="3" />
+        <mark key="." line="131" column="4" />
       </file>
       <file name="/a.dummy" timestamp="1557428216547">
         <mark key="[" line="0" column="0" />
@@ -592,11 +592,11 @@
       <jump line="27" column="26" filename="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>request_payload</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHVzZXI=</text>
+        <text>request_payload</text>
       </register>
       <register name="/" type="4">
         <text>Stripped</text>
