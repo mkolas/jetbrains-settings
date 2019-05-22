@@ -17,10 +17,10 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1558553618656">
-        <mark key="[" line="108" column="64" />
-        <mark key="]" line="108" column="67" />
-        <mark key="." line="108" column="67" />
+      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1558554835015">
+        <mark key="[" line="108" column="31" />
+        <mark key="]" line="108" column="31" />
+        <mark key="." line="108" column="31" />
         <mark key="^" line="108" column="67" />
       </file>
       <file name="/a.dummy" timestamp="1557428216547">
@@ -593,10 +593,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>T</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>Stripped</text>
