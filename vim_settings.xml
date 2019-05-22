@@ -17,11 +17,11 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1558536806557">
-        <mark key="[" line="83" column="43" />
-        <mark key="]" line="85" column="54" />
-        <mark key="^" line="85" column="54" />
-        <mark key="." line="85" column="54" />
+      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1558537979921">
+        <mark key="[" line="84" column="22" />
+        <mark key="]" line="84" column="22" />
+        <mark key="^" line="85" column="104" />
+        <mark key="." line="84" column="22" />
       </file>
       <file name="/a.dummy" timestamp="1557428216547">
         <mark key="[" line="0" column="0" />
@@ -593,10 +593,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>GET</text>
+        <text>patient_id</text>
       </register>
       <register name="-" type="4">
-        <text>GET</text>
+        <text>patient_id</text>
       </register>
       <register name="/" type="4">
         <text>Stripped</text>
@@ -608,19 +608,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZW5kZXJfdGVtcGxhdGUoJ2d1YXJhbnRvcnMuaHRtbCcsIGd1YXJhbnRvcnNfbGlzdD1yZXN1bHQuR3VhcmFudG9yKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAqKmNyZWF0ZV9yZXF1ZXN0X3BheWxvYWQocmVxdWVzdC5mb3JtLmdldCgncGF0aWVudElkJyksIHJlcXVlc3QuZm9ybS5nZXQoJ3VzZXJJZCcpKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZW5kZXJfcGRmKHVybF9mb3IoJ21pY2hhcnQuZ2V0X3BhdGllbnRfaW5mb3JtYXRpb24nLCBwYXRpZW50X2lkPXBhdGllbnRfaWQpKQo=</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IGNsaWVudC5jdXN0b21fYWNjZXNzLkdldEd1YXJhbnRvcnNBbmRDb3ZlcmFnZSgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGdldF9wYXRpZW50X2luZm9ybWF0aW9uX3BkZihwYXRpZW50X2lkKToK</text>
+        <text encoding="base64">ZGVmIGdldF9wYXRpZW50X2d1YXJhbnRvcnNfdjIoKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QG1pY2hhcnQucm91dGUoJy9taWNoYXJ0L2luZm9ybWF0aW9uLzxzdHJpbmc6cGF0aWVudF9pZD4ucGRmJywgbWV0aG9kcz1bJ0dFVCddKQo=</text>
+        <text encoding="base64">QG1pY2hhcnQucm91dGUoJy9taWNoYXJ0L2d1YXJhbnRvcnMnLCBtZXRob2RzPVsnUE9TVCddKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -629,7 +629,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZW5kZXJfcGRmKHVybF9mb3IoJ21pY2hhcnQuZ2V0X3BhdGllbnRfYWxsZXJnaWVzJywgcGF0aWVudF9pZD1wYXRpZW50X2lkKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
