@@ -17,11 +17,11 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1558471247482">
-        <mark key="[" line="59" column="36" />
-        <mark key="]" line="59" column="36" />
-        <mark key="^" line="59" column="68" />
-        <mark key="." line="59" column="36" />
+      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1558533010196">
+        <mark key="[" line="45" column="34" />
+        <mark key="]" line="45" column="34" />
+        <mark key="^" line="55" column="3" />
+        <mark key="." line="45" column="34" />
       </file>
       <file name="/a.dummy" timestamp="1557428216547">
         <mark key="[" line="0" column="0" />
@@ -611,25 +611,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZW5kZXJfcGRmKHVybF9mb3IoJ21pY2hhcnQuZ2V0X3BhdGllbnRfaW5mb3JtYXRpb24nLCBwYXRpZW50X2lkPXBhdGllbnRfaWQpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGdldF9wYXRpZW50X2luZm9ybWF0aW9uX3BkZihwYXRpZW50X2lkKToK</text>
+        <text encoding="base64">ICAgIHJldHVybiByZW5kZXJfcGRmKHVybF9mb3IoJ21pY2hhcnQuZ2V0X3BhdGllbnRfaW5mb3JtYXRpb24nLCBwYXRpZW50X2lkPXBhdGllbnRfaWQpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QG1pY2hhcnQucm91dGUoJy9taWNoYXJ0L2luZm9ybWF0aW9uLzxzdHJpbmc6cGF0aWVudF9pZD4ucGRmJywgbWV0aG9kcz1bJ0dFVCddKQo=</text>
+        <text encoding="base64">ZGVmIGdldF9wYXRpZW50X2luZm9ybWF0aW9uX3BkZihwYXRpZW50X2lkKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QG1pY2hhcnQucm91dGUoJy9taWNoYXJ0L2luZm9ybWF0aW9uLzxzdHJpbmc6cGF0aWVudF9pZD4ucGRmJywgbWV0aG9kcz1bJ0dFVCddKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZW5kZXJfcGRmKHVybF9mb3IoJ21pY2hhcnQuZ2V0X3BhdGllbnRfYWxsZXJnaWVzJywgcGF0aWVudF9pZD1wYXRpZW50X2lkKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGdldF9wYXRpZW50X2FsbGVyZ2llc19wZGYocGF0aWVudF9pZCk6Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZW5kZXJfcGRmKHVybF9mb3IoJ21pY2hhcnQuZ2V0X3BhdGllbnRfYWxsZXJnaWVzJywgcGF0aWVudF9pZD1wYXRpZW50X2lkKSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
