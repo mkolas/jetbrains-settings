@@ -17,11 +17,12 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1558554835015">
-        <mark key="[" line="108" column="31" />
-        <mark key="]" line="108" column="31" />
-        <mark key="." line="108" column="31" />
-        <mark key="^" line="108" column="67" />
+      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1558558859606">
+        <mark key="'" line="110" column="127" />
+        <mark key="[" line="109" column="23" />
+        <mark key="]" line="109" column="23" />
+        <mark key="." line="109" column="23" />
+        <mark key="^" line="109" column="24" />
       </file>
       <file name="/a.dummy" timestamp="1557428216547">
         <mark key="[" line="0" column="0" />
@@ -590,13 +591,14 @@
       <jump line="8" column="0" filename="$USER_HOME$/_dev/python/michart-python/michart/templates/notes.html" />
       <jump line="31" column="35" filename="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" />
       <jump line="27" column="26" filename="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" />
+      <jump line="110" column="127" filename="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>patient_id</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>patient_id</text>
       </register>
       <register name="/" type="4">
         <text>Stripped</text>
