@@ -395,11 +395,11 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/triggers/events.py" timestamp="1559672575929">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="3" column="12" />
-        <mark key="^" line="3" column="12" />
-        <mark key="." line="3" column="12" />
+      <file name="$USER_HOME$/_dev/python/database-scripts/triggers/events.py" timestamp="1559675264610">
+        <mark key="[" line="12" column="45" />
+        <mark key="]" line="12" column="27" />
+        <mark key="^" line="12" column="27" />
+        <mark key="." line="12" column="27" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/appointments.html" timestamp="1555608995211">
         <mark key="[" line="9" column="21" />
@@ -602,10 +602,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>AXIUM_SCHEMA</text>
+        <text>Patient</text>
       </register>
       <register name="-" type="4">
-        <text>AXIUM_SCHEMA</text>
+        <text>Patient</text>
       </register>
       <register name="/" type="4">
         <text>Stripped</text>
