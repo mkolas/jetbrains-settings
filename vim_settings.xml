@@ -352,11 +352,11 @@
       <file name="$USER_HOME$/_dev/python/michart-python/main.py" timestamp="1555435146118">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/tester.py" timestamp="1557435558862">
-        <mark key="[" line="26" column="23" />
-        <mark key="]" line="9" column="18" />
-        <mark key="." line="9" column="18" />
-        <mark key="^" line="9" column="18" />
+      <file name="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/tester.py" timestamp="1559683591657">
+        <mark key="[" line="18" column="90" />
+        <mark key="]" line="18" column="98" />
+        <mark key="." line="18" column="98" />
+        <mark key="^" line="18" column="98" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/allergies.html" timestamp="1556208892742">
         <mark key="[" line="5" column="40" />
@@ -605,10 +605,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Patient</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>Patient</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>Stripped</text>
