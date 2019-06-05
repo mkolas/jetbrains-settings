@@ -27,8 +27,8 @@
       <file name="/a.dummy" timestamp="1557428216547">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/config.ini" timestamp="1558018080700">
-        <mark key="[" line="16" column="16" />
+      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/config.ini" timestamp="1559745589957">
+        <mark key="[" line="16" column="17" />
         <mark key="]" line="16" column="16" />
         <mark key="." line="16" column="16" />
         <mark key="^" line="16" column="18" />
@@ -484,7 +484,9 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/outfiletrain.txt" timestamp="1559742227020" />
+      <file name="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/outfiletrain.txt" timestamp="1559745418179">
+        <mark key="'" line="17571" column="1" />
+      </file>
       <file name="$USER_HOME$/_dev/advent2017/22/enhanced.py" timestamp="1515170340713">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -603,6 +605,19 @@
       <jump line="31" column="35" filename="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" />
       <jump line="27" column="26" filename="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" />
       <jump line="110" column="127" filename="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" />
+      <jump line="10499" column="0" filename="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/outfiletrain.txt" />
+      <jump line="3822" column="4" filename="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/outfiletrain.txt" />
+      <jump line="11129" column="2" filename="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/outfiletrain.txt" />
+      <jump line="12320" column="4" filename="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/outfiletrain.txt" />
+      <jump line="13481" column="4" filename="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/outfiletrain.txt" />
+      <jump line="16408" column="3" filename="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/outfiletrain.txt" />
+      <jump line="16883" column="1" filename="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/outfiletrain.txt" />
+      <jump line="17533" column="1" filename="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/outfiletrain.txt" />
+      <jump line="17540" column="1" filename="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/outfiletrain.txt" />
+      <jump line="17554" column="1" filename="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/outfiletrain.txt" />
+      <jump line="17561" column="1" filename="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/outfiletrain.txt" />
+      <jump line="17563" column="1" filename="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/outfiletrain.txt" />
+      <jump line="17571" column="1" filename="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/outfiletrain.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -612,7 +627,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>Stripped</text>
+        <text>1000</text>
       </register>
       <register name="0" type="4">
         <text>key</text>
@@ -649,9 +664,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Stripped</last-search>
+      <last-search>1000</last-search>
       <last-offset />
-      <last-pattern>Stripped</last-pattern>
+      <last-pattern>1000</last-pattern>
       <last-replace />
       <last-substitute>Stripped</last-substitute>
       <last-dir>-1</last-dir>
@@ -669,6 +684,7 @@
         <entry>encounter</entry>
         <entry>StrippedString</entry>
         <entry>Stripped</entry>
+        <entry>1000</entry>
       </history-search>
       <history-cmd>
         <entry>/%s/encounter/guarantor/g</entry>
