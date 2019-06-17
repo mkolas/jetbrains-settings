@@ -377,6 +377,9 @@
         <mark key="^" line="12" column="31" />
         <mark key="." line="12" column="31" />
       </file>
+      <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/mysqlconnector.py" timestamp="1560782036811">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/_dev/advent2017/13/firewall.py" timestamp="1515175029802">
         <mark key="[" line="47" column="45" />
         <mark key="]" line="49" column="0" />
