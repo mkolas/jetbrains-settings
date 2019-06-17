@@ -39,10 +39,11 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/mpiupdateservices.py" timestamp="1560798561391">
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="15" column="13" />
-        <mark key="." line="15" column="13" />
+      <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/mpiupdateservices.py" timestamp="1560804867133">
+        <mark key="[" line="26" column="36" />
+        <mark key="]" line="26" column="16" />
+        <mark key="." line="26" column="16" />
+        <mark key="^" line="26" column="16" />
       </file>
       <file name="$USER_HOME$/_dev/python/wsse/project/__init__.py" timestamp="1555352932570">
         <mark key="[" line="1" column="23" />
@@ -618,10 +619,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ct a list of pairs of IDs- the old ID to find and the new ID to updat</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>ct a list of pairs of IDs- the old ID to find and the new ID to updat</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
