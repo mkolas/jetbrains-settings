@@ -189,8 +189,11 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/mpimodels.py" timestamp="1560868096474">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/mpimodels.py" timestamp="1560869266732">
+        <mark key="[" line="7" column="44" />
+        <mark key="]" line="7" column="44" />
+        <mark key="^" line="7" column="51" />
+        <mark key="." line="7" column="44" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/events.py" timestamp="1528918915394">
         <mark key="[" line="24" column="4" />
@@ -621,11 +624,11 @@
       <jump line="17571" column="1" filename="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/outfiletrain.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2Vzc2lvbiA9IG1jLnNlc3Npb24K</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHNlc3Npb24=</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
