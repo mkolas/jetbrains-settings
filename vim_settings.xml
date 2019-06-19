@@ -39,11 +39,11 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/mpiupdateservices.py" timestamp="1560890472843">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="16" column="44" />
-        <mark key="." line="16" column="44" />
-        <mark key="^" line="16" column="44" />
+      <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/mpiupdateservices.py" timestamp="1560956323947">
+        <mark key="[" line="42" column="66" />
+        <mark key="]" line="42" column="7" />
+        <mark key="." line="42" column="7" />
+        <mark key="^" line="42" column="7" />
       </file>
       <file name="$USER_HOME$/_dev/python/wsse/project/__init__.py" timestamp="1555352932570">
         <mark key="[" line="1" column="23" />
@@ -624,11 +624,11 @@
       <jump line="17571" column="1" filename="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/outfiletrain.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>P</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgY2hlY2sgdG8gc2VlIGlmIFBhdGllbnQgZXhpc3RzIGluIE1QSQo=</text>
       </register>
       <register name="-" type="4">
-        <text>P</text>
+        <text>insert</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
@@ -637,34 +637,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2Vzc2lvbiA9IG1jLnNlc3Npb24K</text>
+        <text encoding="base64">ICAgICMgY2hlY2sgdG8gc2VlIGlmIFBhdGllbnQgZXhpc3RzIGluIE1QSQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBwCg==</text>
+        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgcmVzdWx0cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgRmxhc2sK</text>
+        <text encoding="base64">ICAgIGlmIHBhdGllbnRfb2JqZWN0Ogo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoInJlbW92ZWQgbXJuIikK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmVycm9yKGYiRm91bmQgbXVsdGlwbGUgZW50cmllcyBmb3IgcGF0aWVudCB3aXRoIGlkIHtwYXRpZW50X2lkfSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBNdWx0aXBsZVJlc3VsdHNGb3VuZDoK</text>
       </register>
-      <register name="6" type="4">
-        <text>##### Chart # Changed
-
-If `patient.&quot;Chart&quot;` has changed values, update `mpi_ids` with the new `&quot;Chart&quot;` where the row contains the old
-`&quot;Chart&quot;` and `system_id` 1</text>
+      <register name="6" type="2">
+        <text encoding="base64">c2Vzc2lvbiA9IG1jLnNlc3Npb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q1BJIDI4MzkwMDQxCg==</text>
+        <text encoding="base64">YXBwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHR3b19tb250aF9hZ28gPSB0b2RheSAtIGRlbHRhCg==</text>
+        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgRmxhc2sK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlbHRhID0gZGF0ZXRpbWUudGltZWRlbHRhKGRheXM9NjApICAjIGFib3V0IHR3byBtb250aHMK</text>
+        <text encoding="base64">cHJpbnQoInJlbW92ZWQgbXJuIikK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
