@@ -57,7 +57,6 @@
         <mark key="^" line="65" column="17" />
         <mark key="." line="46" column="44" />
       </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/mrnchangelog.txt" timestamp="1559924788266" />
       <file name="$USER_HOME$/_dev/python/python-scratchpad/mysqltest/mysqlalch.py" timestamp="1531494509935">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="24" />
@@ -127,8 +126,6 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/prodmrns.txt" timestamp="1559923694802" />
-      <file name="$USER_HOME$/_dev/python/database-scripts/alchemy/axium.py" timestamp="1559672522463" />
       <file name="$USER_HOME$/_dev/python/advent2018/05/5.py" timestamp="1544025234161">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -177,6 +174,7 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="3" column="14" />
       </file>
+      <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1561047388971" />
       <file name="/Python Console" timestamp="1559916162901">
         <mark key="[" line="0" column="0" />
       </file>
@@ -524,6 +522,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/patient/patient.py" timestamp="1561047436894" />
       <file name="$USER_HOME$/_dev/python/kmeans-mich-voters/centroids.csv" timestamp="1519077019292">
         <mark key="[" line="13" column="25" />
       </file>
