@@ -39,11 +39,11 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/mpiupdateservices.py" timestamp="1561060422008">
+      <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/mpiupdateservices.py" timestamp="1561124880480">
         <mark key="[" line="31" column="18" />
-        <mark key="]" line="50" column="61" />
-        <mark key="." line="50" column="61" />
-        <mark key="^" line="50" column="61" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="28" />
       </file>
       <file name="$USER_HOME$/_dev/python/wsse/project/__init__.py" timestamp="1555352932570">
         <mark key="[" line="1" column="23" />
@@ -643,11 +643,11 @@
       <jump line="17571" column="1" filename="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/outfiletrain.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiZm91bmQgb2JqZWN0IikK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
@@ -656,7 +656,7 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiZm91bmQgb2JqZWN0IikK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -668,19 +668,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICByZXN1bHRzCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIHRyeToKICAgICAgICBwYXRpZW50X29iamVjdCA9IG1jLnNlc3Npb24ucXVlcnkoTVBJSWRzKS5maWx0ZXIoTVBJSWRzLnB0X2lkID09IHBhdGllbnRfaWQpXAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmZpbHRlcihNUElJZHMuc3lzdGVtX2lkID09IFN5c3RlbS5BWElVTV9QQVRJRU5UX0lEKVwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5vbmUoKQogICAgZXhjZXB0IE5vUmVzdWx0Rm91bmQ6CiAgICAgICAgbG9nZ2luZy5lcnJvcihmIlVuYWJsZSB0byB1cGRhdGUgTVBJIGZvciBwYXRpZW50IHdpdGggaWQge3BhdGllbnRfaWR9IikKICAgIGVsc2U6</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICMgY2hlY2sgdG8gc2VlIGlmIFBhdGllbnQgZXhpc3RzIGluIE1QSQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgcmVzdWx0cwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIHBhdGllbnRfb2JqZWN0Ogo=</text>
+        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgcmVzdWx0cwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
