@@ -39,11 +39,11 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/mpiupdateservices.py" timestamp="1561124880480">
-        <mark key="[" line="31" column="18" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="32" column="28" />
+      <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/mpiupdateservices.py" timestamp="1561126221007">
+        <mark key="[" line="33" column="7" />
+        <mark key="]" line="32" column="54" />
+        <mark key="." line="32" column="54" />
+        <mark key="^" line="29" column="14" />
       </file>
       <file name="$USER_HOME$/_dev/python/wsse/project/__init__.py" timestamp="1555352932570">
         <mark key="[" line="1" column="23" />
@@ -175,10 +175,10 @@
         <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1561047388971" />
-      <file name="/Python Console" timestamp="1561062564253">
+      <file name="/Python Console" timestamp="1561126158176">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1561064045386">
+      <file name="/fragment.py" timestamp="1561126181084">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/ptbal.py" timestamp="1506359062869">
@@ -643,11 +643,11 @@
       <jump line="17571" column="1" filename="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/outfiletrain.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiZm91bmQgb2JqZWN0IikK</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
