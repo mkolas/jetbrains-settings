@@ -126,6 +126,12 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/_dev/python/discord/distribution.py" timestamp="1562604822057">
+        <mark key="[" line="4" column="74" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/_dev/python/advent2018/05/5.py" timestamp="1544025234161">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -549,6 +555,9 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="2" column="6" />
       </file>
+      <file name="$USER_HOME$/_dev/python/discord/testfile.txt" timestamp="1562603320029">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/_dev/python/wsse/server.py" timestamp="1555101414921">
         <mark key="[" line="44" column="23" />
         <mark key="]" line="44" column="23" />
@@ -642,11 +651,11 @@
       <jump line="17571" column="1" filename="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/outfiletrain.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
@@ -655,31 +664,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoKQo=</text>
+        <text encoding="base64">dXNhZ2VzID0gZGljdCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgY2hlY2sgdG8gc2VlIGlmIFBhdGllbnQgZXhpc3RzIGluIE1QSQo=</text>
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IFR5cGUK</text>
+        <text encoding="base64">ICAgICMgY2hlY2sgdG8gc2VlIGlmIFBhdGllbnQgZXhpc3RzIGluIE1QSQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRpZW50X29iamVjdCA9Cg==</text>
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IFR5cGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBSZXMK</text>
+        <text encoding="base64">ICAgICAgICBwYXRpZW50X29iamVjdCA9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBSZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgY2hlY2sgdG8gc2VlIGlmIFBhdGllbnQgZXhpc3RzIGluIE1QSXRodGgKICAgIHBhdGllbnRfaWQgPSByZXF1ZXN0LmZvcm0uZ2V0KCdwYXRpZW50X2lkJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiZm91bmQgb2JqZWN0IikK</text>
+        <text encoding="base64">ICAgICMgY2hlY2sgdG8gc2VlIGlmIFBhdGllbnQgZXhpc3RzIGluIE1QSXRodGgKICAgIHBhdGllbnRfaWQgPSByZXF1ZXN0LmZvcm0uZ2V0KCdwYXRpZW50X2lkJykK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
