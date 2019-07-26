@@ -181,10 +181,10 @@
         <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1561047388971" />
-      <file name="/Python Console" timestamp="1564162784100">
+      <file name="/Python Console" timestamp="1564164276246">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1564162259685">
+      <file name="/fragment.py" timestamp="1564164312254">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/ptbal.py" timestamp="1506359062869">
@@ -342,11 +342,11 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/_dev/python/facultybios/bioscraper.py" timestamp="1564162781961">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="9" column="0" />
+      <file name="$USER_HOME$/_dev/python/facultybios/bioscraper.py" timestamp="1564164411392">
+        <mark key="[" line="27" column="6" />
+        <mark key="]" line="27" column="6" />
+        <mark key="." line="27" column="6" />
+        <mark key="^" line="11" column="45" />
       </file>
       <file name="$USER_HOME$/_dev/python/wsse/tests/test_wsse.py" timestamp="1555353136062">
         <mark key="[" line="16" column="18" />
@@ -519,9 +519,6 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/outfiletrain.txt" timestamp="1559768319719">
-        <mark key="'" line="17571" column="1" />
-      </file>
       <file name="$USER_HOME$/_dev/advent2017/22/enhanced.py" timestamp="1515170340713">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -543,11 +540,11 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/_dev/python/facultybios/crsescraper.py" timestamp="1564162338977">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
+      <file name="$USER_HOME$/_dev/python/facultybios/crsescraper.py" timestamp="1564164917343">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+        <mark key="^" line="10" column="3" />
       </file>
       <file name="/Dummy.txt" timestamp="1561062528343">
         <mark key="[" line="0" column="0" />
@@ -663,11 +660,11 @@
       <jump line="17571" column="1" filename="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/outfiletrain.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgZGVudGNvbnRlbnRsaXN0aXRlbSA9IGZhY19jb250ZW50LmZpbmRfYWxsKCdwJykK</text>
+      <register name="&quot;" type="4">
+        <text>|</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
@@ -676,31 +673,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgZGVudGNvbnRlbnRsaXN0aXRlbSA9IGZhY19jb250ZW50LmZpbmRfYWxsKCdwJykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChiaW9zY3JhcGVyLmdldF9iaW9fZm9yX3VybCh1cmwpKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgoKCiAgICAjIGZvciBjaGlsZCBpbiBmYWNfY29udGVudC5jaGlsZHJlbigpOgogICAgIyAgICAgcHJpbnQoY2hpbGQucHJldHRpZnkoKSkKICAgICMgYmlvX2dyYWYgPSAiIgogICAgIyBmb3IgaXRlbV9uYW1lIGluIGRlbnRjb250ZW50bGlzdGl0ZW06CiAgICAjICAgICBiaW9fdGV4dCA9IGl0ZW1fbmFtZS5wcmV0dGlmeSgpCiAgICAjICAgICBiaW9fdGV4dCA9IGJpb190ZXh0WzM6XQogICAgIyAgICAgYmlvX3RleHQgPSBiaW9fdGV4dFs6LTVdCiAgICAjICAgICBiaW9fdGV4dCA9IGJpb190ZXh0LnJlcGxhY2UoIjxicj4iLCAiIikKICAgICMgICAgIGJpb190ZXh0ID0gYmlvX3RleHQucmVwbGFjZSgiPC9icj4iLCAiIikKICAgICMgICAgIGJpb190ZXh0ID0gYmlvX3RleHQucmVwbGFjZSgiPGJyLz4iLCAiIikKICAgICMgICAgIGJpb190ZXh0ID0gYmlvX3RleHQuc3RyaXAoKQogICAgIyAgICAgaWYgIm1haWx0byIgbm90IGluIGJpb190ZXh0IGFuZCAiUmVsYXRlZCBMaW5rczoiIG5vdCBpbiBiaW9fdGV4dCBhbmQgIi5qcGciIG5vdCBpbiBiaW9fdGV4dCBhbmQgIjQ4MTA5IiBub3QgaW4gYmlvX3RleHRcCiAgICAjICAgICAgICAgICAgIGFuZCAic3R5bGU9IiBub3QgaW4gYmlvX3RleHQgYW5kICJocmVmPSIgbm90IGluIGJpb190ZXh0IGFuZCAiUmV0dXJuIHRvIEZhY3VsdHkgcGFnZSIgbm90IGluIGJpb190ZXh0OgogICAgIyAgICAgICAgIGJpb19ncmFmICs9IGJpb190ZXh0LnN0cmlwKCkKCiAgICAjIHByaW50KGJpb19ncmFmKQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpb19ncmFmICs9IGYie2NvdW50KzF9LiB7bGlzdF90ZXh0fVxuIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RfaXRlbSA9IGxpc3RfaXRlbS5zdHJpcCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RfdGV4dCA9IGxpc3RfdGV4dFs6LTVdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdF9pdGVtID0gbmV4dChjaGlsZC5jaGlsZHJlbik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RfdGV4dCA9IGxpc3RfdGV4dFs0Ol0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtID0gMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RfdGV4dCA9IHN0cihsaXN0X2l0ZW0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGJpb190ZXh0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGNvdW50LCBsaXN0X2l0ZW0gaW4gZW51bWVyYXRlKGxpc3RfaXRlbXMpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGJpb190ZXh0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdF9pdGVtcyA9IFt4IGZvciB4IGluIGxpc3RfaXRlbXMgaWYgeCAhPSAnXG4nXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIGJpb190ZXh0LnN0cmlwKCkgbm90IGluIFsnPGJyPicsICc8L2JyPicsICc8L2JyPiddOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdF9pdGVtcyA9IGxpc3QoY2hpbGQuY2hpbGRyZW4pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGJpb190ZXh0KQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBjaGlsZC5uYW1lID09ICdvbCc6REQK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
