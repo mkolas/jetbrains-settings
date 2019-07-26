@@ -540,11 +540,10 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/_dev/python/facultybios/crsescraper.py" timestamp="1564165920246">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="3" />
-        <mark key="." line="10" column="3" />
-        <mark key="^" line="10" column="3" />
+      <file name="$USER_HOME$/_dev/python/facultybios/crsescraper.py" timestamp="1564168706924">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1561062528343">
         <mark key="[" line="0" column="0" />
@@ -661,10 +660,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>|</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
@@ -673,31 +672,33 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChiaW9zY3JhcGVyLmdldF9iaW9fZm9yX3VybCh1cmwpKQo=</text>
+        <text encoding="base64">ICAgIGZvciB1cmwgaW4gZmFjdWx0eV91cmxzOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpb19ncmFmICs9IGYie2NvdW50KzF9LiB7bGlzdF90ZXh0fVxuIgo=</text>
+        <text encoding="base64">ICAgICAgICBmaWxld3JpdGVyLndyaXRlcm93KFt1cmwsIGJpb3NjcmFwZXIuZ2V0X2Jpb19mb3JfdXJsKHVybCkucmVwbGFjZSgiXG4iLCAiXHJcbiIpXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RfdGV4dCA9IGxpc3RfdGV4dFs6LTVdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RfdGV4dCA9IGxpc3RfdGV4dFs0Ol0K</text>
+        <text encoding="base64">ZGQK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RfdGV4dCA9IHN0cihsaXN0X2l0ZW0pCg==</text>
+      <register name="5" type="4">
+        <text>with open('crse.csv', 'w') as csvfile:
+    # we're going to use this weird alt+J character because it will ensure nothing messes with our delimiter
+    filewriter = csv.writer(csvfile, delimiter=&quot;∆&quot;, quotechar=&quot;|&quot;, quoting=csv.QUOTE_MINIMAL)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGNvdW50LCBsaXN0X2l0ZW0gaW4gZW51bWVyYXRlKGxpc3RfaXRlbXMpOgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChiaW9zY3JhcGVyLmdldF9iaW9fZm9yX3VybCh1cmwpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdF9pdGVtcyA9IFt4IGZvciB4IGluIGxpc3RfaXRlbXMgaWYgeCAhPSAnXG4nXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpb19ncmFmICs9IGYie2NvdW50KzF9LiB7bGlzdF90ZXh0fVxuIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdF9pdGVtcyA9IGxpc3QoY2hpbGQuY2hpbGRyZW4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RfdGV4dCA9IGxpc3RfdGV4dFs6LTVdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjaGlsZC5uYW1lID09ICdvbCc6REQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RfdGV4dCA9IGxpc3RfdGV4dFs0Ol0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
