@@ -17,11 +17,11 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/_dev/python/facultybios/pedoscraper.py" timestamp="1564171786220">
-        <mark key="[" line="16" column="76" />
-        <mark key="]" line="16" column="76" />
-        <mark key="." line="16" column="76" />
-        <mark key="^" line="16" column="77" />
+      <file name="$USER_HOME$/_dev/python/facultybios/pedoscraper.py" timestamp="1564407711104">
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="17" column="76" />
+        <mark key="." line="17" column="76" />
+        <mark key="^" line="17" column="77" />
       </file>
       <file name="/a.dummy" timestamp="1557428216547">
         <mark key="[" line="0" column="0" />
@@ -204,10 +204,10 @@
         <mark key="^" line="2" column="45" />
         <mark key="." line="2" column="45" />
       </file>
-      <file name="$USER_HOME$/_dev/python/facultybios/perioscraper.py" timestamp="1564172183335">
-        <mark key="[" line="6" column="72" />
-        <mark key="]" line="6" column="72" />
-        <mark key="." line="6" column="72" />
+      <file name="$USER_HOME$/_dev/python/facultybios/perioscraper.py" timestamp="1564407897606">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="11" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/events.py" timestamp="1528918915394">
         <mark key="[" line="24" column="4" />
@@ -551,10 +551,11 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/_dev/python/facultybios/crsescraper.py" timestamp="1564171761605">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="8" />
-        <mark key="." line="20" column="8" />
+      <file name="$USER_HOME$/_dev/python/facultybios/crsescraper.py" timestamp="1564407863161">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+        <mark key="^" line="21" column="43" />
       </file>
       <file name="/Dummy.txt" timestamp="1561062528343">
         <mark key="[" line="0" column="0" />
@@ -672,10 +673,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
@@ -684,31 +685,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN1bHR5X2xpbmtkZGRzID0gZmFjdWx0eV9ncm91cC5maW5kX2FsbCgnYScpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh1cmwpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgZmFjdWx0eV9saW5rIGluIGZhY3VsdHlfbGlua3M6Cg==</text>
+        <text encoding="base64">ICAgIGZvciB1cmwgaW4gZmFjdWx0eV91cmxzOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlLndyaXRlKGJpb3NjcmFwZXIuZ2V0X2Jpb19mb3JfdXJsKHVybCkrIlxyXG4iKQo=</text>
+        <text encoding="base64">cXFxcXFxcXFxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciB1cmwgaW4gZmFjdWx0eV91cmxzOgo=</text>
+        <text encoding="base64">ICAgICAgICBmYWN1bHR5X2xpbmtkZGRzID0gZmFjdWx0eV9ncm91cC5maW5kX2FsbCgnYScpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgZmFjdWx0eV9saW5rIGluIGZhY3VsdHlfbGlua3M6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFjdWx0eV91cmxzLmFwcGVuZCgiaHR0cHM6Ly9kZW50LnVtaWNoLmVkdSIrZmFjdWx0eV9saW5rLmF0dHJzWydocmVmJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlLndyaXRlKGJpb3NjcmFwZXIuZ2V0X2Jpb19mb3JfdXJsKHVybCkrIlxyXG4iKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgZmFjdWx0eV9saW5rIGluIDoK</text>
+        <text encoding="base64">ICAgIGZvciB1cmwgaW4gZmFjdWx0eV91cmxzOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN1bHR5X2xpbmtzID0gZmFjdWx0eV9ncm91cC5maW5kX2FsbCgnYScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciB1cmwgaW4gZmFjdWx0eV91cmxzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmFjdWx0eV91cmxzLmFwcGVuZCgiaHR0cHM6Ly9kZW50LnVtaWNoLmVkdSIrZmFjdWx0eV9saW5rLmF0dHJzWydocmVmJ10pCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
