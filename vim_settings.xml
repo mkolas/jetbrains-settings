@@ -17,7 +17,7 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/_dev/python/facultybios/pedoscraper.py" timestamp="1564407711104">
+      <file name="$USER_HOME$/_dev/python/facultybios/pedoscraper.py" timestamp="1564413999738">
         <mark key="[" line="5" column="35" />
         <mark key="]" line="17" column="76" />
         <mark key="." line="17" column="76" />
@@ -143,11 +143,11 @@
         <mark key="^" line="49" column="65" />
         <mark key="." line="49" column="54" />
       </file>
-      <file name="$USER_HOME$/_dev/python/facultybios/hygienescraper.py" timestamp="1564173016979">
-        <mark key="[" line="13" column="7" />
-        <mark key="]" line="12" column="8" />
-        <mark key="." line="12" column="8" />
-        <mark key="^" line="12" column="10" />
+      <file name="$USER_HOME$/_dev/python/facultybios/hygienescraper.py" timestamp="1564414812661">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="0" column="14" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/docs/conf.py" timestamp="1506438861272">
         <mark key="[" line="51" column="11" />
@@ -186,10 +186,10 @@
         <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1561047388971" />
-      <file name="/Python Console" timestamp="1564173402627">
+      <file name="/Python Console" timestamp="1564414291442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1564172487978">
+      <file name="/fragment.py" timestamp="1564414314135">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/ptbal.py" timestamp="1506359062869">
@@ -204,7 +204,7 @@
         <mark key="^" line="2" column="45" />
         <mark key="." line="2" column="45" />
       </file>
-      <file name="$USER_HOME$/_dev/python/facultybios/perioscraper.py" timestamp="1564407897606">
+      <file name="$USER_HOME$/_dev/python/facultybios/perioscraper.py" timestamp="1564412554151">
         <mark key="[" line="5" column="11" />
         <mark key="]" line="5" column="11" />
         <mark key="." line="5" column="11" />
@@ -352,12 +352,12 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/_dev/python/facultybios/bioscraper.py" timestamp="1564170189924">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="27" column="99" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="28" column="0" />
+      <file name="$USER_HOME$/_dev/python/facultybios/bioscraper.py" timestamp="1564415874075">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="36" column="11" />
+        <mark key="]" line="12" column="43" />
+        <mark key="." line="12" column="43" />
+        <mark key="^" line="12" column="43" />
       </file>
       <file name="$USER_HOME$/_dev/python/wsse/tests/test_wsse.py" timestamp="1555353136062">
         <mark key="[" line="16" column="18" />
@@ -496,6 +496,11 @@
         <mark key="[" line="9" column="9" />
         <mark key="]" line="6" column="8" />
         <mark key="." line="6" column="8" />
+      </file>
+      <file name="$USER_HOME$/_dev/python/facultybios/bmsscraper.py" timestamp="1564415362350">
+        <mark key="[" line="20" column="63" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/configs.py" timestamp="1505938004495">
         <mark key="[" line="19" column="38" />
@@ -673,10 +678,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>NoneType</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>NoneType</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
@@ -685,31 +690,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh1cmwpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHcud3JpdGVyb3coW3VybCwgYmlvc2NyYXBlci5nZXRfYmlvX2Zvcl91cmwodXJsKV0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciB1cmwgaW4gZmFjdWx0eV91cmxzOgo=</text>
+        <text encoding="base64">aW1wb3J0IGJpb3NjcmFwZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cXFxcXFxcXFxCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN1bHR5X2xpbmtkZGRzID0gZmFjdWx0eV9ncm91cC5maW5kX2FsbCgnYScpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgZmFjdWx0eV9saW5rIGluIGZhY3VsdHlfbGlua3M6Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlLndyaXRlKGJpb3NjcmFwZXIuZ2V0X2Jpb19mb3JfdXJsKHVybCkrIlxyXG4iKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciB1cmwgaW4gZmFjdWx0eV91cmxzOgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50KHRleHQpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCh1cmwpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZvciB1cmwgaW4gZmFjdWx0eV91cmxzOgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">cXFxcXFxcXFxCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBmYWN1bHR5X2xpbmtkZGRzID0gZmFjdWx0eV9ncm91cC5maW5kX2FsbCgnYScpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFjdWx0eV91cmxzLmFwcGVuZCgiaHR0cHM6Ly9kZW50LnVtaWNoLmVkdSIrZmFjdWx0eV9saW5rLmF0dHJzWydocmVmJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgZmFjdWx0eV9saW5rIGluIGZhY3VsdHlfbGlua3M6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
