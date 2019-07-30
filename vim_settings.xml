@@ -337,6 +337,11 @@
         <mark key="^" line="8" column="59" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/_dev/database-scripts/mpitools/sqliteconnector.py" timestamp="1564503358986">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/procedure/proceduremethods.py" timestamp="1535468279350">
         <mark key="[" line="6" column="20" />
       </file>
@@ -678,10 +683,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>NoneType</text>
+        <text>L</text>
       </register>
       <register name="-" type="4">
-        <text>NoneType</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
