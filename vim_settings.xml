@@ -27,6 +27,11 @@
       <file name="/a.dummy" timestamp="1557428216547">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/_dev/michart-python/michart/endpoints.py" timestamp="1565028090438">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/config.ini" timestamp="1559923867555">
         <mark key="[" line="23" column="1" />
         <mark key="]" line="23" column="4" />
@@ -689,8 +694,8 @@
       <jump line="27" column="0" filename="$USER_HOME$/_dev/python/facultybios/bioscraper.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBmbGFza193ZWFzeXByaW50IGltcG9ydCBIVE1MLCByZW5kZXJfcGRmCg==</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
@@ -702,31 +707,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZW5naW5lID0gY3JlYXRlX2VuZ2luZShkYl9jb25uZWN0X3N0cmluZywgY29ubmVjdF9hcmdzPXNzbF9hcmdzKQo=</text>
+        <text encoding="base64">ZnJvbSBmbGFza193ZWFzeXByaW50IGltcG9ydCBIVE1MLCByZW5kZXJfcGRmCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3NsX2FyZ3MgPSB7J3NzbCc6IHsnY2EnOiAnL1VzZXJzL21rb2xhcy9JbkNvbW1vbi5DQS5jcnQnfX0K</text>
+        <text encoding="base64">ZGVmIGdldF9wYXRpZW50X2d1YXJhbnRvcnMoKToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGJfY29ubmVjdF9zdHJpbmcgPSAibXlzcWw6Ly9tcGlfZmluOiEzMzc4OWQkQlZ1T0BkZW50LW1waS1wcm9kLW15c3FsLm1pc2VydmVyLml0LnVtaWNoLmVkdTozMzA2L21waSIK</text>
+        <text encoding="base64">QG1pY2hhcnQucm91dGUoJy9taWNoYXJ0L2d1YXJhbnRvcnMnLCBtZXRob2RzPVsnUE9TVCddKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHcud3JpdGVyb3coW3VybCwgYmlvc2NyYXBlci5nZXRfYmlvX2Zvcl91cmwodXJsKV0pCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGJpb3NjcmFwZXIK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJldHVybiByZW5kZXJfdGVtcGxhdGUoJ2ltbXVuaXphdGlvbnMuaHRtbCcsIGltbXVuaXphdGlvbnNfbGlzdD1yZXN1bHQuSW1tdW5pemF0aW9uKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRleHQpCg==</text>
+        <text encoding="base64">ICAgICAgICAqKmNyZWF0ZV9yZXF1ZXN0X3BheWxvYWQocmVxdWVzdC5mb3JtLmdldCgncGF0aWVudElkJyksIHJlcXVlc3QuZm9ybS5nZXQoJ3VzZXJJZCcpKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh1cmwpCg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IGNsaWVudC5jdXN0b21fY2xpbmljYWwuR2V0UGF0aWVudEltbXVuaXphdGlvbnMoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciB1cmwgaW4gZmFjdWx0eV91cmxzOgo=</text>
+        <text encoding="base64">ZGVmIGdldF9wYXRpZW50X2ltbXVuaXphdGlvbnMoKToK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
