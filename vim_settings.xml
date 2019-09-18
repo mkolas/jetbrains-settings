@@ -160,11 +160,11 @@
         <mark key="." line="51" column="30" />
         <mark key="^" line="51" column="30" />
       </file>
-      <file name="$USER_HOME$/_dev/axium-clean-up/deploy_axium_clean_up_prereq.py" timestamp="1568823363800">
-        <mark key="[" line="31" column="29" />
-        <mark key="]" line="15" column="33" />
-        <mark key="^" line="15" column="33" />
-        <mark key="." line="15" column="33" />
+      <file name="$USER_HOME$/_dev/axium-clean-up/deploy_axium_clean_up_prereq.py" timestamp="1568827316044">
+        <mark key="[" line="29" column="60" />
+        <mark key="]" line="31" column="28" />
+        <mark key="^" line="31" column="28" />
+        <mark key="." line="31" column="28" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/michart/client.py" timestamp="1556215819746">
         <mark key="[" line="30" column="66" />
@@ -701,10 +701,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvciBhcmcgaW4gc3lzLmFyZ3ZbMTpdOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Parameter</text>
+        <text>, PIPE</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
@@ -713,31 +713,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciBhcmcgaW4gc3lzLmFyZ3ZbMTpdOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBmbGFza193ZWFzeXByaW50IGltcG9ydCBIVE1MLCByZW5kZXJfcGRmCg==</text>
+        <text encoding="base64">ICAgIGZvciBhcmcgaW4gc3lzLmFyZ3ZbMTpdOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGdldF9wYXRpZW50X2d1YXJhbnRvcnMoKToK</text>
+        <text encoding="base64">ZnJvbSBmbGFza193ZWFzeXByaW50IGltcG9ydCBIVE1MLCByZW5kZXJfcGRmCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QG1pY2hhcnQucm91dGUoJy9taWNoYXJ0L2d1YXJhbnRvcnMnLCBtZXRob2RzPVsnUE9TVCddKQo=</text>
+        <text encoding="base64">ZGVmIGdldF9wYXRpZW50X2d1YXJhbnRvcnMoKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QG1pY2hhcnQucm91dGUoJy9taWNoYXJ0L2d1YXJhbnRvcnMnLCBtZXRob2RzPVsnUE9TVCddKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZW5kZXJfdGVtcGxhdGUoJ2ltbXVuaXphdGlvbnMuaHRtbCcsIGltbXVuaXphdGlvbnNfbGlzdD1yZXN1bHQuSW1tdW5pemF0aW9uKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAqKmNyZWF0ZV9yZXF1ZXN0X3BheWxvYWQocmVxdWVzdC5mb3JtLmdldCgncGF0aWVudElkJyksIHJlcXVlc3QuZm9ybS5nZXQoJ3VzZXJJZCcpKSkK</text>
+        <text encoding="base64">ICAgIHJldHVybiByZW5kZXJfdGVtcGxhdGUoJ2ltbXVuaXphdGlvbnMuaHRtbCcsIGltbXVuaXphdGlvbnNfbGlzdD1yZXN1bHQuSW1tdW5pemF0aW9uKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IGNsaWVudC5jdXN0b21fY2xpbmljYWwuR2V0UGF0aWVudEltbXVuaXphdGlvbnMoCg==</text>
+        <text encoding="base64">ICAgICAgICAqKmNyZWF0ZV9yZXF1ZXN0X3BheWxvYWQocmVxdWVzdC5mb3JtLmdldCgncGF0aWVudElkJyksIHJlcXVlc3QuZm9ybS5nZXQoJ3VzZXJJZCcpKSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
