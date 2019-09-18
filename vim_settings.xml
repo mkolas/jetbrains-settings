@@ -23,7 +23,6 @@
         <mark key="." line="17" column="76" />
         <mark key="^" line="17" column="77" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/michart/endpoints.py" timestamp="1565027966988" />
       <file name="/a.dummy" timestamp="1557428216547">
         <mark key="[" line="0" column="0" />
       </file>
@@ -160,6 +159,12 @@
         <mark key="]" line="51" column="30" />
         <mark key="." line="51" column="30" />
         <mark key="^" line="51" column="30" />
+      </file>
+      <file name="$USER_HOME$/_dev/axium-clean-up/deploy_axium_clean_up_prereq.py" timestamp="1568817172123">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/michart/client.py" timestamp="1556215819746">
         <mark key="[" line="30" column="66" />
@@ -486,6 +491,7 @@
       <file name="$USER_HOME$/_dev/python/python-ml/keras-dogcat.py" timestamp="1518453845149">
         <mark key="[" line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/_dev/axium-clean-up/deploy_axium_clean_up_prereq.bat" timestamp="1568817147400" />
       <file name="$USER_HOME$/_dev/python/kmeans-mich-voters/centroids.py" timestamp="1519076992308">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="25" />
@@ -694,11 +700,11 @@
       <jump line="27" column="0" filename="$USER_HOME$/_dev/python/facultybios/bioscraper.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBmbGFza193ZWFzeXByaW50IGltcG9ydCBIVE1MLCByZW5kZXJfcGRmCg==</text>
+      <register name="&quot;" type="4">
+        <text>REM</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>REM</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
