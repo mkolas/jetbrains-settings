@@ -160,11 +160,11 @@
         <mark key="." line="51" column="30" />
         <mark key="^" line="51" column="30" />
       </file>
-      <file name="$USER_HOME$/_dev/axium-clean-up/deploy_axium_clean_up_prereq.py" timestamp="1568827316044">
-        <mark key="[" line="29" column="60" />
-        <mark key="]" line="31" column="28" />
+      <file name="$USER_HOME$/_dev/axium-clean-up/deploy_axium_clean_up_prereq.py" timestamp="1568837357976">
+        <mark key="[" line="32" column="32" />
+        <mark key="]" line="33" column="32" />
         <mark key="^" line="31" column="28" />
-        <mark key="." line="31" column="28" />
+        <mark key="." line="33" column="32" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/michart/client.py" timestamp="1556215819746">
         <mark key="[" line="30" column="66" />
@@ -700,11 +700,11 @@
       <jump line="27" column="0" filename="$USER_HOME$/_dev/python/facultybios/bioscraper.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>, PIPE</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
