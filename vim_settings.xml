@@ -160,11 +160,11 @@
         <mark key="." line="51" column="30" />
         <mark key="^" line="51" column="30" />
       </file>
-      <file name="$USER_HOME$/_dev/axium-clean-up/deploy_axium_clean_up_prereq.py" timestamp="1568817172123">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/_dev/axium-clean-up/deploy_axium_clean_up_prereq.py" timestamp="1568820185558">
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="15" />
+        <mark key="^" line="19" column="23" />
+        <mark key="." line="19" column="15" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/michart/client.py" timestamp="1556215819746">
         <mark key="[" line="30" column="66" />
@@ -491,7 +491,7 @@
       <file name="$USER_HOME$/_dev/python/python-ml/keras-dogcat.py" timestamp="1518453845149">
         <mark key="[" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/axium-clean-up/deploy_axium_clean_up_prereq.bat" timestamp="1568817147400" />
+      <file name="$USER_HOME$/_dev/axium-clean-up/deploy_axium_clean_up_prereq.bat" timestamp="1568820210863" />
       <file name="$USER_HOME$/_dev/python/kmeans-mich-voters/centroids.py" timestamp="1519076992308">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="25" />
@@ -701,10 +701,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>REM</text>
+        <text>Parameter</text>
       </register>
       <register name="-" type="4">
-        <text>REM</text>
+        <text>Parameter</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
