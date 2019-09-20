@@ -305,11 +305,11 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/axium-clean-up/duplicate_pt_list_by_mrn.py" timestamp="1568999617387">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="40" column="105" />
-        <mark key="^" line="40" column="105" />
-        <mark key="." line="40" column="105" />
+      <file name="$USER_HOME$/_dev/axium-clean-up/duplicate_pt_list_by_mrn.py" timestamp="1569005153706">
+        <mark key="[" line="40" column="53" />
+        <mark key="]" line="40" column="53" />
+        <mark key="^" line="24" column="13" />
+        <mark key="." line="40" column="53" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/encounters.html" timestamp="1556031833715">
         <mark key="[" line="6" column="44" />
@@ -707,10 +707,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ECHO</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>ECHO</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
@@ -719,31 +719,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGFyZ3YpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBhcmcgaW4gc3lzLmFyZ3ZbMTpdOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBmbGFza193ZWFzeXByaW50IGltcG9ydCBIVE1MLCByZW5kZXJfcGRmCg==</text>
+        <text encoding="base64">ICAgIGZvciBhcmcgaW4gc3lzLmFyZ3ZbMTpdOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGdldF9wYXRpZW50X2d1YXJhbnRvcnMoKToK</text>
+        <text encoding="base64">ZnJvbSBmbGFza193ZWFzeXByaW50IGltcG9ydCBIVE1MLCByZW5kZXJfcGRmCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QG1pY2hhcnQucm91dGUoJy9taWNoYXJ0L2d1YXJhbnRvcnMnLCBtZXRob2RzPVsnUE9TVCddKQo=</text>
+        <text encoding="base64">ZGVmIGdldF9wYXRpZW50X2d1YXJhbnRvcnMoKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QG1pY2hhcnQucm91dGUoJy9taWNoYXJ0L2d1YXJhbnRvcnMnLCBtZXRob2RzPVsnUE9TVCddKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZW5kZXJfdGVtcGxhdGUoJ2ltbXVuaXphdGlvbnMuaHRtbCcsIGltbXVuaXphdGlvbnNfbGlzdD1yZXN1bHQuSW1tdW5pemF0aW9uKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAqKmNyZWF0ZV9yZXF1ZXN0X3BheWxvYWQocmVxdWVzdC5mb3JtLmdldCgncGF0aWVudElkJyksIHJlcXVlc3QuZm9ybS5nZXQoJ3VzZXJJZCcpKSkK</text>
+        <text encoding="base64">ICAgIHJldHVybiByZW5kZXJfdGVtcGxhdGUoJ2ltbXVuaXphdGlvbnMuaHRtbCcsIGltbXVuaXphdGlvbnNfbGlzdD1yZXN1bHQuSW1tdW5pemF0aW9uKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
