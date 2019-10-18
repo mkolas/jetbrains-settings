@@ -397,11 +397,11 @@
       <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/main.py" timestamp="1560780486955">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/michart-python/michart/client.py" timestamp="1571421575597">
-        <mark key="[" line="49" column="36" />
-        <mark key="]" line="49" column="35" />
-        <mark key="." line="49" column="35" />
-        <mark key="^" line="49" column="35" />
+      <file name="$USER_HOME$/_dev/michart-python/michart/client.py" timestamp="1571424071387">
+        <mark key="[" line="43" column="85" />
+        <mark key="]" line="43" column="85" />
+        <mark key="." line="43" column="85" />
+        <mark key="^" line="54" column="26" />
       </file>
       <file name="$USER_HOME$/_dev/python/wsse/project/server.py" timestamp="1555349442719">
         <mark key="[" line="4" column="0" />
@@ -711,11 +711,11 @@
       <jump line="27" column="0" filename="$USER_HOME$/_dev/python/facultybios/bioscraper.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVwaWNfY2xpbmljYWwuCg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
