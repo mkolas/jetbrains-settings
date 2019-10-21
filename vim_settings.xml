@@ -197,10 +197,10 @@
         <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1569943454034" />
-      <file name="/Python Console" timestamp="1571678943544">
+      <file name="/Python Console" timestamp="1571690987948">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1564414314135">
+      <file name="/fragment.py" timestamp="1571691086019">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/ptbal.py" timestamp="1506359062869">
@@ -397,11 +397,11 @@
       <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/main.py" timestamp="1560780486955">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/michart-python/michart/client.py" timestamp="1571688089035">
-        <mark key="[" line="52" column="8" />
-        <mark key="]" line="29" column="40" />
-        <mark key="." line="29" column="40" />
-        <mark key="^" line="55" column="26" />
+      <file name="$USER_HOME$/_dev/michart-python/michart/client.py" timestamp="1571690985158">
+        <mark key="[" line="60" column="50" />
+        <mark key="]" line="60" column="49" />
+        <mark key="." line="60" column="49" />
+        <mark key="^" line="60" column="49" />
       </file>
       <file name="$USER_HOME$/_dev/python/wsse/project/server.py" timestamp="1555349442719">
         <mark key="[" line="4" column="0" />
@@ -712,10 +712,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
@@ -724,31 +724,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVwaWNfY2xpbmljYWwuCg==</text>
+        <text encoding="base64">ZnJvbSBseG1sIGltcG9ydCBFbGUK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgogICAgICAgIHNlbGYuY3VzdG9tX2NsaW5pY2FsID0g</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFyZ3YpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmVwaWNfY2xpbmljYWwuCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CgogICAgICAgIHNlbGYuY3VzdG9tX2NsaW5pY2FsID0g</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciBhcmcgaW4gc3lzLmFyZ3ZbMTpdOgo=</text>
+        <text encoding="base64">ICAgIHByaW50KGFyZ3YpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBmbGFza193ZWFzeXByaW50IGltcG9ydCBIVE1MLCByZW5kZXJfcGRmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGdldF9wYXRpZW50X2d1YXJhbnRvcnMoKToK</text>
+        <text encoding="base64">ICAgIGZvciBhcmcgaW4gc3lzLmFyZ3ZbMTpdOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QG1pY2hhcnQucm91dGUoJy9taWNoYXJ0L2d1YXJhbnRvcnMnLCBtZXRob2RzPVsnUE9TVCddKQo=</text>
+        <text encoding="base64">ZnJvbSBmbGFza193ZWFzeXByaW50IGltcG9ydCBIVE1MLCByZW5kZXJfcGRmCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGdldF9wYXRpZW50X2d1YXJhbnRvcnMoKToK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
