@@ -397,10 +397,10 @@
       <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/main.py" timestamp="1560780486955">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/michart-python/michart/client.py" timestamp="1571424071387">
-        <mark key="[" line="43" column="85" />
-        <mark key="]" line="43" column="85" />
-        <mark key="." line="43" column="85" />
+      <file name="$USER_HOME$/_dev/michart-python/michart/client.py" timestamp="1571427338883">
+        <mark key="[" line="54" column="26" />
+        <mark key="]" line="29" column="40" />
+        <mark key="." line="29" column="40" />
         <mark key="^" line="54" column="26" />
       </file>
       <file name="$USER_HOME$/_dev/python/wsse/project/server.py" timestamp="1555349442719">
@@ -591,7 +591,7 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="21" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564520125386">
+      <file name="/Dummy.txt" timestamp="1571664961753">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/__init__.py" timestamp="1560780204229">
@@ -712,10 +712,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
