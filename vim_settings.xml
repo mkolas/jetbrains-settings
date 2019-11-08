@@ -398,11 +398,11 @@
       <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/main.py" timestamp="1560780486955">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/michart-python/michart/client.py" timestamp="1573240212696">
-        <mark key="[" line="53" column="66" />
-        <mark key="]" line="53" column="73" />
+      <file name="$USER_HOME$/_dev/michart-python/michart/client.py" timestamp="1573240998936">
+        <mark key="[" line="54" column="32" />
+        <mark key="]" line="54" column="32" />
         <mark key="^" line="53" column="73" />
-        <mark key="." line="53" column="73" />
+        <mark key="." line="54" column="32" />
       </file>
       <file name="$USER_HOME$/_dev/python/wsse/project/server.py" timestamp="1555349442719">
         <mark key="[" line="4" column="0" />
@@ -716,10 +716,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>http://mcintvwrprd.med.umich.edu/Interconnect-PRD/w</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>http://mcintvwrprd.med.umich.edu/Interconnect-PRD/w</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
