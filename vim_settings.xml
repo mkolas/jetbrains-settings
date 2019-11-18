@@ -100,8 +100,10 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/joindatabases.py" timestamp="1574093211342">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/joindatabases.py" timestamp="1574113142809">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/project/client.py" timestamp="1555355268140">
         <mark key="[" line="0" column="0" />
@@ -503,6 +505,7 @@
       <file name="$USER_HOME$/_dev/python/python-ml/keras-dogcat.py" timestamp="1518453845149">
         <mark key="[" line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/alchemy/oracleconnector.py" timestamp="1574112343983" />
       <file name="$USER_HOME$/_dev/python/kmeans-mich-voters/centroids.py" timestamp="1519076992308">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="25" />
@@ -721,11 +724,11 @@
       <jump line="27" column="0" filename="$USER_HOME$/_dev/python/facultybios/bioscraper.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QXhTZXNzaW9uID0gc2Vzc2lvbm1ha2VyKGJpbmQ9YXhfZW5naW5lKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>hsdw_engin</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
@@ -734,31 +737,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QXhTZXNzaW9uID0gc2Vzc2lvbm1ha2VyKGJpbmQ9YXhfZW5naW5lKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RU5WSVJPTk1FTlQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3N3b3JkID0gIkZyZVRrazI3IiAgIyBwcm9kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVzZXJuYW1lID0gImxvY2FsOmF4aXVtIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgZGVmIHRlc3RfZXBpY19jbGluaWNhbChzZWxmKToK</text>
+        <text encoding="base64">ICAgIHBhc3N3b3JkID0gIkZyZVRrazI3IiAgIyBwcm9kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVzZXJuYW1lID0gImxvY2FsOmF4aXVtIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgZGVmIHRlc3RfZXBpY19jbGluaWNhbChzZWxmKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNsaWVudC5lcGljX2NsaW5pY2FsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfZXBpY19jbGllbnRfaWQoKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
