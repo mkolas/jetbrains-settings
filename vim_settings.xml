@@ -23,7 +23,7 @@
         <mark key="." line="17" column="76" />
         <mark key="^" line="17" column="77" />
       </file>
-      <file name="/a.dummy" timestamp="1557428216547">
+      <file name="/a.dummy" timestamp="1574127772125">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/michart-python/michart/endpoints.py" timestamp="1572375167084">
@@ -100,7 +100,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/joindatabases.py" timestamp="1574116348213">
+      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/joindatabases.py" timestamp="1574127207510">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
@@ -205,10 +205,10 @@
         <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1569943454034" />
-      <file name="/Python Console" timestamp="1574116354856">
+      <file name="/Python Console" timestamp="1574127210629">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1573496804955">
+      <file name="/fragment.py" timestamp="1574127227521">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/ptbal.py" timestamp="1506359062869">
@@ -600,11 +600,11 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="21" column="43" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/config.ini" timestamp="1574116444501">
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="6" column="21" />
-        <mark key="^" line="6" column="21" />
-        <mark key="." line="6" column="21" />
+      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/config.ini" timestamp="1574126573380">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="10" />
+        <mark key="^" line="4" column="10" />
+        <mark key="." line="4" column="10" />
       </file>
       <file name="/Dummy.txt" timestamp="1571675038572">
         <mark key="[" line="0" column="0" />
@@ -729,11 +729,11 @@
       <jump line="27" column="0" filename="$USER_HOME$/_dev/python/facultybios/bioscraper.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LS0gd2FyZmFyaW4gZ3JvdXAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>axium_sql_query = &quot;&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
@@ -742,31 +742,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QXhTZXNzaW9uID0gc2Vzc2lvbm1ha2VyKGJpbmQ9YXhfZW5naW5lKQo=</text>
+        <text encoding="base64">LS0gd2FyZmFyaW4gZ3JvdXAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RU5WSVJPTk1FTlQK</text>
+        <text encoding="base64">LS0gc2lsZGVuYWZpbCBncm91cAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gYWxidXRlcm9sIGdyb3VwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gb21lcHJhem9sZSBncm91cAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3N3b3JkID0gIkZyZVRrazI3IiAgIyBwcm9kCg==</text>
+        <text encoding="base64">LS0gbGV2b3RyeW94aW5lIGdyb3VwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVzZXJuYW1lID0gImxvY2FsOmF4aXVtIgo=</text>
+        <text encoding="base64">LS0gbGlzaW5vcHJpbCBncm91cAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgZGVmIHRlc3RfZXBpY19jbGluaWNhbChzZWxmKToK</text>
+        <text encoding="base64">LS0gaHlkcm9jb2RvbmUgZ3JvdXAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gYXRvcnZhc3RhdGluIGdyb3VwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gZ2FiYXBlbnRpbiBncm91cAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
