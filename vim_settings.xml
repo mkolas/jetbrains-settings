@@ -100,10 +100,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/joindatabases.py" timestamp="1574172067793">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/joindatabases.py" timestamp="1574173111827">
+        <mark key="[" line="22" column="33" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="20" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/project/client.py" timestamp="1555355268140">
         <mark key="[" line="0" column="0" />
@@ -123,7 +124,7 @@
       <file name="$USER_HOME$/_dev/python/spotify-data/spotify.py" timestamp="1518806972917">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/hsdwquery.py" timestamp="1574115497422">
+      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/hsdwquery.py" timestamp="1574173009071">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/functions.py" timestamp="1506347996557">
@@ -208,7 +209,7 @@
       <file name="/Python Console" timestamp="1574172071514">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1574127227521">
+      <file name="/fragment.py" timestamp="1574172723591">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/ptbal.py" timestamp="1506359062869">
@@ -723,10 +724,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LS0gd2FyZmFyaW4gZ3JvdXAgIAo=</text>
+        <text encoding="base64">IyBwcmludChoc2R3X3Jlc3VsdHMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>axium_sql_query = &quot;&quot;&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
@@ -735,31 +736,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS0gd2FyZmFyaW4gZ3JvdXAgIAo=</text>
+        <text encoding="base64">IyBwcmludChoc2R3X3Jlc3VsdHMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0gc2lsZGVuYWZpbCBncm91cAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LS0gYWxidXRlcm9sIGdyb3VwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS0gb21lcHJhem9sZSBncm91cAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0gbGV2b3RyeW94aW5lIGdyb3VwCg==</text>
+        <text encoding="base64">cHJpbnQoYXhfcmVzdWx0cykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LS0gbGlzaW5vcHJpbCBncm91cAo=</text>
+        <text encoding="base64">LS0gd2FyZmFyaW4gZ3JvdXAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0gaHlkcm9jb2RvbmUgZ3JvdXAK</text>
+        <text encoding="base64">LS0gc2lsZGVuYWZpbCBncm91cAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0gYXRvcnZhc3RhdGluIGdyb3VwCg==</text>
+        <text encoding="base64">LS0gYWxidXRlcm9sIGdyb3VwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LS0gZ2FiYXBlbnRpbiBncm91cAo=</text>
+        <text encoding="base64">LS0gb21lcHJhem9sZSBncm91cAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
