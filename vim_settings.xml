@@ -399,10 +399,11 @@
       <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/main.py" timestamp="1560780486955">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/michart-python/michart/client.py" timestamp="1574282187467">
-        <mark key="[" line="87" column="1" />
-        <mark key="]" line="96" column="38" />
-        <mark key="." line="96" column="38" />
+      <file name="$USER_HOME$/_dev/michart-python/michart/client.py" timestamp="1574285563730">
+        <mark key="[" line="102" column="38" />
+        <mark key="]" line="95" column="19" />
+        <mark key="." line="95" column="19" />
+        <mark key="^" line="95" column="19" />
       </file>
       <file name="$USER_HOME$/_dev/python/wsse/project/server.py" timestamp="1555349442719">
         <mark key="[" line="4" column="0" />
@@ -722,10 +723,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
@@ -734,31 +735,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQobm9kZSkK</text>
+        <text encoding="base64">ICAgICAgICB4c2QuRWxlbWVudCgnU29tZUJvb2xlYW4nLCB4c2QuQm9vbGVhbigpKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGhzZHdfcGF0aWVudF9kaWN0W3JbMl1dID0gclswXQo=</text>
+        <text encoding="base64">cHJpbnQobm9kZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBheF9wYXRpZW50X2RpY3RbclswXV0gPSByWzFdCg==</text>
+        <text encoding="base64">ICAgIGhzZHdfcGF0aWVudF9kaWN0W3JbMl1dID0gclswXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBheF9wYXRpZW50X2RpY3RbclswXV0gPSByWzFdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bWVkaWNhdGlvbl9ncm91cHNbJyddCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bWVkaWNhdGlvbl9ncm91cHNbJ3ZpYWdyYSddID0gInNpbGRlbmFmaWwgZ3JvdXAiCg==</text>
+        <text encoding="base64">bWVkaWNhdGlvbl9ncm91cHNbJyddCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bWVkaWNhdGlvbl9ncm91cHNbJ2NvdW1hZGluJ10gPSAid2FyZmFyaW4gZ3JvdXAiCg==</text>
+        <text encoding="base64">bWVkaWNhdGlvbl9ncm91cHNbJ3ZpYWdyYSddID0gInNpbGRlbmFmaWwgZ3JvdXAiCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIGlmICd3YXJmYXJpbicgaW4gbWVkaWNhdGlvbiBvciAnY291bWFkaW4nIGluIG1lZGljYXRpb246CiAgICAgICAgcmV0dXJuICd3YXJmYXJpbiBncm91cCcKICAgIGlmICd2aWFncmEnIGluIG1lZGljYXRpb24gb3IgJ3NpbGRlbmFmaWwnIGluIG1lZGljYXRpb246CiAgICAgICAgcmV0dXJuICdzaWxkZW5hZmlsIGdyb3VwJwogICAgaWYgJ2FsYnV0ZXJvbCcgaW4gbWVkaWNhdGlvbiBvciAnUHJvdmVudGlsJyBpbiBtZWRpY2F0aW9uIG9yICdwcm9haXInIGluIG1lZGljYXRpb246CiAgICAgICAgcmV0dXJuICdhbGJ1dGVyb2wgZ3JvdXAnCiAgICBpZiAnb21lcHJhem9sZScgaW4gbWVkaWNhdGlvbiBvciAncHJpbG9zZWMnIGluIG1lZGljYXRpb246CiAgICAgICAg</text>
+      <register name="9" type="2">
+        <text encoding="base64">bWVkaWNhdGlvbl9ncm91cHNbJ2NvdW1hZGluJ10gPSAid2FyZmFyaW4gZ3JvdXAiCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
