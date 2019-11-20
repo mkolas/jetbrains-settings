@@ -206,7 +206,7 @@
         <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1569943454034" />
-      <file name="/Python Console" timestamp="1574172071514">
+      <file name="/Python Console" timestamp="1574279847887">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1574172723591">
@@ -399,7 +399,7 @@
       <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/main.py" timestamp="1560780486955">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/michart-python/michart/client.py" timestamp="1573489358758">
+      <file name="$USER_HOME$/_dev/michart-python/michart/client.py" timestamp="1574279837446">
         <mark key="[" line="27" column="37" />
         <mark key="]" line="55" column="73" />
         <mark key="^" line="55" column="73" />
@@ -502,7 +502,6 @@
       <file name="$USER_HOME$/_dev/python/python-ml/keras-dogcat.py" timestamp="1518453845149">
         <mark key="[" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/alchemy/oracleconnector.py" timestamp="1574112343983" />
       <file name="$USER_HOME$/_dev/python/kmeans-mich-voters/centroids.py" timestamp="1519076992308">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="25" />
