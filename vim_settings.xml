@@ -322,6 +322,12 @@
         <mark key="^" line="7" column="33" />
         <mark key="." line="8" column="15" />
       </file>
+      <file name="$USER_HOME$/_dev/biopsy-service/biopsy-flask/app.py" timestamp="1575994730587">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="10" column="26" />
+        <mark key="." line="10" column="26" />
+      </file>
       <file name="$USER_HOME$/_dev/python/python-scratchpad/mergingproccodes/jsontocsv.py" timestamp="1538675414350">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="0" />
@@ -527,16 +533,22 @@
       <file name="$USER_HOME$/_dev/python/python-ml/keras-dogcat.py" timestamp="1518453845149">
         <mark key="[" line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/_dev/biopsy-service/biopsy-flask/__init__.py" timestamp="1575994696220">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/_dev/python/kmeans-mich-voters/centroids.py" timestamp="1519076992308">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/_dev/biopsy-service/Dockerfile" timestamp="1575918954915">
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="44" />
-        <mark key="." line="18" column="44" />
+      <file name="$USER_HOME$/_dev/biopsy-service/Dockerfile" timestamp="1575994906619">
+        <mark key="[" line="18" column="36" />
+        <mark key="]" line="18" column="36" />
+        <mark key="." line="18" column="36" />
         <mark key="^" line="18" column="44" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/notes/migrationtransformations.txt" timestamp="1544629148085">
@@ -770,11 +782,11 @@
       <jump line="27" column="0" filename="$USER_HOME$/_dev/python/facultybios/bioscraper.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGNyZWF0ZV9hcHAoKToK</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
