@@ -127,9 +127,6 @@
       <file name="$USER_HOME$/_dev/python/spotify-data/spotify.py" timestamp="1518806972917">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/hsdwquery.py" timestamp="1574173009071">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/functions.py" timestamp="1506347996557">
         <mark key="[" line="74" column="11" />
         <mark key="]" line="74" column="11" />
@@ -794,11 +791,147 @@
       <jump line="27" column="0" filename="$USER_HOME$/_dev/python/facultybios/bioscraper.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>hsdw_sql_query = &quot;&quot;&quot;SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'LEVOTHYROXINE%' OR PSL_MED_DESC LIKE 'SYNTHROID%')
+
+UNION ALL
+
+SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'LISINOPRIL%' OR PSL_MED_DESC LIKE 'QBREUS%' OR PSL_MED_DESC LIKE 'ZESTRIL%' )
+
+UNION ALL
+
+SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'WARFARIN%' OR PSL_MED_DESC LIKE 'COUMADIN%')
+
+UNION ALL
+
+SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'SILDENAFIL%' OR PSL_MED_DESC LIKE 'VIAGRA%' OR PSL_MED_DESC LIKE 'CIALIS%')
+
+UNION ALL 
+
+SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'ATORVASTATIN%' OR PSL_MED_DESC LIKE 'LIPITOR%')
+
+UNION ALL 
+
+SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'METFORMIN%' OR PSL_MED_DESC LIKE 'GLUCOPHAGE%')
+
+UNION ALL 
+
+SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'AMLODIPINE%' OR PSL_MED_DESC LIKE 'NORVASC%')
+
+UNION ALL 
+
+SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'METOPROLOL%' OR PSL_MED_DESC LIKE 'TOPROL%' OR PSL_MED_DESC LIKE 'LOPRESSOR%')
+
+UNION ALL 
+
+SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'OMEPRAZOLE%' OR PSL_MED_DESC LIKE 'PRILOSEC%')
+
+UNION ALL 
+
+SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'INSULIN%' OR PSL_MED_DESC LIKE 'GLARGINE%')
+
+UNION ALL 
+
+SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'LOSARTAN%' OR PSL_MED_DESC LIKE 'COZAAR%')
+
+UNION ALL 
+
+SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'SIMVASTATIN%' OR PSL_MED_DESC LIKE 'ZOCOR%')
+
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'ALBUTEROL%' OR PSL_MED_DESC LIKE 'PROAIR%' OR PSL_MED_DESC LIKE 'VENTOLIN%')
+
+UNION ALL 
+
+SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'GABAPENTIN%' OR PSL_MED_DESC LIKE 'NEURONTIN%')
+
+UNION ALL
+
+SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'HYDROCHOLOROTHIAZIDE%')
+
+UNION ALL
+
+SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'HYDROCODONE%')&quot;&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
@@ -806,32 +939,168 @@
       <register name="0" type="2">
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>hsdw_sql_query = &quot;&quot;&quot;SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'LEVOTHYROXINE%' OR PSL_MED_DESC LIKE 'SYNTHROID%')
+
+UNION ALL
+
+SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'LISINOPRIL%' OR PSL_MED_DESC LIKE 'QBREUS%' OR PSL_MED_DESC LIKE 'ZESTRIL%' )
+
+UNION ALL
+
+SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'WARFARIN%' OR PSL_MED_DESC LIKE 'COUMADIN%')
+
+UNION ALL
+
+SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'SILDENAFIL%' OR PSL_MED_DESC LIKE 'VIAGRA%' OR PSL_MED_DESC LIKE 'CIALIS%')
+
+UNION ALL 
+
+SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'ATORVASTATIN%' OR PSL_MED_DESC LIKE 'LIPITOR%')
+
+UNION ALL 
+
+SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'METFORMIN%' OR PSL_MED_DESC LIKE 'GLUCOPHAGE%')
+
+UNION ALL 
+
+SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'AMLODIPINE%' OR PSL_MED_DESC LIKE 'NORVASC%')
+
+UNION ALL 
+
+SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'METOPROLOL%' OR PSL_MED_DESC LIKE 'TOPROL%' OR PSL_MED_DESC LIKE 'LOPRESSOR%')
+
+UNION ALL 
+
+SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'OMEPRAZOLE%' OR PSL_MED_DESC LIKE 'PRILOSEC%')
+
+UNION ALL 
+
+SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'INSULIN%' OR PSL_MED_DESC LIKE 'GLARGINE%')
+
+UNION ALL 
+
+SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'LOSARTAN%' OR PSL_MED_DESC LIKE 'COZAAR%')
+
+UNION ALL 
+
+SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'SIMVASTATIN%' OR PSL_MED_DESC LIKE 'ZOCOR%')
+
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'ALBUTEROL%' OR PSL_MED_DESC LIKE 'PROAIR%' OR PSL_MED_DESC LIKE 'VENTOLIN%')
+
+UNION ALL 
+
+SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'GABAPENTIN%' OR PSL_MED_DESC LIKE 'NEURONTIN%')
+
+UNION ALL
+
+SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'HYDROCHOLOROTHIAZIDE%')
+
+UNION ALL
+
+SELECT &quot;PSL_MED_DESC&quot; ,
+&quot;CAL_MED_END_DATE_KEY&quot; ,
+&quot;PATIENT_KEY&quot;
+FROM PSL_MEDICATION
+WHERE
+ (PSL_MED_DESC LIKE 'HYDROCODONE%')&quot;&quot;&quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ki5zcGVjCg==</text>
+        <text encoding="base64">IkNBTF9NRURfRU5EX0RBVEVfS0VZIiAsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ki5tYW5pZmVzdAo=</text>
+        <text encoding="base64">U0VMRUNUICJQU0xfTUVEX0RFU0MiICwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgYmVmb3JlIFB5SW5zdGFsbGVyIGJ1aWxkcyB0aGUgZXhlLCBzbyBhcyB0byBpbmplY3QgZGF0ZS9vdGhlciBpbmZvcyBpbnRvIGl0Lgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyAgVXN1YWxseSB0aGVzZSBmaWxlcyBhcmUgd3JpdHRlbiBieSBhIHB5dGhvbiBzY3JpcHQgZnJvbSBhIHRlbXBsYXRlCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyBQeUluc3RhbGxlcgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">VU5JT04gQUxMCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ki5zcGVjCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">cGlwLWRlbGV0ZS10aGlzLWRpcmVjdG9yeS50eHQK</text>
+        <text encoding="base64">Ki5tYW5pZmVzdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGlwLWxvZy50eHQK</text>
+        <text encoding="base64">IyAgYmVmb3JlIFB5SW5zdGFsbGVyIGJ1aWxkcyB0aGUgZXhlLCBzbyBhcyB0byBpbmplY3QgZGF0ZS9vdGhlciBpbmZvcyBpbnRvIGl0Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
