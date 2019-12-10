@@ -302,10 +302,10 @@
       <file name="$USER_HOME$/_dev/python/wsse/main.py" timestamp="1555349227902">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/biopsy-service/README.md" timestamp="1576002779396">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/_dev/biopsy-service/README.md" timestamp="1576005563650">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
         <mark key="^" line="6" column="125" />
       </file>
       <file name="$USER_HOME$/_dev/euler/1-fizzbuzz.py" timestamp="1516203913077">
@@ -789,7 +789,17 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>and navigate to http://localhost</text>
+        <text>```
+Give the example
+```
+
+And repeat
+
+```
+until finished
+```
+
+End with an example of getting some data out of the system or using it for a little demo</text>
       </register>
       <register name="-" type="4">
         <text>and navigate to http://localhost</text>
@@ -800,19 +810,32 @@
       <register name="0" type="2">
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">YGBgCg==</text>
+      <register name="1" type="4">
+        <text>```
+Give the example
+```
+
+And repeat
+
+```
+until finished
+```
+
+End with an example of getting some data out of the system or using it for a little demo</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">R2l2ZSBleGFtcGxlcwo=</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGRgYGAK</text>
+        <text encoding="base64">R2l2ZSBleGFtcGxlcwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ZGRgYGAK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">V2hhdCB0aGluZ3MgeW91IG5lZWQgdG8gaW5zdGFsbCB0aGUgc29mdHdhcmUgYW5kIGhvdyB0byBpbnN0YWxsIHRoZW0K</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>## Running the tests
 
 Explain how to run the automated tests for this system
@@ -867,17 +890,14 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Inspiration
 * etc</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">T25lIFBhcmFncmFwaCBvZiBwcm9qZWN0IGRlc2NyaXB0aW9uIGdvZXMgaGVyZQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ZGVmIGNyZWF0ZV9hcHAoKToK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPz4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPz4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
