@@ -150,7 +150,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/axquery.py" timestamp="1576074668389">
+      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/axquery.py" timestamp="1576527097359">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
@@ -805,8 +805,61 @@
       <jump line="27" column="0" filename="$USER_HOME$/_dev/python/facultybios/bioscraper.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Zmxhc2tfYXBwID0gYXBwLmFwcAo=</text>
+      <register name="&quot;" type="4">
+        <text>SELECT PITEM.&quot;Patient&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+       WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+       AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- warfarin group
+       AND (REGEXP_LIKE(&quot;Text&quot;, 'warfarin', 'i')
+            OR REGEXP_LIKE(&quot;Text&quot;, 'coumadin','i')
+-- sildenafil group
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'viagra','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'sildenafil','i')
+-- albuterol group
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'albuterol','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'Proventil','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'proair','i')
+-- omeprazole group
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'omeprazole','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'prilosec','i')
+-- hydrocodone group
+            OR REGEXP_LIKE(&quot;Text&quot;, 'hydrocodone','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'vicodin','i')
+-- lisinopril group
+            OR REGEXP_LIKE(&quot;Text&quot;, 'lisinopril','i')
+-- levotryoxine group
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'levotryoxine','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'synthroid','i')
+-- atorvastatin group
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'atorvastatin','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'lipitor','i')
+-- gabapentin group
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'gabapentin','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'neurontin','i')
+-- insulin group
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'insulin','i')
+-- metoprolol group
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'metoprolol','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'toprol','i')
+-- metformin group
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'metformin','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'glucophage','i')
+-- amlodipine group
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'amlodipine','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'norvasc','i')
+-- simvastatin group
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'simvastatin','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'zocor','i')
+-- losartan group
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'losartan','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'cozaar','i')
+-- hydrochlorothiazide group
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'hydrochlorothiazide','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'HCTZ','i')
+                    )</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -817,10 +870,66 @@
       <register name="0" type="2">
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>SELECT PITEM.&quot;Patient&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+       WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+       AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- warfarin group
+       AND (REGEXP_LIKE(&quot;Text&quot;, 'warfarin', 'i')
+            OR REGEXP_LIKE(&quot;Text&quot;, 'coumadin','i')
+-- sildenafil group
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'viagra','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'sildenafil','i')
+-- albuterol group
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'albuterol','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'Proventil','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'proair','i')
+-- omeprazole group
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'omeprazole','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'prilosec','i')
+-- hydrocodone group
+            OR REGEXP_LIKE(&quot;Text&quot;, 'hydrocodone','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'vicodin','i')
+-- lisinopril group
+            OR REGEXP_LIKE(&quot;Text&quot;, 'lisinopril','i')
+-- levotryoxine group
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'levotryoxine','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'synthroid','i')
+-- atorvastatin group
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'atorvastatin','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'lipitor','i')
+-- gabapentin group
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'gabapentin','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'neurontin','i')
+-- insulin group
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'insulin','i')
+-- metoprolol group
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'metoprolol','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'toprol','i')
+-- metformin group
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'metformin','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'glucophage','i')
+-- amlodipine group
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'amlodipine','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'norvasc','i')
+-- simvastatin group
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'simvastatin','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'zocor','i')
+-- losartan group
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'losartan','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'cozaar','i')
+-- hydrochlorothiazide group
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'hydrochlorothiazide','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'HCTZ','i')
+                    )</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Zmxhc2tfYXBwID0gYXBwLmFwcAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>SELECT PITEM.&quot;Patient&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
   FROM AXIUM.PITEM INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
        WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
@@ -874,7 +983,7 @@
 	    OR REGEXP_LIKE(&quot;Text&quot;, 'HCTZ','i')
                     )</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>SELECT \&quot;Patient\&quot;, \&quot;Text\&quot;
 FROM AXIUM.PITEM INNER JOIN AXIUM.FITEM ON (PITEM.\&quot;FItem\&quot; = FITEM.\&quot;FItem\&quot;)
 WHERE     (    (\&quot;AppDate\&quot; BETWEEN TO_DATE ('11/01/2016', 'mm/dd/yyyy')
@@ -927,7 +1036,7 @@ OR REGEXP_LIKE(\&quot;Text\&quot;, 'cozaar','i')
    -- hydrochlorothiazide group
 OR REGEXP_LIKE(\&quot;Text\&quot;, 'hydrochlorothiazide','i')</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>hsdw_sql_query = &quot;&quot;&quot;SELECT &quot;PSL_MED_DESC&quot; ,
 &quot;CAL_MED_END_DATE_KEY&quot; ,
 &quot;PATIENT_KEY&quot;
@@ -1066,20 +1175,17 @@ FROM PSL_MEDICATION
 WHERE
  (PSL_MED_DESC LIKE 'HYDROCODONE%')&quot;&quot;&quot;</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">IkNBTF9NRURfRU5EX0RBVEVfS0VZIiAsCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">U0VMRUNUICJQU0xfTUVEX0RFU0MiICwK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">VU5JT04gQUxMCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VU5JT04gQUxMCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
