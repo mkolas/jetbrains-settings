@@ -109,10 +109,10 @@
         <mark key="^" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ehr_shared_meds/joindatabases.py" timestamp="1576598004573">
-        <mark key="[" line="71" column="7" />
-        <mark key="]" line="70" column="0" />
-        <mark key="^" line="66" column="49" />
-        <mark key="." line="70" column="0" />
+        <mark key="[" line="72" column="7" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="67" column="49" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/project/client.py" timestamp="1555355268140">
         <mark key="[" line="0" column="0" />
@@ -226,8 +226,11 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1576008352934" />
       <file name="/Python Console" timestamp="1576597881920">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/requirements.txt" timestamp="1576613603507">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1576597834407">
@@ -827,6 +830,7 @@
       <jump line="17563" column="1" filename="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/outfiletrain.txt" />
       <jump line="17571" column="1" filename="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/outfiletrain.txt" />
       <jump line="27" column="0" filename="$USER_HOME$/_dev/python/facultybios/bioscraper.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/_dev/python/ehr_shared_meds/requirements.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
