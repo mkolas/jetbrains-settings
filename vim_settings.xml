@@ -108,11 +108,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/joindatabases.py" timestamp="1576592009729">
-        <mark key="[" line="80" column="9" />
-        <mark key="]" line="80" column="9" />
-        <mark key="." line="80" column="9" />
-        <mark key="^" line="80" column="0" />
+      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/joindatabases.py" timestamp="1576595054132">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="66" column="49" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/project/client.py" timestamp="1555355268140">
         <mark key="[" line="0" column="0" />
@@ -160,7 +160,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/axquery.py" timestamp="1576531572771">
+      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/axquery.py" timestamp="1576595496917">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
@@ -821,11 +821,11 @@
       <jump line="27" column="0" filename="$USER_HOME$/_dev/python/facultybios/bioscraper.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>://mcintvwrtst.med.umich.edu/Interconnect-POC</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bnQobGVuKGF4X3Jlc3VsdHMpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>://mcintvwrtst.med.umich.edu/Interconnect-POC</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
@@ -834,32 +834,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RVBJQ19DTElFTlRfSUQ9NGIyNTg3OTAtMDM1ZS00MzI1LTg3ZDktODU2MmY1OGNlMmM2Cg==</text>
+        <text encoding="base64">bnQobGVuKGF4X3Jlc3VsdHMpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RVBJQ19DTElFTlRfSUQ9MjRkYzcxMTAtNGIwYi0tYjZiYi03ODI5NDlkYmYzOGEK</text>
+        <text encoding="base64">aHNkd19wYXRpZW50X2RpY3QgPSBkaWN0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXhfcGF0aWVudF9kaWN0ID0gZGljdCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZ3BhcnNlcgo=</text>
+        <text encoding="base64">RVBJQ19DTElFTlRfSUQ9NGIyNTg3OTAtMDM1ZS00MzI1LTg3ZDktODU2MmY1OGNlMmM2Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWlkZW50aWZpZWRfaWQgPSB1dWlkLnV1aWQ0KCkK</text>
+        <text encoding="base64">RVBJQ19DTElFTlRfSUQ9MjRkYzcxMTAtNGIwYi0tYjZiYi03ODI5NDlkYmYzOGEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWlkZW50aWZpZWRfaWQgPSB1dWlkLnV1aWQ0KClkZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWlkZW50aWZpZWRfaWQK</text>
+        <text encoding="base64">aW1wb3J0IGNvbmZpZ3BhcnNlcgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>medication=r[0],
-                                        medication_group=get_med_group(r[0], medication_groups))</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkZWlkZW50aWZpZWRfaWQgPSB1dWlkLnV1aWQ0KCkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtZWRpY2F0aW9uX2dyb3VwPWdldF9tZWRfZ3JvdXAoclsxXSwgbWVkaWNhdGlvbl9ncm91cHMpKQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBkZWlkZW50aWZpZWRfaWQgPSB1dWlkLnV1aWQ0KClkZAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
