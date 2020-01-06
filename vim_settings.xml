@@ -26,11 +26,6 @@
       <file name="/a.dummy" timestamp="1576531339100">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/michart-python/michart/endpoints.py" timestamp="1572375167084">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-      </file>
       <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/config.ini" timestamp="1559923867555">
         <mark key="[" line="23" column="1" />
         <mark key="]" line="23" column="4" />
@@ -155,11 +150,6 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/biopsy-service/app.py" timestamp="1575919622704">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/_dev/python/ehr_shared_meds/axquery.py" timestamp="1576595496917">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="21" />
@@ -248,11 +238,6 @@
         <mark key="^" line="2" column="45" />
         <mark key="." line="2" column="45" />
       </file>
-      <file name="$USER_HOME$/_dev/python/facultybios/perioscraper.py" timestamp="1564412554151">
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="11" />
-        <mark key="." line="5" column="11" />
-      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/events.py" timestamp="1528918915394">
         <mark key="[" line="24" column="4" />
         <mark key="]" line="24" column="4" />
@@ -337,10 +322,8 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/mrncleantest.txt" timestamp="1557415749209">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/_dev/biopsy/README.md" timestamp="1578345226876">
+        <mark key="[" line="40" column="3" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/problems.html" timestamp="1555704147566">
         <mark key="[" line="8" column="15" />
@@ -359,11 +342,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/biopsy/.gitignore" timestamp="1576008539011">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/axium-clean-up/duplicate_pt_list_by_mrn.py" timestamp="1569005153706">
         <mark key="[" line="40" column="53" />
@@ -514,11 +492,6 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/mrnstotest.txt" timestamp="1556656874591">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/scheduling/resources.py" timestamp="1506346607426">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="0" />
@@ -530,11 +503,6 @@
         <mark key="]" line="48" column="16" />
         <mark key="." line="48" column="16" />
         <mark key="^" line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/alchemy/oracleconnector.py" timestamp="1561038811852">
-        <mark key="[" line="21" column="23" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/advent2017/20/particle.py" timestamp="1513782882528">
         <mark key="[" line="40" column="6" />
@@ -599,21 +567,6 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
         <mark key="^" line="35" column="52" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/smalltest.txt" timestamp="1556656829818">
-        <mark key="[" line="9" column="9" />
-        <mark key="]" line="6" column="8" />
-        <mark key="." line="6" column="8" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/facultybios/bmsscraper.py" timestamp="1564415362350">
-        <mark key="[" line="20" column="63" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/referrals-poc/templates/foot.html" timestamp="1574698429516">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/configs.py" timestamp="1505938004495">
         <mark key="[" line="19" column="38" />
@@ -702,11 +655,6 @@
       </file>
       <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/__init__.py" timestamp="1560780204229">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/database-scripts/mpitools/mpiupdateservices.py" timestamp="1564516501190">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="21" />
-        <mark key="." line="2" column="21" />
       </file>
       <file name="$USER_HOME$/_dev/biopsy/config.ini" timestamp="1576596750193">
         <mark key="[" line="11" column="13" />
