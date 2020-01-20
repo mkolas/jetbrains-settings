@@ -221,14 +221,14 @@
         <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1579032527042" />
-      <file name="/Python Console" timestamp="1579538146079">
+      <file name="/Python Console" timestamp="1579541221742">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ehr_shared_meds/requirements.txt" timestamp="1576613603507">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1579114546956">
+      <file name="/fragment.py" timestamp="1579540498628">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/ptbal.py" timestamp="1506359062869">
@@ -441,11 +441,11 @@
         <mark key="^" line="6" column="107" />
         <mark key="." line="6" column="107" />
       </file>
-      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/templates/configuration.html" timestamp="1579537396120">
-        <mark key="[" line="13" column="12" />
-        <mark key="]" line="15" column="12" />
-        <mark key="." line="15" column="12" />
-        <mark key="^" line="15" column="12" />
+      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/templates/configuration.html" timestamp="1579541791635">
+        <mark key="[" line="9" column="47" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/main.py" timestamp="1560780486955">
         <mark key="[" line="0" column="0" />
@@ -712,12 +712,12 @@
         <mark key="." line="28" column="34" />
         <mark key="^" line="28" column="44" />
       </file>
-      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" timestamp="1579538144016">
+      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" timestamp="1579541219819">
         <mark key="'" line="71" column="51" />
-        <mark key="[" line="74" column="18" />
-        <mark key="]" line="74" column="24" />
-        <mark key="^" line="74" column="24" />
-        <mark key="." line="74" column="24" />
+        <mark key="[" line="72" column="4" />
+        <mark key="]" line="75" column="24" />
+        <mark key="^" line="75" column="24" />
+        <mark key="." line="75" column="24" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/ptinfo.html" timestamp="1555602354382">
         <mark key="[" line="8" column="17" />
@@ -797,8 +797,8 @@
       <jump line="71" column="51" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3tjb25maWdfaXRlbVszXX19PC90ZD4K</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -810,31 +810,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3tjb25maWdfaXRlbVszXX19PC90ZD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGQgc3FsaXRlIGRiIGNvbm5lY3Rpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3tjb25maWdfaXRlbVsyXX19PC90ZD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uZmlnX2RiX2Nvbm5lY3Rpb24gPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">SE9TVD1saW5rLXRvLXByb2QK</text>
+        <text encoding="base64">ZGQgc3FsaXRlIGRiIGNvbm5lY3Rpb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">SE9TVD1saW5rLXRvLXRzdAo=</text>
+        <text encoding="base64">Y29uZmlnX2RiX2Nvbm5lY3Rpb24gPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">REJTZXNzaW9uID0gc2Vzc2lvbm1ha2VyKGJpbmQ9ZW5naW5lKQo=</text>
+        <text encoding="base64">SE9TVD1saW5rLXRvLXByb2QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15Cg==</text>
+        <text encoding="base64">SE9TVD1saW5rLXRvLXRzdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">REJTZXNzaW9uID0gc2Vzc2lvbm1ha2VyKGJpbmQ9ZW5naW5lKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
