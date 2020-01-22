@@ -441,11 +441,11 @@
         <mark key="^" line="6" column="107" />
         <mark key="." line="6" column="107" />
       </file>
-      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/templates/configuration.html" timestamp="1579727041446">
-        <mark key="[" line="40" column="62" />
-        <mark key="]" line="40" column="62" />
-        <mark key="^" line="40" column="33" />
-        <mark key="." line="40" column="62" />
+      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/templates/configuration.html" timestamp="1579728293019">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="19" column="135" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/main.py" timestamp="1560780486955">
         <mark key="[" line="0" column="0" />
@@ -800,11 +800,11 @@
       <jump line="71" column="51" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>E</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
@@ -813,31 +813,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29ubiA9IGF4X2VuZ2luZS5jb25uZWN0KCkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3tjb25maWdfaXRlbVszXX19PC90ZD4K</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIHBvc3RDaGFuZ2UoZWxlbWVudCkgewogICAgICAgIGxldCBpZCA9IGVsZW1lbnQuaWQuc3Vic3RyKDAsIGVsZW1lbnQuaWQuaW5kZXhPZignLScpKTsKICAgICAgICBsZXQgbmV3VmFsdWUgPSBlbGVtZW50LnByZXZpb3VzU2libGluZy5pbm5lckhUTUw7CiAgICAgICAgbGV0IG5ld0tleSA9IGVsZW1lbnQucHJldmlvdXNTaWJsaW5nLnByZXZpb3VzU2libGluZy5pbm5lckhUTUw7CiAgICAgICAgbGV0IHJlcXVlc3QgPSBuZXcgWE1MSHR0cFJlcXVlc3QoKTsKICAgICAgICByZXF1ZXN0Lm9wZW4oJ1BPU1QnLCAnL3VwZGF0ZScpOwogICAgICAgIGxldCBmb3JtRGF0YSA9IG5ldyBGb3JtRGF0YSgpOwogICAgICAgIGZvcm1EYXRhLmFwcGVuZCgidXBkYXRlIiwgaWQpOwogICAgICAgIGZvcm1EYXRhLmFwcGVuZCgibmV3S2V5IiwgbmV3S2V5KTsKICAgICAgICBmb3JtRGF0YS5hcHBlbmQoIm5ld1ZhbHVlIiwgbmV3VmFsdWUpOwogICAgICAgIC8vcmVxdWVzdC5zZW5kKGZvcm1EYXRhKTsKICAgICAgICAvL3JlcXVlc3Qub25sb2FkID0gZnVuY3Rpb24oKSB7CiAgICAgICAgLy8gICAgbG9jYXRpb24ucmVsb2FkKCkKICAgICAgICAvL30=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3tjb25maWdfaXRlbVsyXX19PC90ZD4K</text>
+        <text encoding="base64">Y29ubiA9IGF4X2VuZ2luZS5jb25uZWN0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3tjb25maWdfaXRlbVszXX19PC90ZD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGQgc3FsaXRlIGRiIGNvbm5lY3Rpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3tjb25maWdfaXRlbVsyXX19PC90ZD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uZmlnX2RiX2Nvbm5lY3Rpb24gPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SE9TVD1saW5rLXRvLXByb2QK</text>
+        <text encoding="base64">ZGQgc3FsaXRlIGRiIGNvbm5lY3Rpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">SE9TVD1saW5rLXRvLXRzdAo=</text>
+        <text encoding="base64">Y29uZmlnX2RiX2Nvbm5lY3Rpb24gPSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">REJTZXNzaW9uID0gc2Vzc2lvbm1ha2VyKGJpbmQ9ZW5naW5lKQo=</text>
+        <text encoding="base64">SE9TVD1saW5rLXRvLXByb2QK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
