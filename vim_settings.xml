@@ -441,11 +441,11 @@
         <mark key="^" line="6" column="107" />
         <mark key="." line="6" column="107" />
       </file>
-      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/templates/configuration.html" timestamp="1579722534442">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="16" />
+      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/templates/configuration.html" timestamp="1579725263307">
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="17" column="28" />
         <mark key="^" line="11" column="38" />
-        <mark key="." line="21" column="16" />
+        <mark key="." line="17" column="28" />
       </file>
       <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/main.py" timestamp="1560780486955">
         <mark key="[" line="0" column="0" />
@@ -798,10 +798,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
