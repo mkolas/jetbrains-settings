@@ -441,11 +441,7 @@
         <mark key="^" line="6" column="107" />
         <mark key="." line="6" column="107" />
       </file>
-      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/templates/configuration.html" timestamp="1579728887282">
-        <mark key="[" line="60" column="23" />
-        <mark key="]" line="60" column="23" />
-        <mark key="." line="60" column="23" />
-      </file>
+      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/templates/configuration.html" timestamp="1579802290862" />
       <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/main.py" timestamp="1560780486955">
         <mark key="[" line="0" column="0" />
       </file>
@@ -799,11 +795,11 @@
       <jump line="71" column="51" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
@@ -812,31 +808,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgaWNvbiA9IGJ1dHRvbi5maW5kKCdpJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIvL2Nkbi5kYXRhdGFibGVzLm5ldC8xLjEwLjIwL2pzL2pxdWVyeS5kYXRhVGFibGVzLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIDwhLS0gSlF1ZXJ5IERhdGF0YWJsZXMgLS0+Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIvL2Nkbi5kYXRhdGFibGVzLm5ldC8xLjEwLjIwL2pzL2pxdWVyeS5kYXRhVGFibGVzLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDwhLS0gSlF1ZXJ5IERhdGF0YWJsZXMgLS0+Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iLy9jZG4uZGF0YXRhYmxlcy5uZXQvMS4xMC4yMC9jc3MvanF1ZXJ5LmRhdGFUYWJsZXMubWluLmNzcyI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwhLS0gSlF1ZXJ5IERhdGF0YWJsZXMgQ1NTIC0tPgo=</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iLy9jZG4uZGF0YXRhYmxlcy5uZXQvMS4xMC4yMC9jc3MvanF1ZXJ5LmRhdGFUYWJsZXMubWluLmNzcyI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gSlF1ZXJ5IERhdGF0YWJsZXMgQ1NTIC0tPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCh0aGlzKS5maW5kKCIjbm90ZXMiKS52YWwoaWNvbi5kYXRhKCdub3RlJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaWNvbi5kYXRhKCdub3RlJykpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCh0aGlzKS5maW5kKCIjbm90ZXMiKS52YWwoaWNvbi5kYXRhKCdub3RlJykpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
