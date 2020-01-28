@@ -122,11 +122,6 @@
       <file name="$USER_HOME$/_dev/python/spotify-data/spotify.py" timestamp="1518806972917">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/hsdwquery.py" timestamp="1576531568102">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
-      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/functions.py" timestamp="1506347996557">
         <mark key="[" line="74" column="11" />
         <mark key="]" line="74" column="11" />
@@ -154,7 +149,7 @@
       <file name="$USER_HOME$/_dev/biopsy/Dockerfile" timestamp="1578624679055">
         <mark key="[" line="7" column="8" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/axquery.py" timestamp="1576595496917">
+      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/axquery.py" timestamp="1580221653303">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
@@ -461,11 +456,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="55" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/oracleconnector.py" timestamp="1576596476984">
-        <mark key="[" line="1" column="36" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/project/endpoints.py" timestamp="1555362145822">
         <mark key="[" line="51" column="28" />
