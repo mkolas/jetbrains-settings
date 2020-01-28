@@ -98,11 +98,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/joindatabases.py" timestamp="1580248689726">
-        <mark key="[" line="193" column="91" />
-        <mark key="]" line="193" column="91" />
-        <mark key="^" line="193" column="91" />
-        <mark key="." line="193" column="91" />
+      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/joindatabases.py" timestamp="1580249555598">
+        <mark key="[" line="89" column="67" />
+        <mark key="]" line="89" column="48" />
+        <mark key="^" line="89" column="48" />
+        <mark key="." line="89" column="48" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/project/client.py" timestamp="1555355268140">
         <mark key="[" line="0" column="0" />
@@ -793,10 +793,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
