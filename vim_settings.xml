@@ -98,11 +98,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/joindatabases.py" timestamp="1580243444685">
-        <mark key="[" line="108" column="7" />
-        <mark key="]" line="108" column="7" />
-        <mark key="." line="108" column="7" />
-        <mark key="^" line="108" column="43" />
+      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/joindatabases.py" timestamp="1580245043042">
+        <mark key="[" line="88" column="99" />
+        <mark key="]" line="88" column="99" />
+        <mark key="^" line="89" column="18" />
+        <mark key="." line="88" column="99" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/project/client.py" timestamp="1555355268140">
         <mark key="[" line="0" column="0" />
@@ -793,10 +793,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>I</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>I</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
@@ -807,35 +807,30 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>for k, v in all_hsdw_results:
-    results.append(v)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJlc3VsdHMuYXBwZW5kKHYpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9yIGssIHYgaW4gYWxsX2hzZHdfcmVzdWx0czoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJ7fSBub3QgZm91bmQgaW4gbXBpIGFwcHRfZGF0ZSByZXN1bHRzIi5mb3JtYXQoclswXS5zdHJpcCgpKSkK</text>
       </register>
-      <register name="5" type="4">
-        <text>with open('mpi_max_appts.csv') as file:
-    creader = csv.reader(file, delimiter=&quot;,&quot;)
-    for row in creader:
-        if row[0] in ids_in_mpi:
-            all_hsdw_results[row[0].strip()] = dict(id=deidentified_ids[row[0].strip()], source_id=row[0], yob=row[1], medication=&quot;N/A&quot;,
-                                            medication_group=&quot;N/A&quot;, max_appt_date=row[2], source_system=&quot;MiChart&quot;)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IFZhbHVlRXJyb3I6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbCBhbGxfaHNkd19yZXN1bHRzW3JbMF0uc3RyaXAoKV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>for k, v in all_hsdw_results:
+    results.append(v)</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
