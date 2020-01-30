@@ -708,11 +708,11 @@
         <mark key="." line="28" column="34" />
         <mark key="^" line="28" column="44" />
       </file>
-      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" timestamp="1580419057758">
-        <mark key="[" line="239" column="0" />
-        <mark key="]" line="239" column="0" />
-        <mark key="^" line="203" column="29" />
-        <mark key="." line="239" column="0" />
+      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" timestamp="1580421896097">
+        <mark key="[" line="225" column="60" />
+        <mark key="]" line="225" column="60" />
+        <mark key="^" line="229" column="86" />
+        <mark key="." line="225" column="60" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/ptinfo.html" timestamp="1555602354382">
         <mark key="[" line="8" column="17" />
@@ -792,11 +792,11 @@
       <jump line="71" column="51" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QGFwcC5yb3V0ZSgnL2NvbmZpZ3VyYXRpb25zJywgbWV0aG9kcz1bJ0dFVCddKQo=</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>configurations</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
@@ -805,31 +805,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGFwcC5yb3V0ZSgnL2NvbmZpZ3VyYXRpb25zJywgbWV0aG9kcz1bJ0dFVCddKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25maWdfbWFwW2hlYWRlcl0gPSBbeCBmb3IgeCBpbiBjb25maWdzIGlmIHhbJ2Ryb3Bkb3duX3R5cGUnXSA9PSBoZWFkZXJdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciBoZWFkZXIgaW4gaGVhZGVyczoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdHMuYXBwZW5kKHYpCg==</text>
+        <text encoding="base64">ICAgICMgd2UgY2FuJ3Qgc2hhcmUgc3FsaXRlIGNvbm5lY3Rpb25zIGJldHdlZW4gdGhyZWFkcywgc28gd2UnbGwgaGF2ZSB0byBvcGVuIGl0IGhlcmUuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Zm9yIGssIHYgaW4gYWxsX2hzZHdfcmVzdWx0czoK</text>
+        <text encoding="base64">ICAgICMgd2UgY2FuJ3Qgc2hhcmUgc3FsaXRlIGNvbm5lY3Rpb25zIGJldHdlZW4gdGhyZWFkcywgc28gd2UnbGwgaGF2ZSB0byBvcGVuIGl0IGhlcmUuCiAgICBmb3IgaGVhZGVyIGluIGhlYWRlcnM6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJ7fSBub3QgZm91bmQgaW4gbXBpIGFwcHRfZGF0ZSByZXN1bHRzIi5mb3JtYXQoclswXS5zdHJpcCgpKSkK</text>
+        <text encoding="base64">ICAgIGNvbmZpZ19tYXAgPSBkaWN0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IFZhbHVlRXJyb3I6Cg==</text>
+        <text encoding="base64">ICAgIGNvbmZpZ3MgPSBbZGljdChpZD1zdHIoeFszXSksIGtleT14WzBdLCB2YWx1ZT14WzFdLCBkcm9wZG93bl90eXBlPXhbMl0pIGZvciB4IGluIGNvbmZpZ3NdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbCBhbGxfaHNkd19yZXN1bHRzW3JbMF0uc3RyaXAoKV0K</text>
+        <text encoding="base64">ICAgIGNvbmZpZ3MgPSBjdXJzb3IuZXhlY3V0ZSgiU0VMRUNUICogRlJPTSBjb25maWd1cmF0aW9ucyIpLmZldGNoYWxsKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGhlYWRlcnMgPSBbeFswXSBmb3IgeCBpbiBoZWFkZXJzXQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
