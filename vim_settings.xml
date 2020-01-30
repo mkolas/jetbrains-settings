@@ -708,11 +708,11 @@
         <mark key="." line="28" column="34" />
         <mark key="^" line="28" column="44" />
       </file>
-      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" timestamp="1580421896097">
-        <mark key="[" line="225" column="60" />
-        <mark key="]" line="225" column="60" />
-        <mark key="^" line="229" column="86" />
-        <mark key="." line="225" column="60" />
+      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" timestamp="1580422693285">
+        <mark key="[" line="182" column="117" />
+        <mark key="]" line="182" column="117" />
+        <mark key="^" line="182" column="118" />
+        <mark key="." line="182" column="117" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/ptinfo.html" timestamp="1555602354382">
         <mark key="[" line="8" column="17" />
@@ -793,10 +793,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
