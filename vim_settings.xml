@@ -708,10 +708,11 @@
         <mark key="." line="28" column="34" />
         <mark key="^" line="28" column="44" />
       </file>
-      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" timestamp="1580416189260">
-        <mark key="]" line="203" column="29" />
+      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" timestamp="1580419057758">
+        <mark key="[" line="239" column="0" />
+        <mark key="]" line="239" column="0" />
         <mark key="^" line="203" column="29" />
-        <mark key="." line="203" column="29" />
+        <mark key="." line="239" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/ptinfo.html" timestamp="1555602354382">
         <mark key="[" line="8" column="17" />
@@ -791,8 +792,8 @@
       <jump line="71" column="51" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>configurations</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QGFwcC5yb3V0ZSgnL2NvbmZpZ3VyYXRpb25zJywgbWV0aG9kcz1bJ0dFVCddKQo=</text>
       </register>
       <register name="-" type="4">
         <text>configurations</text>
@@ -804,32 +805,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGFwcC5yb3V0ZSgnL2NvbmZpZ3VyYXRpb25zJywgbWV0aG9kcz1bJ0dFVCddKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdHMuYXBwZW5kKHYpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Zm9yIGssIHYgaW4gYWxsX2hzZHdfcmVzdWx0czoK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJ7fSBub3QgZm91bmQgaW4gbXBpIGFwcHRfZGF0ZSByZXN1bHRzIi5mb3JtYXQoclswXS5zdHJpcCgpKSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IFZhbHVlRXJyb3I6Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbCBhbGxfaHNkd19yZXN1bHRzW3JbMF0uc3RyaXAoKV0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>for k, v in all_hsdw_results:
-    results.append(v)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJlc3VsdHMuYXBwZW5kKHYpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Zm9yIGssIHYgaW4gYWxsX2hzZHdfcmVzdWx0czoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJ7fSBub3QgZm91bmQgaW4gbXBpIGFwcHRfZGF0ZSByZXN1bHRzIi5mb3JtYXQoclswXS5zdHJpcCgpKSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IFZhbHVlRXJyb3I6Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbCBhbGxfaHNkd19yZXN1bHRzW3JbMF0uc3RyaXAoKV0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
