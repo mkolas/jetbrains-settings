@@ -23,7 +23,7 @@
         <mark key="." line="17" column="76" />
         <mark key="^" line="17" column="77" />
       </file>
-      <file name="/a.dummy" timestamp="1580748510718">
+      <file name="/a.dummy" timestamp="1580749949857">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/config.ini" timestamp="1559923867555">
@@ -98,11 +98,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/joindatabases.py" timestamp="1580748478102">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="114" column="44" />
-        <mark key="^" line="114" column="44" />
-        <mark key="." line="114" column="44" />
+      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/joindatabases.py" timestamp="1580751152764">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="^" line="25" column="67" />
+        <mark key="." line="127" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/project/client.py" timestamp="1555355268140">
         <mark key="[" line="0" column="0" />
@@ -154,11 +154,11 @@
       <file name="$USER_HOME$/_dev/biopsy/Dockerfile" timestamp="1578624679055">
         <mark key="[" line="7" column="8" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/axquery.py" timestamp="1580221653303">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
+      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/axquery.py" timestamp="1580751203692">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="21" />
         <mark key="^" line="0" column="21" />
+        <mark key="." line="1" column="21" />
       </file>
       <file name="$USER_HOME$/_dev/python/advent2018/05/5.py" timestamp="1544025234161">
         <mark key="[" line="9" column="0" />
@@ -656,11 +656,11 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="21" column="43" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/config.ini" timestamp="1579558753432">
+      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/config.ini" timestamp="1580750949004">
         <mark key="[" line="2" column="25" />
-        <mark key="]" line="6" column="10" />
-        <mark key="^" line="6" column="10" />
-        <mark key="." line="6" column="10" />
+        <mark key="]" line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+        <mark key="." line="7" column="10" />
       </file>
       <file name="/Dummy.txt" timestamp="1579876599929">
         <mark key="[" line="0" column="0" />
@@ -798,10 +798,245 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Warfarin Group' as &quot;MED_GROUP&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND (APPOINT.&quot;Type&quot; = 1 OR APPOINT.&quot;Type&quot; = 2)
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- warfarin group
+    AND (REGEXP_LIKE(&quot;Text&quot;, 'warfarin', 'i')
+    OR REGEXP_LIKE(&quot;Text&quot;, 'coumadin','i'))
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Sildenafil Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- sildenafil group
+	    AND (REGEXP_LIKE(&quot;Text&quot;, 'viagra','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'sildenafil','i'))
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Albuterol Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- albuterol group
+	    AND (REGEXP_LIKE(&quot;Text&quot;, 'albuterol','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'Proventil','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'proair','i'))
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Omeprazole Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- omeprazole group
+	    AND (REGEXP_LIKE(&quot;Text&quot;, 'omeprazole','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'prilosec','i'))
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Hydrocodone Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- hydrocodone group
+        AND (REGEXP_LIKE(&quot;Text&quot;, 'hydrocodone','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'vicodin','i'))
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Lisinopril Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- lisinopril group
+        AND REGEXP_LIKE(&quot;Text&quot;, 'lisinopril','i')
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Levotryoxine Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- levotryoxine group
+	    AND (REGEXP_LIKE(&quot;Text&quot;, 'levotryoxine','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'synthroid','i'))
+    GROUP BY PITEM.&quot;Patient&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Atorvastatin Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- atorvastatin group
+	    AND (REGEXP_LIKE(&quot;Text&quot;, 'atorvastatin','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'lipitor','i'))
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Gabapentin Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- gabapentin group
+	    AND (REGEXP_LIKE(&quot;Text&quot;, 'gabapentin','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'neurontin','i'))
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Insulin Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- insulin group
+	    AND REGEXP_LIKE(&quot;Text&quot;, 'insulin','i')
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Metoprolol Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- metoprolol group
+	    AND (REGEXP_LIKE(&quot;Text&quot;, 'metoprolol','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'toprol','i'))
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Metformin Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- metformin group
+	    AND (REGEXP_LIKE(&quot;Text&quot;, 'metformin','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'glucophage','i'))
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Amlodipine Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- amlodipine group
+	    AND (REGEXP_LIKE(&quot;Text&quot;, 'amlodipine','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'norvasc','i'))
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Simvastatin Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- simvastatin group
+	    AND (REGEXP_LIKE(&quot;Text&quot;, 'simvastatin','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'zocor','i'))
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Losartan Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- losartan group
+	    AND (REGEXP_LIKE(&quot;Text&quot;, 'losartan','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'cozaar','i'))
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Hydrochlorothiazide Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- hydrochlorothiazide group
+	    AND (REGEXP_LIKE(&quot;Text&quot;, 'hydrochlorothiazide','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'HCTZ','i'))
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
@@ -810,31 +1045,266 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgcmVzdWx0cy5hcHBlbmQo</text>
+        <text>SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Warfarin Group' as &quot;MED_GROUP&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND (APPOINT.&quot;Type&quot; = 1 OR APPOINT.&quot;Type&quot; = 2)
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- warfarin group
+    AND (REGEXP_LIKE(&quot;Text&quot;, 'warfarin', 'i')
+    OR REGEXP_LIKE(&quot;Text&quot;, 'coumadin','i'))
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Sildenafil Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- sildenafil group
+	    AND (REGEXP_LIKE(&quot;Text&quot;, 'viagra','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'sildenafil','i'))
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Albuterol Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- albuterol group
+	    AND (REGEXP_LIKE(&quot;Text&quot;, 'albuterol','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'Proventil','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'proair','i'))
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Omeprazole Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- omeprazole group
+	    AND (REGEXP_LIKE(&quot;Text&quot;, 'omeprazole','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'prilosec','i'))
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Hydrocodone Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- hydrocodone group
+        AND (REGEXP_LIKE(&quot;Text&quot;, 'hydrocodone','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'vicodin','i'))
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Lisinopril Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- lisinopril group
+        AND REGEXP_LIKE(&quot;Text&quot;, 'lisinopril','i')
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Levotryoxine Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- levotryoxine group
+	    AND (REGEXP_LIKE(&quot;Text&quot;, 'levotryoxine','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'synthroid','i'))
+    GROUP BY PITEM.&quot;Patient&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Atorvastatin Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- atorvastatin group
+	    AND (REGEXP_LIKE(&quot;Text&quot;, 'atorvastatin','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'lipitor','i'))
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Gabapentin Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- gabapentin group
+	    AND (REGEXP_LIKE(&quot;Text&quot;, 'gabapentin','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'neurontin','i'))
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Insulin Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- insulin group
+	    AND REGEXP_LIKE(&quot;Text&quot;, 'insulin','i')
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Metoprolol Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- metoprolol group
+	    AND (REGEXP_LIKE(&quot;Text&quot;, 'metoprolol','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'toprol','i'))
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Metformin Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- metformin group
+	    AND (REGEXP_LIKE(&quot;Text&quot;, 'metformin','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'glucophage','i'))
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Amlodipine Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- amlodipine group
+	    AND (REGEXP_LIKE(&quot;Text&quot;, 'amlodipine','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'norvasc','i'))
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Simvastatin Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- simvastatin group
+	    AND (REGEXP_LIKE(&quot;Text&quot;, 'simvastatin','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'zocor','i'))
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Losartan Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- losartan group
+	    AND (REGEXP_LIKE(&quot;Text&quot;, 'losartan','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'cozaar','i'))
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;
+
+UNION
+
+    SELECT PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;, max(APPOINT.&quot;Date&quot;), 'Hydrochlorothiazide Group' as &quot;MedGroup&quot;
+    FROM AXIUM.PITEM
+    INNER JOIN AXIUM.FITEM ON (PITEM.&quot;FItem&quot; = FITEM.&quot;FItem&quot;)
+    LEFT JOIN PATIENT on PITEM.&quot;Patient&quot; = PATIENT.&quot;Patient&quot;
+    LEFT JOIN APPOINT on PITEM.&quot;Patient&quot; = APPOINT.&quot;Patient&quot;
+    WHERE ((PITEM.&quot;FormCode&quot; = 'HEALTH'))
+    AND APPOINT.&quot;Type&quot; = 1
+    AND (&quot;Page&quot; = '3') AND PITEM.&quot;AnsYes&quot; = 1 AND PITEM.&quot;Status&quot; = 0
+-- hydrochlorothiazide group
+	    AND (REGEXP_LIKE(&quot;Text&quot;, 'hydrochlorothiazide','i')
+	    OR REGEXP_LIKE(&quot;Text&quot;, 'HCTZ','i'))
+    GROUP BY PATIENT.&quot;Chart&quot;, PATIENT.&quot;Birth&quot;, PITEM.&quot;AnsType&quot;, PITEM.&quot;AnsYes&quot;, FITEM.&quot;Deleted&quot;, FITEM.&quot;Text&quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">IyBpdHMgb3Zlcj8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWlkZW50aWZpZWRfaWRzW3Jvd1s0XS5zdHJpcCgpXSA9IGRlaWRlbnRpZmllZF9pZAo=</text>
+        <text encoding="base64">Y29tbWVudCB0aGUgYmVsb3cgdG8gc3dpdGNoIGJhY2sgdG8gYWxsIG1lZHMK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWlkZW50aWZpZWRfaWRzW3Jvd1sxXS5zdHJpcCgpXSA9IGRlaWRlbnRpZmllZF9pZAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgcmVzdWx0cy5hcHBlbmQo</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWdfbWFwW2hlYWRlcl0gPSBbeCBmb3IgeCBpbiBjb25maWdzIGlmIHhbJ2Ryb3Bkb3duX3R5cGUnXSA9PSBoZWFkZXJdCg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBoZWFkZXIgaW4gaGVhZGVyczoK</text>
+        <text encoding="base64">ICAgICAgICBkZWlkZW50aWZpZWRfaWRzW3Jvd1s0XS5zdHJpcCgpXSA9IGRlaWRlbnRpZmllZF9pZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgd2UgY2FuJ3Qgc2hhcmUgc3FsaXRlIGNvbm5lY3Rpb25zIGJldHdlZW4gdGhyZWFkcywgc28gd2UnbGwgaGF2ZSB0byBvcGVuIGl0IGhlcmUuCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWlkZW50aWZpZWRfaWRzW3Jvd1sxXS5zdHJpcCgpXSA9IGRlaWRlbnRpZmllZF9pZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgd2UgY2FuJ3Qgc2hhcmUgc3FsaXRlIGNvbm5lY3Rpb25zIGJldHdlZW4gdGhyZWFkcywgc28gd2UnbGwgaGF2ZSB0byBvcGVuIGl0IGhlcmUuCiAgICBmb3IgaGVhZGVyIGluIGhlYWRlcnM6Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25maWdfbWFwW2hlYWRlcl0gPSBbeCBmb3IgeCBpbiBjb25maWdzIGlmIHhbJ2Ryb3Bkb3duX3R5cGUnXSA9PSBoZWFkZXJdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ19tYXAgPSBkaWN0KCkK</text>
+        <text encoding="base64">ICAgIGZvciBoZWFkZXIgaW4gaGVhZGVyczoK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
