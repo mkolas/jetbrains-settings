@@ -98,12 +98,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/joindatabases.py" timestamp="1580845555724">
+      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/joindatabases.py" timestamp="1580854151775">
         <mark key="'" line="166" column="15" />
-        <mark key="[" line="110" column="110" />
-        <mark key="]" line="111" column="40" />
-        <mark key="^" line="111" column="40" />
-        <mark key="." line="111" column="40" />
+        <mark key="[" line="127" column="28" />
+        <mark key="]" line="127" column="40" />
+        <mark key="^" line="127" column="40" />
+        <mark key="." line="127" column="40" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/project/client.py" timestamp="1555355268140">
         <mark key="[" line="0" column="0" />
@@ -490,8 +490,8 @@
         <mark key="^" line="5" column="31" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/hsdwqueries.py" timestamp="1580847860823">
-        <mark key="[" line="26" column="7" />
+      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/hsdwqueries.py" timestamp="1580853084628">
+        <mark key="[" line="348" column="15" />
         <mark key="]" line="340" column="75" />
         <mark key="." line="340" column="75" />
         <mark key="^" line="340" column="75" />
@@ -806,11 +806,11 @@
       <jump line="166" column="15" filename="$USER_HOME$/_dev/python/ehr_shared_meds/joindatabases.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXAnLCBleHRyYWN0ICh5ZWFyIGZyb20gQklSVEhEQVRFKSwgQ0FMX01FRF9TVEFSVF9EQVRFLk9SQUNMRV9EQVRFLCBQU0xfTUVEX0RFU0MsIENBTF9NRURfRU5EX0RBVEUuT1JBQ0xFX0RBVEUiIiIK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
