@@ -122,10 +122,11 @@
       <file name="$USER_HOME$/_dev/python/spotify-data/spotify.py" timestamp="1518806972917">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/hsdwquery.py" timestamp="1580767416315">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/hsdwquery.py" timestamp="1580828689833">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="46" column="1" />
+        <mark key="." line="46" column="1" />
+        <mark key="^" line="46" column="1" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/functions.py" timestamp="1506347996557">
         <mark key="[" line="74" column="11" />
@@ -798,10 +799,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
