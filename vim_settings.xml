@@ -135,12 +135,6 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="74" column="11" />
       </file>
-      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/templates/base.html" timestamp="1579877039605">
-        <mark key="[" line="10" column="45" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="27" column="55" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/requirements.txt" timestamp="1526310147380">
         <mark key="[" line="8" column="12" />
         <mark key="]" line="12" column="0" />
@@ -701,7 +695,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/templates/index.html" timestamp="1579726280895">
-        <mark key="[" line="73" column="4" />
+        <mark key="[" line="74" column="4" />
       </file>
       <file name="$USER_HOME$/_dev/python/wsse/server.py" timestamp="1555101414921">
         <mark key="[" line="44" column="23" />
@@ -720,12 +714,6 @@
         <mark key="]" line="28" column="34" />
         <mark key="." line="28" column="34" />
         <mark key="^" line="28" column="44" />
-      </file>
-      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" timestamp="1580422693285">
-        <mark key="[" line="182" column="117" />
-        <mark key="]" line="182" column="117" />
-        <mark key="^" line="182" column="118" />
-        <mark key="." line="182" column="117" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/ptinfo.html" timestamp="1555602354382">
         <mark key="[" line="8" column="17" />
