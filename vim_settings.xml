@@ -643,11 +643,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/templates/form.html" timestamp="1581091817821">
-        <mark key="[" line="619" column="62" />
-        <mark key="]" line="619" column="62" />
-        <mark key="^" line="619" column="71" />
-        <mark key="." line="619" column="62" />
+      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/templates/form.html" timestamp="1581094114925">
+        <mark key="[" line="623" column="69" />
+        <mark key="]" line="623" column="72" />
+        <mark key="^" line="623" column="72" />
+        <mark key="." line="623" column="72" />
       </file>
       <file name="$USER_HOME$/_dev/python/kmeans-mich-voters/centroids.csv" timestamp="1519077019292">
         <mark key="[" line="13" column="25" />
@@ -801,10 +801,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
