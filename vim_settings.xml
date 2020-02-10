@@ -643,11 +643,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/templates/form.html" timestamp="1581110787048">
-        <mark key="[" line="409" column="70" />
-        <mark key="]" line="409" column="70" />
-        <mark key="." line="409" column="70" />
-      </file>
       <file name="$USER_HOME$/_dev/python/kmeans-mich-voters/centroids.csv" timestamp="1519077019292">
         <mark key="[" line="13" column="25" />
       </file>
@@ -700,7 +695,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/templates/index.html" timestamp="1579726280895">
-        <mark key="[" line="74" column="4" />
+        <mark key="[" line="9" column="4" />
       </file>
       <file name="$USER_HOME$/_dev/python/wsse/server.py" timestamp="1555101414921">
         <mark key="[" line="44" column="23" />
