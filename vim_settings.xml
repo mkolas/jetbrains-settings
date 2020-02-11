@@ -217,7 +217,7 @@
         <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1581091681990" />
-      <file name="/Python Console" timestamp="1581444544596">
+      <file name="/Python Console" timestamp="1581452646238">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1581444601436">
@@ -333,6 +333,9 @@
         <mark key="]" line="10" column="26" />
         <mark key="^" line="10" column="26" />
         <mark key="." line="10" column="26" />
+      </file>
+      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/duplicateids.py" timestamp="1581452643112">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/python-scratchpad/mergingproccodes/jsontocsv.py" timestamp="1538675414350">
         <mark key="[" line="0" column="0" />
@@ -802,8 +805,8 @@
       <jump line="45" column="64" filename="$USER_HOME$/_dev/python/ehr_shared_meds/getnegativesfromresults.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">MzA5N2YzMWEtZTQ2ZC00YzU2LWJhYTEtNWU4Mzk2ZjA0NzlkLENIQVJULENQSSBOdW0gUGFkZGVkCg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -815,31 +818,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4ocm93WzFdLnN0cmlwKCkpIDwgCg==</text>
+        <text encoding="base64">MzA5N2YzMWEtZTQ2ZC00YzU2LWJhYTEtNWU4Mzk2ZjA0NzlkLENIQVJULENQSSBOdW0gUGFkZGVkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zm9yIGF4aXVtIGFzIHdlbGwgYXMgdGhlIGhzZHcsIHdlIHdpbGwgbmVlZCB0byBjcmVhdGUgYSB0ZW1wb3JhcnkgdGFibGUgdG8gaG9sZCB0aGVzZS4K</text>
+        <text encoding="base64">ZGVpZGVudGlmaWVkX2lkLGF4aXVtX2lkLGhzZHdfaWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Zm9yIGVhY2ggb2YgdGhlc2UgbmVnYXRpdmVzLCB3ZSBuZWVkIHRoZSB5b2IgYW5kIG1heF9hcHB0X2RhdGUuCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZW4ocm93WzFdLnN0cmlwKCkpIDwgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">d2l0aCBvcGVuKCdkZWlkZW50aWZpZWRfaWRzLmNzdicpIGFzIGZpbGU6Cg==</text>
+        <text encoding="base64">Zm9yIGF4aXVtIGFzIHdlbGwgYXMgdGhlIGhzZHcsIHdlIHdpbGwgbmVlZCB0byBjcmVhdGUgYSB0ZW1wb3JhcnkgdGFibGUgdG8gaG9sZCB0aGVzZS4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7JSBlbHNlICV9Cg==</text>
+        <text encoding="base64">Zm9yIGVhY2ggb2YgdGhlc2UgbmVnYXRpdmVzLCB3ZSBuZWVkIHRoZSB5b2IgYW5kIG1heF9hcHB0X2RhdGUuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d2l0aCBvcGVuKCdkZWlkZW50aWZpZWRfaWRzLmNzdicpIGFzIGZpbGU6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7JSBpZiBsZW4oZm9ybV9ub3RlcykgPT0gMCAlfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7JSBlbHNlICV9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXAnLCBleHRyYWN0ICh5ZWFyIGZyb20gQklSVEhEQVRFKSwgQ0FMX01FRF9TVEFSVF9EQVRFLk9SQUNMRV9EQVRFLCBQU0xfTUVEX0RFU0MsIENBTF9NRURfRU5EX0RBVEUuT1JBQ0xFX0RBVEUiIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7JSBpZiBsZW4oZm9ybV9ub3RlcykgPT0gMCAlfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
