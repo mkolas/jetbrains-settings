@@ -217,10 +217,10 @@
         <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1581091681990" />
-      <file name="/Python Console" timestamp="1580242708714">
+      <file name="/Python Console" timestamp="1581444544596">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1579540498628">
+      <file name="/fragment.py" timestamp="1581444601436">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/ptbal.py" timestamp="1506359062869">
@@ -403,12 +403,12 @@
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/procedure/proceduremethods.py" timestamp="1535468279350">
         <mark key="[" line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/getnegativesfromresults.py" timestamp="1581440332034">
+      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/getnegativesfromresults.py" timestamp="1581445030501">
         <mark key="'" line="48" column="64" />
-        <mark key="[" line="107" column="7" />
-        <mark key="]" line="131" column="10" />
-        <mark key="." line="131" column="10" />
-        <mark key="^" line="131" column="10" />
+        <mark key="[" line="66" column="23" />
+        <mark key="]" line="66" column="23" />
+        <mark key="." line="66" column="23" />
+        <mark key="^" line="66" column="27" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/docs/extracts.rst" timestamp="1517853080702">
         <mark key="[" line="123" column="46" />
@@ -803,10 +803,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
