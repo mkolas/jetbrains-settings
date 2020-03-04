@@ -296,6 +296,11 @@
         <mark key="^" line="46" column="39" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/_dev/shibboleth-poc/saml/settings.json" timestamp="1583341381801">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/orthopmt.py" timestamp="1506359067673">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="5" />
@@ -838,7 +843,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgRmxhc2sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>SSO</text>
@@ -850,31 +855,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgRmxhc2sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBwID0gRmxhc2soX19uYW1lX18pCg==</text>
+        <text encoding="base64">ICAvLyBTZXJ2aWNlIFByb3ZpZGVyIERhdGEgdGhhdCB3ZSBhcmUgZGVwbG95aW5nLgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QGFwcC5yb3V0ZSgnLycpCg==</text>
+        <text encoding="base64">ICAvLyBFbmFibGUgZGVidWcgbW9kZSAob3V0cHV0cyBlcnJvcnMpLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGhlbGxvX3dvcmxkKCk6Cg==</text>
+        <text encoding="base64">ICAvLyBmb2xsb3dlZC4gRGVzdGluYXRpb24sIE5hbWVJZCwgQ29uZGl0aW9ucyAuLi4gYXJlIHZhbGlkYXRlZCB0b28uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnSGVsbG8gV29ybGQhJwo=</text>
+        <text encoding="base64">ICAvLyBBbHNvIGl0IHdpbGwgcmVqZWN0IHRoZSBtZXNzYWdlcyBpZiB0aGUgU0FNTCBzdGFuZGFyZCBpcyBub3Qgc3RyaWN0bHkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBvciB1bmVuY3J5cHRlZCBtZXNzYWdlcyBpZiBpdCBleHBlY3RzIHRoZW0gdG8gYmUgc2lnbmVkIG9yIGVuY3J5cHRlZC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFwcC5ydW4oKQo=</text>
+        <text encoding="base64">ICAvLyBJZiBzdHJpY3QgaXMgVHJ1ZSwgdGhlbiB0aGUgUHl0aG9uIFRvb2xraXQgd2lsbCByZWplY3QgdW5zaWduZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgRmxhc2sK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
