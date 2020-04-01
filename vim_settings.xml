@@ -421,8 +421,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/airflow-dags/helloworlddocker.py" timestamp="1585683415679">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/_dev/airflow-dags/helloworlddocker.py" timestamp="1585772382161">
+        <mark key="d" line="5" column="18" />
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
       </file>
       <file name="$USER_HOME$/_dev/python/wssetest/wssetest.py" timestamp="1554907432371">
         <mark key="[" line="5" column="0" />
@@ -857,10 +860,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>shawe</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>shawe</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
