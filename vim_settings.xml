@@ -364,7 +364,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/hsdwyob.csv" timestamp="1583438409867" />
       <file name="$USER_HOME$/_dev/python/python-scratchpad/mergingproccodes/jsontocsv.py" timestamp="1538675414350">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="0" />
@@ -649,8 +648,8 @@
       <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/configurations.py" timestamp="1576593430580">
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/techorama/example.py" timestamp="1586533973198">
-        <mark key="[" line="1" column="17" />
+      <file name="$USER_HOME$/_dev/techorama/example.py" timestamp="1586539673450">
+        <mark key="[" line="1" column="29" />
         <mark key="]" line="8" column="10" />
         <mark key="." line="8" column="10" />
         <mark key="^" line="7" column="40" />
@@ -708,8 +707,10 @@
         <mark key="^" line="392" column="0" />
         <mark key="." line="379" column="28" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/patient/patient.py" timestamp="1586532958892">
+      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/patient/patient.py" timestamp="1586539111185">
         <mark key="[" line="243" column="61" />
+        <mark key="]" line="243" column="61" />
+        <mark key="." line="243" column="61" />
       </file>
       <file name="$USER_HOME$/_dev/python/kmeans-mich-voters/centroids.csv" timestamp="1519077019292">
         <mark key="[" line="13" column="25" />
@@ -869,7 +870,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">CiAgICAgICAgIiIiCgogICAgICAgIDpwYXJhbSBwYXRpZW50OgogICAgICAgIDpyZXR1cm46CiAgICAgICAgIiIi</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -880,32 +881,32 @@
       <register name="0" type="2">
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIG15X3ZhbHVlID0gZGQ1Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgIiIiCgogICAgICAgIDpwYXJhbSBwYXRpZW50OgogICAgICAgIDpyZXR1cm46CiAgICAgICAgIiIi</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uX3Jlc3VsdCA9IG15X2Z1bmN0aW9uKG15X3ZhbHVlKQo=</text>
+        <text encoding="base64">ICAgIG15X3ZhbHVlID0gZGQ1Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIElkZW50aWZpZXIgb2YgdGhlIFNQIGVudGl0eSAgKG11c3QgYmUgYSBVUkkpCg==</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uX3Jlc3VsdCA9IG15X2Z1bmN0aW9uKG15X3ZhbHVlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIElkZW50aWZpZXIgb2YgdGhlIFNQIGVudGl0eSAgKG11c3QgYmUgYSBVUkkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBTZXJ2aWNlIFByb3ZpZGVyIERhdGEgdGhhdCB3ZSBhcmUgZGVwbG95aW5nLgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAvLyBTZXJ2aWNlIFByb3ZpZGVyIERhdGEgdGhhdCB3ZSBhcmUgZGVwbG95aW5nLgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBFbmFibGUgZGVidWcgbW9kZSAob3V0cHV0cyBlcnJvcnMpLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBmb2xsb3dlZC4gRGVzdGluYXRpb24sIE5hbWVJZCwgQ29uZGl0aW9ucyAuLi4gYXJlIHZhbGlkYXRlZCB0b28uCg==</text>
+        <text encoding="base64">ICAvLyBFbmFibGUgZGVidWcgbW9kZSAob3V0cHV0cyBlcnJvcnMpLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBBbHNvIGl0IHdpbGwgcmVqZWN0IHRoZSBtZXNzYWdlcyBpZiB0aGUgU0FNTCBzdGFuZGFyZCBpcyBub3Qgc3RyaWN0bHkK</text>
+        <text encoding="base64">ICAvLyBmb2xsb3dlZC4gRGVzdGluYXRpb24sIE5hbWVJZCwgQ29uZGl0aW9ucyAuLi4gYXJlIHZhbGlkYXRlZCB0b28uCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
