@@ -523,8 +523,11 @@
       <file name="$USER_HOME$/_dev/python/michart-python/main.py" timestamp="1555435146118">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/airflow-dags/mysqltocsv.py" timestamp="1589382613080">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/_dev/airflow-dags/mysqltocsv.py" timestamp="1589383194207">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/tester.py" timestamp="1559744169543">
         <mark key="[" line="15" column="25" />
@@ -896,11 +899,11 @@
       <jump line="45" column="64" filename="$USER_HOME$/_dev/python/ehr_shared_meds/getnegativesfromresults.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICdvbl9mYWlsdXJlX2NhbGxiYWNrJzogbm90aWZ5X2VtYWlsLAo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>1000</text>
