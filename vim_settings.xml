@@ -523,11 +523,11 @@
       <file name="$USER_HOME$/_dev/python/michart-python/main.py" timestamp="1555435146118">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/airflow-dags/mysqltocsv.py" timestamp="1589386003372">
-        <mark key="[" line="26" column="36" />
-        <mark key="]" line="26" column="36" />
-        <mark key="^" line="23" column="0" />
-        <mark key="." line="26" column="36" />
+      <file name="$USER_HOME$/_dev/airflow-dags/mysqltocsv.py" timestamp="1590512074604">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="20" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="47" column="20" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/tester.py" timestamp="1559744169543">
         <mark key="[" line="15" column="25" />
@@ -894,8 +894,8 @@
       <jump line="45" column="64" filename="$USER_HOME$/_dev/python/ehr_shared_meds/getnegativesfromresults.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -910,28 +910,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdvbl9mYWlsdXJlX2NhbGxiYWNrJzogbm90aWZ5X2VtYWlsLAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Zmxhc2tfYXBwID0gYXBwLmFwcAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBhcHAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyBPcmFjbGUgQ2xpZW50IHNldHVwCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">RlJPTSBvcmFjbGVsaW51eDo3LXNsaW0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIGRlZiBleGVjdXRlKHNlbGYsIGNvbnRleHQpOgogICAgICAgIHBhc3M=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICdvbl9mYWlsdXJlX2NhbGxiYWNrJzogbm90aWZ5X2VtYWlsLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Zmxhc2tfYXBwID0gYXBwLmFwcAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">QVJHIHJlbGVhc2U9MTkK</text>
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCBhcHAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QVJHIHVwZGF0ZT0zCg==</text>
+        <text encoding="base64">IyBPcmFjbGUgQ2xpZW50IHNldHVwCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
