@@ -230,7 +230,7 @@
         <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1590602711265" />
-      <file name="/Python Console" timestamp="1581452646238">
+      <file name="/Python Console" timestamp="1591297252141">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1581444601436">
@@ -802,7 +802,8 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="46" column="67" />
       </file>
-      <file name="$USER_HOME$/_dev/ldap-poc/mcommunity.py" timestamp="1591199900141">
+      <file name="$USER_HOME$/_dev/ldap-poc/mcommunity.py" timestamp="1591297250146">
+        <mark key="'" line="3" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/wsse/wssetest.py" timestamp="1555094814197">
@@ -900,6 +901,7 @@
       <jump line="71" column="51" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
       <jump line="166" column="15" filename="$USER_HOME$/_dev/python/ehr_shared_meds/joindatabases.py" />
       <jump line="45" column="64" filename="$USER_HOME$/_dev/python/ehr_shared_meds/getnegativesfromresults.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/_dev/ldap-poc/mcommunity.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -909,7 +911,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>1000</text>
+        <text encoding="base64">XDxjb25uZWN0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
@@ -946,9 +948,9 @@
       </register>
     </registers>
     <search>
-      <last-search>1000</last-search>
+      <last-search encoding="base64">XDxjb25uZWN0XD4=</last-search>
       <last-offset />
-      <last-pattern>1000</last-pattern>
+      <last-pattern encoding="base64">XDxjb25uZWN0XD4=</last-pattern>
       <last-replace />
       <last-substitute>Stripped</last-substitute>
       <last-dir>-1</last-dir>
@@ -967,6 +969,7 @@
         <entry>StrippedString</entry>
         <entry>Stripped</entry>
         <entry>1000</entry>
+        <entry encoding="base64">XDxjb25uZWN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>/%s/encounter/guarantor/g</entry>
