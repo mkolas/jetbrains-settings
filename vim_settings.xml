@@ -802,7 +802,7 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="46" column="67" />
       </file>
-      <file name="$USER_HOME$/_dev/ldap-poc/mcommunity.py" timestamp="1591297250146">
+      <file name="$USER_HOME$/_dev/ldap-poc/mcommunity.py" timestamp="1591300024082">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -825,6 +825,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/_dev/docker-airflow/dags/mcommunityexampledag.py" timestamp="1591300602451">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" timestamp="1559924222772">
         <mark key="[" line="50" column="18" />
@@ -905,10 +911,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBhaXJmbG93c29wZXJhdG9yc3MK</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25uZWN0XD4=</text>
@@ -917,7 +923,7 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBhaXJmbG93c29wZXJhdG9yc3MK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -925,23 +931,23 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIGRlZiBleGVjdXRlKHNlbGYsIGNvbnRleHQpOgogICAgICAgIHBhc3M=</text>
-      </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIGRlZiBleGVjdXRlKHNlbGYsIGNvbnRleHQpOgogICAgICAgIHBhc3M=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICdvbl9mYWlsdXJlX2NhbGxiYWNrJzogbm90aWZ5X2VtYWlsLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zmxhc2tfYXBwID0gYXBwLmFwcAo=</text>
+        <text encoding="base64">ICAgICdvbl9mYWlsdXJlX2NhbGxiYWNrJzogbm90aWZ5X2VtYWlsLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBhcHAK</text>
+        <text encoding="base64">Zmxhc2tfYXBwID0gYXBwLmFwcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBPcmFjbGUgQ2xpZW50IHNldHVwCg==</text>
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCBhcHAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
