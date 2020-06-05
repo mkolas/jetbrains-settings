@@ -116,11 +116,6 @@
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/findings/findingcodes.py" timestamp="1541539476099">
         <mark key="[" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/referrals-py/referrals/templates/index.html" timestamp="1582642242935">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
       <file name="$USER_HOME$/_dev/python/python-scratchpad/scratch.py" timestamp="1528898490232">
         <mark key="[" line="7" column="7" />
         <mark key="]" line="9" column="23" />
@@ -230,6 +225,12 @@
         <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1590602711265" />
+      <file name="$USER_HOME$/_dev/biopsy/.config" timestamp="1591372814471">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="10" />
+        <mark key="^" line="3" column="41" />
+        <mark key="." line="2" column="10" />
+      </file>
       <file name="/Python Console" timestamp="1591297252141">
         <mark key="[" line="0" column="0" />
       </file>
@@ -365,11 +366,6 @@
         <mark key="^" line="10" column="26" />
         <mark key="." line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/duplicateids.py" timestamp="1582319653842">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/_dev/python/python-scratchpad/mergingproccodes/jsontocsv.py" timestamp="1538675414350">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="0" />
@@ -384,11 +380,6 @@
       </file>
       <file name="$USER_HOME$/_dev/referrals-py/requirements.txt" timestamp="1582641203324">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/shibboleth-poc/app.py" timestamp="1583163385899">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/encounters.html" timestamp="1556031833715">
         <mark key="[" line="6" column="44" />
@@ -690,11 +681,6 @@
       <file name="$USER_HOME$/_dev/referrals-py/templates/head.html" timestamp="1582641086247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/creatempitemptable.py" timestamp="1583078969416">
-        <mark key="[" line="57" column="50" />
-        <mark key="]" line="57" column="50" />
-        <mark key="." line="57" column="50" />
-      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/transactions/trx.py" timestamp="1541540601590">
         <mark key="[" line="12" column="25" />
         <mark key="]" line="8" column="0" />
@@ -727,11 +713,6 @@
         <mark key="]" line="379" column="28" />
         <mark key="^" line="392" column="0" />
         <mark key="." line="379" column="28" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/patient/patient.py" timestamp="1586539111185">
-        <mark key="[" line="243" column="61" />
-        <mark key="]" line="243" column="61" />
-        <mark key="." line="243" column="61" />
       </file>
       <file name="$USER_HOME$/_dev/python/kmeans-mich-voters/centroids.csv" timestamp="1519077019292">
         <mark key="[" line="13" column="25" />
@@ -812,21 +793,17 @@
         <mark key="." line="28" column="34" />
         <mark key="^" line="28" column="44" />
       </file>
-      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" timestamp="1591371690128">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" timestamp="1591372452067">
+        <mark key="[" line="266" column="38" />
+        <mark key="]" line="266" column="38" />
+        <mark key="." line="266" column="38" />
+        <mark key="^" line="260" column="22" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/ptinfo.html" timestamp="1555602354382">
         <mark key="[" line="8" column="17" />
         <mark key="]" line="8" column="36" />
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
-      </file>
-      <file name="$USER_HOME$/_dev/referrals-py/referrals/templates/cbct/index.html" timestamp="1582641987376">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/docker-airflow/dags/mcommunityexampledag.py" timestamp="1591300602451">
         <mark key="[" line="1" column="0" />
@@ -912,11 +889,11 @@
       <jump line="3" column="0" filename="$USER_HOME$/_dev/ldap-poc/mcommunity.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YXBwLmNvbmZpZ1snVVBMT0FEX0ZPTERFUiddID0gVVBMT0FEX0ZPTERFUiAK</text>
+      <register name="&quot;" type="4">
+        <text>\xb6\xdf\xd8\x16\xffK\xaa\x880\xa6\xad\xa6=\x13\xfdS\x9c\xb4\xb8\xb0]\x8a'</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>\xb6\xdf\xd8\x16\xffK\xaa\x880\xa6\xad\xa6=\x13\xfdS\x9c\xb4\xb8\xb0]\x8a'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25uZWN0XD4=</text>
@@ -924,32 +901,41 @@
       <register name="0" type="2">
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">YXBwLmNvbmZpZ1snVVBMT0FEX0ZPTERFUiddID0gVVBMT0FEX0ZPTERFUiAK</text>
+      <register name="1" type="4">
+        <text>[DEFAULT]
+ENV=TST
+SECRETKEY=b'fM\xb6\xdf\xd8\x16\xffK\xaa\x880\xa6\xad\xa6=\x13\xfdS\x9c\xb4\xb8\xb0]\x8a'
+
+[MIDENT]
+USER=mitoolsweb
+PASSWORD=dvmtoo1usrforweb
+HOSTNAME=dent-axdev-ora.miserver.it.umich.edu
+PORT=1521
+DBNAME=dentaxqa</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBwLmNvbmZpZ1snVVBMT0FEX0ZPTERFUiddID0gVVBMT0FEX0ZPTERFUiAK</text>
+        <text encoding="base64">ICAgIHBhdGggPSBvcy5nZXRjd2QoKSsiL3N0YXRpYy91cGxvYWRzIgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">YXBwLmNvbmZpZ1snVVBMT0FEX0ZPTERFUiddID0gVVBMT0FEX0ZPTERFUiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VVBMT0FEX0ZPTERFUiA9ICcuL3N0YXRpYy91cGxvYWRzJwo=</text>
+        <text encoding="base64">YXBwLmNvbmZpZ1snVVBMT0FEX0ZPTERFUiddID0gVVBMT0FEX0ZPTERFUiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBhaXJmbG93c29wZXJhdG9yc3MK</text>
+        <text encoding="base64">YXBwLmNvbmZpZ1snVVBMT0FEX0ZPTERFUiddID0gVVBMT0FEX0ZPTERFUiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VVBMT0FEX0ZPTERFUiA9ICcuL3N0YXRpYy91cGxvYWRzJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBhaXJmbG93c29wZXJhdG9yc3MK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIGRlZiBleGVjdXRlKHNlbGYsIGNvbnRleHQpOgogICAgICAgIHBhc3M=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
