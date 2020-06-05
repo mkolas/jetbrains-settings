@@ -770,8 +770,10 @@
       <file name="$USER_HOME$/_dev/python/discord/testfile.txt" timestamp="1562603320029">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/ldapoperator.py" timestamp="1591394953872">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/ldapoperator.py" timestamp="1591395739762">
+        <mark key="[" line="16" column="40" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ehr_shared_meds/axium sql query.txt" timestamp="1574114593600">
         <mark key="[" line="0" column="0" />
@@ -901,8 +903,8 @@
       <jump line="293" column="37" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGEK</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -914,9 +916,15 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGEK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmhlYWRlCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICdyZXRyeV9kZWxheSc6IHRpbWVkZWx0YShtaW51dGVzPTYwKSwK</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>[DEFAULT]
 ENV=TST
 SECRETKEY=
@@ -928,7 +936,7 @@ HOSTNAME=dent-axdev-ora.miserver.it.umich.edu
 PORT=1521
 DBNAME=dentaxqa</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>[DEFAULT]
 ENV=TST
 SECRETKEY=b'fM\xb6\xdf\xd8\x16\xffK\xaa\x880\xa6\xad\xa6=\x13\xfdS\x9c\xb4\xb8\xb0]\x8a'
@@ -940,23 +948,17 @@ HOSTNAME=dent-axdev-ora.miserver.it.umich.edu
 PORT=1521
 DBNAME=dentaxqa</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhdGggPSBvcy5nZXRjd2QoKSsiL3N0YXRpYy91cGxvYWRzIgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">YXBwLmNvbmZpZ1snVVBMT0FEX0ZPTERFUiddID0gVVBMT0FEX0ZPTERFUiAK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">YXBwLmNvbmZpZ1snVVBMT0FEX0ZPTERFUiddID0gVVBMT0FEX0ZPTERFUiAK</text>
+        <text encoding="base64">ICAgIHBhdGggPSBvcy5nZXRjd2QoKSsiL3N0YXRpYy91cGxvYWRzIgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">YXBwLmNvbmZpZ1snVVBMT0FEX0ZPTERFUiddID0gVVBMT0FEX0ZPTERFUiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VVBMT0FEX0ZPTERFUiA9ICcuL3N0YXRpYy91cGxvYWRzJwo=</text>
+        <text encoding="base64">YXBwLmNvbmZpZ1snVVBMT0FEX0ZPTERFUiddID0gVVBMT0FEX0ZPTERFUiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBhaXJmbG93c29wZXJhdG9yc3MK</text>
+        <text encoding="base64">YXBwLmNvbmZpZ1snVVBMT0FEX0ZPTERFUiddID0gVVBMT0FEX0ZPTERFUiAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
