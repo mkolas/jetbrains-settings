@@ -225,17 +225,19 @@
         <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1590602711265" />
-      <file name="$USER_HOME$/_dev/biopsy/.config" timestamp="1591372814471">
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="10" />
-        <mark key="^" line="3" column="41" />
-        <mark key="." line="2" column="10" />
+      <file name="$USER_HOME$/_dev/biopsy/.config" timestamp="1591379265324">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1591297252141">
+      <file name="/Python Console" timestamp="1591379644326">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1591298062851">
+      <file name="/fragment.py" timestamp="1591379710871">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/finance/ptbal.py" timestamp="1506359062869">
         <mark key="[" line="0" column="5" />
@@ -693,7 +695,7 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="55" column="30" />
       </file>
-      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/__init__.py" timestamp="1588623080366">
+      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/__init__.py" timestamp="1591379561591">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="39" column="8" />
         <mark key="." line="39" column="8" />
@@ -793,11 +795,12 @@
         <mark key="." line="28" column="34" />
         <mark key="^" line="28" column="44" />
       </file>
-      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" timestamp="1591372452067">
-        <mark key="[" line="266" column="38" />
-        <mark key="]" line="266" column="38" />
-        <mark key="." line="266" column="38" />
-        <mark key="^" line="260" column="22" />
+      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" timestamp="1591379726036">
+        <mark key="'" line="293" column="37" />
+        <mark key="[" line="289" column="28" />
+        <mark key="]" line="289" column="28" />
+        <mark key="." line="289" column="28" />
+        <mark key="^" line="14" column="23" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/ptinfo.html" timestamp="1555602354382">
         <mark key="[" line="8" column="17" />
@@ -887,21 +890,36 @@
       <jump line="166" column="15" filename="$USER_HOME$/_dev/python/ehr_shared_meds/joindatabases.py" />
       <jump line="45" column="64" filename="$USER_HOME$/_dev/python/ehr_shared_meds/getnegativesfromresults.py" />
       <jump line="3" column="0" filename="$USER_HOME$/_dev/ldap-poc/mcommunity.py" />
+      <jump line="270" column="60" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
+      <jump line="14" column="23" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
+      <jump line="293" column="37" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>\xb6\xdf\xd8\x16\xffK\xaa\x880\xa6\xad\xa6=\x13\xfdS\x9c\xb4\xb8\xb0]\x8a'</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>\xb6\xdf\xd8\x16\xffK\xaa\x880\xa6\xad\xa6=\x13\xfdS\x9c\xb4\xb8\xb0]\x8a'</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25uZWN0XD4=</text>
+        <text>upload</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="4">
+        <text>[DEFAULT]
+ENV=TST
+SECRETKEY=
+UPLOAD_FOLDER=/biopsy_flask/static/uploads
+[MIDENT]
+USER=mitoolsweb
+PASSWORD=
+HOSTNAME=dent-axdev-ora.miserver.it.umich.edu
+PORT=1521
+DBNAME=dentaxqa</text>
+      </register>
+      <register name="2" type="4">
         <text>[DEFAULT]
 ENV=TST
 SECRETKEY=b'fM\xb6\xdf\xd8\x16\xffK\xaa\x880\xa6\xad\xa6=\x13\xfdS\x9c\xb4\xb8\xb0]\x8a'
@@ -913,11 +931,8 @@ HOSTNAME=dent-axdev-ora.miserver.it.umich.edu
 PORT=1521
 DBNAME=dentaxqa</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhdGggPSBvcy5nZXRjd2QoKSsiL3N0YXRpYy91cGxvYWRzIgo=</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">YXBwLmNvbmZpZ1snVVBMT0FEX0ZPTERFUiddID0gVVBMT0FEX0ZPTERFUiAK</text>
+        <text encoding="base64">ICAgIHBhdGggPSBvcy5nZXRjd2QoKSsiL3N0YXRpYy91cGxvYWRzIgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">YXBwLmNvbmZpZ1snVVBMT0FEX0ZPTERFUiddID0gVVBMT0FEX0ZPTERFUiAK</text>
@@ -926,13 +941,13 @@ DBNAME=dentaxqa</text>
         <text encoding="base64">YXBwLmNvbmZpZ1snVVBMT0FEX0ZPTERFUiddID0gVVBMT0FEX0ZPTERFUiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VVBMT0FEX0ZPTERFUiA9ICcuL3N0YXRpYy91cGxvYWRzJwo=</text>
+        <text encoding="base64">YXBwLmNvbmZpZ1snVVBMT0FEX0ZPTERFUiddID0gVVBMT0FEX0ZPTERFUiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBhaXJmbG93c29wZXJhdG9yc3MK</text>
+        <text encoding="base64">VVBMT0FEX0ZPTERFUiA9ICcuL3N0YXRpYy91cGxvYWRzJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBhaXJmbG93c29wZXJhdG9yc3MK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -942,9 +957,9 @@ DBNAME=dentaxqa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25uZWN0XD4=</last-search>
+      <last-search>upload</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25uZWN0XD4=</last-pattern>
+      <last-pattern>upload</last-pattern>
       <last-replace />
       <last-substitute>Stripped</last-substitute>
       <last-dir>-1</last-dir>
@@ -964,6 +979,8 @@ DBNAME=dentaxqa</text>
         <entry>Stripped</entry>
         <entry>1000</entry>
         <entry encoding="base64">XDxjb25uZWN0XD4=</entry>
+        <entry>config</entry>
+        <entry>upload</entry>
       </history-search>
       <history-cmd>
         <entry>/%s/encounter/guarantor/g</entry>
