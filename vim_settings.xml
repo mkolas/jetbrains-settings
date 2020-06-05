@@ -763,8 +763,8 @@
       <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/__init__.py" timestamp="1560780204229">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/biopsy/config.ini" timestamp="1578930931209">
-        <mark key="[" line="17" column="22" />
+      <file name="$USER_HOME$/_dev/biopsy/config.ini" timestamp="1591371631087">
+        <mark key="[" line="3" column="0" />
         <mark key="]" line="17" column="21" />
         <mark key="." line="17" column="21" />
         <mark key="^" line="17" column="21" />
@@ -812,8 +812,10 @@
         <mark key="." line="28" column="34" />
         <mark key="^" line="28" column="44" />
       </file>
-      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" timestamp="1588612324150">
-        <mark key="[" line="2" column="25" />
+      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" timestamp="1591371690128">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/ptinfo.html" timestamp="1555602354382">
         <mark key="[" line="8" column="17" />
@@ -911,7 +913,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBhaXJmbG93c29wZXJhdG9yc3MK</text>
+        <text encoding="base64">YXBwLmNvbmZpZ1snVVBMT0FEX0ZPTERFUiddID0gVVBMT0FEX0ZPTERFUiAK</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -923,31 +925,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBhaXJmbG93c29wZXJhdG9yc3MK</text>
+        <text encoding="base64">YXBwLmNvbmZpZ1snVVBMT0FEX0ZPTERFUiddID0gVVBMT0FEX0ZPTERFUiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwLmNvbmZpZ1snVVBMT0FEX0ZPTERFUiddID0gVVBMT0FEX0ZPTERFUiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwLmNvbmZpZ1snVVBMT0FEX0ZPTERFUiddID0gVVBMT0FEX0ZPTERFUiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VVBMT0FEX0ZPTERFUiA9ICcuL3N0YXRpYy91cGxvYWRzJwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIGRlZiBleGVjdXRlKHNlbGYsIGNvbnRleHQpOgogICAgICAgIHBhc3M=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBhaXJmbG93c29wZXJhdG9yc3MK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdvbl9mYWlsdXJlX2NhbGxiYWNrJzogbm90aWZ5X2VtYWlsLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zmxhc2tfYXBwID0gYXBwLmFwcAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBhcHAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIGRlZiBleGVjdXRlKHNlbGYsIGNvbnRleHQpOgogICAgICAgIHBhc3M=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
