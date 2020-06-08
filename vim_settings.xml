@@ -24,10 +24,10 @@
         <mark key="^" line="17" column="77" />
       </file>
       <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/xcomoperator.py" timestamp="1591652350626">
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="16" column="27" />
-        <mark key="^" line="16" column="29" />
-        <mark key="." line="16" column="27" />
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="27" />
+        <mark key="^" line="17" column="29" />
+        <mark key="." line="17" column="27" />
       </file>
       <file name="/a.dummy" timestamp="1591648199999">
         <mark key="[" line="0" column="0" />
@@ -868,10 +868,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/docker-airflow/dags/mcommunityexampledag.py" timestamp="1591647430914">
-        <mark key="[" line="2" column="63" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/_dev/docker-airflow/dags/mcommunityexampledag.py" timestamp="1591653856273">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+        <mark key="^" line="0" column="24" />
       </file>
       <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" timestamp="1559924222772">
         <mark key="[" line="50" column="18" />
@@ -955,10 +956,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>upload</text>
