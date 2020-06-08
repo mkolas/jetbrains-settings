@@ -235,7 +235,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1591379644326">
+      <file name="/Python Console" timestamp="1591634398713">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1591379710871">
@@ -454,11 +454,11 @@
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/umichldapoperator.py" timestamp="1591631760985">
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="12" column="31" />
-        <mark key="." line="12" column="31" />
-        <mark key="^" line="12" column="31" />
+      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/umichldapoperator.py" timestamp="1591634237758">
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="16" column="34" />
+        <mark key="." line="16" column="34" />
+        <mark key="^" line="16" column="31" />
       </file>
       <file name="$USER_HOME$/_dev/python/advent2018/09/9.py" timestamp="1544479756357">
         <mark key="[" line="0" column="0" />
@@ -498,6 +498,11 @@
       </file>
       <file name="$USER_HOME$/_dev/airflow-dags/example_bash_operator.py" timestamp="1589386415911">
         <mark key="[" line="24" column="27" />
+      </file>
+      <file name="$USER_HOME$/_dev/docker-airflow/dags/mysqltocsv.py" timestamp="1591634335736">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/wsse/tests/test_wsse.py" timestamp="1555353136062">
         <mark key="[" line="16" column="18" />
@@ -944,8 +949,8 @@
       <jump line="293" column="37" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -957,31 +962,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZpbHRlcl9zdHJpbmc6IGZpbHRlcl9zdHJpbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlYXJjaF9iYXNlOiBzZWFyY2hfZGRiYXNlCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZpbHRlcl9zdHJpbmc6IGZpbHRlcl9zdHJpbmcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBpZF9maWVsZDogc3RyID0gTm9uZSwK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlYXJjaF9iYXNlOiBzZWFyY2hfZGRiYXNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBzZWFyY2hfYmFzZTogID0gTm9uZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBpZF9maWVsZDogc3RyID0gTm9uZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVuZHBvaW50ID0gZW5kcG9pbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBzZWFyY2hfYmFzZTogID0gTm9uZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBlbmRwb2ludDogc3RyLAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmVuZHBvaW50ID0gZW5kcG9pbnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxkYXBfY29ubl9pZCA9IGxkYXBfY29ubl9pZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBlbmRwb2ludDogc3RyLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBsZGFwX2Nvbm5faWRkZDogc3RyID0gJ2xkYXBfZGVmYXVsdCcsCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxkYXBfY29ubl9pZCA9IGxkYXBfY29ubl9pZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBjdXN0b21ob29rcy5sZGFwaG9vayBpbXBvcnQgTGRhcEhvb2sK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBsZGFwX2Nvbm5faWRkZDogc3RyID0gJ2xkYXBfZGVmYXVsdCcsCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
