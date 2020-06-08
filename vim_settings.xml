@@ -23,11 +23,11 @@
         <mark key="." line="17" column="76" />
         <mark key="^" line="17" column="77" />
       </file>
-      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/xcomoperator.py" timestamp="1591651974285">
-        <mark key="[" line="8" column="37" />
-        <mark key="]" line="8" column="38" />
-        <mark key="^" line="8" column="38" />
-        <mark key="." line="8" column="38" />
+      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/xcomoperator.py" timestamp="1591652350626">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="16" column="27" />
+        <mark key="^" line="16" column="29" />
+        <mark key="." line="16" column="27" />
       </file>
       <file name="/a.dummy" timestamp="1591648199999">
         <mark key="[" line="0" column="0" />
@@ -954,11 +954,11 @@
       <jump line="293" column="37" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy4K</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>python_operator import PythonOperato</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>upload</text>
