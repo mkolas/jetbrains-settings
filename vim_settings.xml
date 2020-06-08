@@ -24,10 +24,10 @@
         <mark key="^" line="17" column="77" />
       </file>
       <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/xcomoperator.py" timestamp="1591652350626">
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="17" column="27" />
-        <mark key="^" line="17" column="29" />
-        <mark key="." line="17" column="27" />
+        <mark key="[" line="18" column="27" />
+        <mark key="]" line="18" column="27" />
+        <mark key="^" line="18" column="29" />
+        <mark key="." line="18" column="27" />
       </file>
       <file name="/a.dummy" timestamp="1591648199999">
         <mark key="[" line="0" column="0" />
