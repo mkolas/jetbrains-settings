@@ -800,10 +800,11 @@
       <file name="$USER_HOME$/_dev/python/discord/testfile.txt" timestamp="1562603320029">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/ldapoperator.py" timestamp="1591395739762">
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/ldapoperator.py" timestamp="1591629467569">
+        <mark key="[" line="26" column="23" />
+        <mark key="]" line="26" column="23" />
+        <mark key="." line="26" column="23" />
+        <mark key="^" line="16" column="39" />
       </file>
       <file name="$USER_HOME$/_dev/python/ehr_shared_meds/axium sql query.txt" timestamp="1574114593600">
         <mark key="[" line="0" column="0" />
@@ -938,11 +939,11 @@
       <jump line="293" column="37" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>apsearch_</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>apsearch_</text>
       </register>
       <register name="/" type="4">
         <text>upload</text>
