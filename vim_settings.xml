@@ -862,11 +862,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/docker-airflow/dags/mcommunityexampledag.py" timestamp="1591636930160">
-        <mark key="[" line="6" column="57" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="6" column="56" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/_dev/docker-airflow/dags/mcommunityexampledag.py" timestamp="1591647430914">
+        <mark key="[" line="2" column="63" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/database-scripts/mrncleaner/clean_mrns.py" timestamp="1559924222772">
         <mark key="[" line="50" column="18" />
@@ -950,10 +949,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRhc2sxCg==</text>
+        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy4K</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>python_operator import PythonOperato</text>
       </register>
       <register name="/" type="4">
         <text>upload</text>
@@ -962,27 +961,30 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRhc2sxCg==</text>
+        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHRfYXJncz1kZWZhdWx0X2RhZ19hcmdzKSBhcyBkYWc6Cg==</text>
+        <text encoding="base64">ICAgIHRhc2sxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNhdGNodXA9RmFsc2UsCg==</text>
+        <text encoding="base64">ICAgIGRlZmF1bHRfYXJncz1kZWZhdWx0X2RhZ19hcmdzKSBhcyBkYWc6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNjaGVkdWxlX2ludGVydmFsPXRpbWVkZWx0YShkYXlzPTEpLAo=</text>
+        <text encoding="base64">ICAgIGNhdGNodXA9RmFsc2UsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRhZ19pZD0nbWNvbW11bml0eV9leHRyYWN0X2V4YW1wbGUnLAo=</text>
+        <text encoding="base64">ICAgIHNjaGVkdWxlX2ludGVydmFsPXRpbWVkZWx0YShkYXlzPTEpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">d2l0aCBtb2RlbHMuREFHKAo=</text>
+        <text encoding="base64">ICAgIGRhZ19pZD0nbWNvbW11bml0eV9leHRyYWN0X2V4YW1wbGUnLAo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">d2l0aCBtb2RlbHMuREFHKAo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ZGQK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>default_dag_args = {
     'start_date': datetime(2020, 5, 12, 12),
     'email_on_failure': False,
@@ -990,9 +992,6 @@
     'project_id': 'example_projects',
     'retries': 0
 }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
