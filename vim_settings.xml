@@ -460,11 +460,10 @@
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/umichldapoperator.py" timestamp="1591634237758">
-        <mark key="[" line="17" column="34" />
-        <mark key="]" line="17" column="34" />
-        <mark key="." line="17" column="34" />
-        <mark key="^" line="17" column="31" />
+      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/umichldapoperator.py" timestamp="1591665114360">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/advent2018/09/9.py" timestamp="1544479756357">
         <mark key="[" line="0" column="0" />
@@ -955,8 +954,8 @@
       <jump line="293" column="37" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>6</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
       </register>
       <register name="-" type="4">
         <text>6</text>
@@ -968,37 +967,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRhc2sxCg==</text>
+        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHRfYXJncz1kZWZhdWx0X2RhZ19hcmdzKSBhcyBkYWc6Cg==</text>
+        <text encoding="base64">ICAgIHRhc2sxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNhdGNodXA9RmFsc2UsCg==</text>
+        <text encoding="base64">ICAgIGRlZmF1bHRfYXJncz1kZWZhdWx0X2RhZ19hcmdzKSBhcyBkYWc6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNjaGVkdWxlX2ludGVydmFsPXRpbWVkZWx0YShkYXlzPTEpLAo=</text>
+        <text encoding="base64">ICAgIGNhdGNodXA9RmFsc2UsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRhZ19pZD0nbWNvbW11bml0eV9leHRyYWN0X2V4YW1wbGUnLAo=</text>
+        <text encoding="base64">ICAgIHNjaGVkdWxlX2ludGVydmFsPXRpbWVkZWx0YShkYXlzPTEpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">d2l0aCBtb2RlbHMuREFHKAo=</text>
+        <text encoding="base64">ICAgIGRhZ19pZD0nbWNvbW11bml0eV9leHRyYWN0X2V4YW1wbGUnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">d2l0aCBtb2RlbHMuREFHKAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>default_dag_args = {
-    'start_date': datetime(2020, 5, 12, 12),
-    'email_on_failure': False,
-    'email_on_retry': False,
-    'project_id': 'example_projects',
-    'retries': 0
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
