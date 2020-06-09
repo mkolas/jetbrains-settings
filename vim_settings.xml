@@ -725,10 +725,10 @@
       <file name="$USER_HOME$/_dev/referrals-py/templates/head.html" timestamp="1582641086247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/docker-airflow/dags/bashscriptexampledag.py" timestamp="1591711221312">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/_dev/docker-airflow/dags/bashscriptexampledag.py" timestamp="1591712069550">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/ehr_shared_meds/creatempitemptable.py" timestamp="1583078969416">
         <mark key="[" line="57" column="50" />
@@ -962,12 +962,8 @@
       <jump line="293" column="37" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>extract_task = UmichLdapOperator(task_id='ldap_extract', xcom_task_id_key='ldap_results',
-                                 organizational_unit='Dentistry', dag=dag)
-
-print_task = PrintXcomValueOperator(task_id='print_task', xcom_task_id='ldap_extract',
-                                    xcom_task_id_key='ldap_results', dag=dag)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBjdXN0b21vcGVyYXRvcnMueGNvbW9wZXJhdG9yIGltcG9ydCBQcmludFhjb21WYWx1ZU9wZXJhdG9yCg==</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -978,36 +974,36 @@ print_task = PrintXcomValueOperator(task_id='print_task', xcom_task_id='ldap_ext
       <register name="0" type="2">
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ZnJvbSBjdXN0b21vcGVyYXRvcnMueGNvbW9wZXJhdG9yIGltcG9ydCBQcmludFhjb21WYWx1ZU9wZXJhdG9yCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBjdXN0b21vcGVyYXRvcnMudW1pY2hsZGFwb3BlcmF0b3IgaW1wb3J0IFVtaWNoTGRhcE9wZXJhdG9yCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZXh0cmFjdF90YXNrID4+IHByaW50X3Rhc2sK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZXh0cmFjdF90YXNrID4+IHByaW50X3Rhc2sK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZXh0cmFjdF90YXNrID4+IHByaW50X3Rhc2sK</text>
+      </register>
+      <register name="6" type="4">
         <text>extract_task = UmichLdapOperator(task_id='ldap_extract', xcom_task_id_key='ldap_results',
                                  organizational_unit='Dentistry', dag=dag)
 
 print_task = PrintXcomValueOperator(task_id='print_task', xcom_task_id='ldap_extract',
                                     xcom_task_id_key='ldap_results', dag=dag)</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICdyZXRyaWVzJzogMSwK</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICdlbWFpbF9vbl9yZXRyeSc6IEZhbHNlLAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICdlbWFpbF9vbl9mYWlsdXJlJzogRmFsc2UsCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRhc2sxCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHRfYXJncz1kZWZhdWx0X2RhZ19hcmdzKSBhcyBkYWc6Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNhdGNodXA9RmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICdlbWFpbF9vbl9mYWlsdXJlJzogRmFsc2UsCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
