@@ -377,6 +377,9 @@
       <file name="$USER_HOME$/_dev/biopsy/README.md" timestamp="1583441215621">
         <mark key="[" line="40" column="3" />
       </file>
+      <file name="$USER_HOME$/_dev/docker-airflow/dags/exampledag.py" timestamp="1591729438912">
+        <mark key="[" line="4" column="30" />
+      </file>
       <file name="$USER_HOME$/_dev/python/michart-python/michart/templates/problems.html" timestamp="1555704147566">
         <mark key="[" line="8" column="15" />
         <mark key="]" line="8" column="15" />
@@ -848,10 +851,6 @@
         <mark key="]" line="46" column="67" />
         <mark key="^" line="14" column="3" />
         <mark key="." line="46" column="67" />
-      </file>
-      <file name="$USER_HOME$/_dev/ldap-poc/mcommunity.py" timestamp="1591370652465">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/wsse/wssetest.py" timestamp="1555094814197">
         <mark key="[" line="28" column="34" />
