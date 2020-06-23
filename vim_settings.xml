@@ -35,10 +35,11 @@
       <file name="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/query.txt" timestamp="1559852453859">
         <mark key="[" line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/jsontomysqloperator.py" timestamp="1592941638896">
-        <mark key="[" line="15" column="41" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/jsontomysqloperator.py" timestamp="1592943992727">
+        <mark key="[" line="16" column="41" />
+        <mark key="]" line="16" column="67" />
+        <mark key="." line="16" column="67" />
+        <mark key="^" line="16" column="67" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/main.py" timestamp="1555435146118">
         <mark key="[" line="2" column="0" />
@@ -325,28 +326,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnhjb21fdGFza19pZCA9IHhjb21fdGFza19pZAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrX2luc3RhbmNlLnhjb21fcHVzaChzZWxmLnhjb21fdGFza19pZF9rZXksIGZ1bGxfcmVzdWx0cykK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrX2luc3RhbmNlID0gY29udGV4dFsndGFza19pbnN0YW5jZSddCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHdyaXRlIGNvbGxlY3RlZCBKU09OIHRvIFhDT00K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnhjb21fdGFza19pZCA9IHhjb21fdGFza19pZAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0YXNrX2luc3RhbmNlLnhjb21fcHVzaChzZWxmLnhjb21fdGFza19pZF9rZXksIGZ1bGxfcmVzdWx0cykK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0YXNrX2luc3RhbmNlID0gY29udGV4dFsndGFza19pbnN0YW5jZSddCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIHdyaXRlIGNvbGxlY3RlZCBKU09OIHRvIFhDT00K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnVsbF9yZXN1bHRzLmFwcGVuZChhbHBoYV9yZXN1bHQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmJygmKG91PSp7c2VsZi5vcmdhbml6YXRpb25hbF91bml0fSopKHVpZD17YWxwaGF9KikpJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnVsbF9yZXN1bHRzLmFwcGVuZChhbHBoYV9yZXN1bHQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxwaGFfcmVzdWx0ID0gY29ubmVjdC5zZWFyY2hfcyhTRUFSQ0hfQkFTRSwgbGRhcC5TQ09QRV9TVUJUUkVFLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmJygmKG91PSp7c2VsZi5vcmdhbml6YXRpb25hbF91bml0fSopKHVpZD17YWxwaGF9KikpJykK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
