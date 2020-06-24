@@ -15,7 +15,7 @@
         <mark key="[" line="6" column="20" />
       </file>
       <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/mysqltocsvoperator.py" timestamp="1592937433870" />
-      <file name="/a.dummy" timestamp="1592257731904">
+      <file name="/a.dummy" timestamp="1593007976713">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/airflow-dags/example_bash_operator.py" timestamp="1589386415911">
@@ -35,11 +35,11 @@
       <file name="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/query.txt" timestamp="1559852453859">
         <mark key="[" line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/jsontomysqloperator.py" timestamp="1592960441758">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="16" column="32" />
+      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/jsontomysqloperator.py" timestamp="1593007937285">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="8" />
+        <mark key="." line="29" column="8" />
+        <mark key="^" line="30" column="31" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/main.py" timestamp="1555435146118">
         <mark key="[" line="2" column="0" />
@@ -67,10 +67,10 @@
       <file name="$USER_HOME$/_dev/referrals-py/referrals/__init__.py" timestamp="1582641345832">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/docker-airflow/dags/models/person.py" timestamp="1592959705002">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/_dev/docker-airflow/dags/models/person.py" timestamp="1593008576160">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/python-ml/keras-dogcat.py" timestamp="1518453845149">
         <mark key="[" line="16" column="0" />
@@ -231,6 +231,11 @@
         <mark key="." line="16" column="16" />
         <mark key="^" line="16" column="26" />
       </file>
+      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/jsontooracleoperator.py" timestamp="1593008644954">
+        <mark key="[" line="36" column="8" />
+        <mark key="]" line="36" column="8" />
+        <mark key="." line="36" column="8" />
+      </file>
       <file name="$USER_HOME$/_dev/python/advent2018/09/9.py" timestamp="1544479756357">
         <mark key="[" line="0" column="0" />
       </file>
@@ -310,11 +315,11 @@
       <jump line="6" column="19" filename="$USER_HOME$/_dev/docker-airflow/dags/populatepersonwhdag.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1vZGVsID0gbW9kZWwK</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbXBvcnRcPg==</text>
@@ -323,31 +328,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1vZGVsID0gbW9kZWwK</text>
+        <text encoding="base64">ICAgICAgICBCYXNlID0gZGVjbGFyYXRpdmVfYmFzZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBtb2RlbCwgICMgdGhpcyBpcyBhIHNxbGFsY2hlbXkgbW9kZWwK</text>
+        <text encoding="base64">ZnJvbSBhaXJmbG93Lm1vZGVscy5iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFkCg==</text>
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15LmV4dC5kZWNsYXJhdGl2ZSBpbXBvcnQgZGVjbGFyYXRpdmVfYmFzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaXRlbSBpbiB0b19pbXBvcnQ6Cg==</text>
+        <text encoding="base64">ZnJvbSBhaXJmbG93Lm1vZGVscy5iYXNlIGltcG9ydCBkZWNsYXJhdGl2ZV9iYXNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlc3Npb24gPSBzZXNzaW9ubWFrZXIoKQo=</text>
+        <text encoding="base64">QmFzZSA9IGRlY2xhcmF0aXZlX2Jhc2UoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15LmV4dC5kZWNsYXJhdGl2ZSBpbXBvcnQgZGVjbGFyYXRpdmVfYmFzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzcWxfYWxjaGVteV9zZXNzaW9uID0gU2Vzcwo=</text>
+        <text encoding="base64">ICAgICAgICBCYXNlLm1ldGFkYXRhLmNyZWF0ZV9hbGwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIF9fdGFibGVuYW1lX18gPSAncGVyc29uJwo=</text>
+        <text encoding="base64">ZnJvbSBhaXJmbG93Lm1vZGVscy5iYXNlIGltcG9ydCBCYXNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy5teXNxbF9vcGVyYXRvciBpbXBvcnQgTXlTcWxIb29rCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
