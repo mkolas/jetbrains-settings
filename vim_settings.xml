@@ -35,10 +35,11 @@
       <file name="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/query.txt" timestamp="1559852453859">
         <mark key="[" line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/jsontomysqloperator.py" timestamp="1592954537295">
-        <mark key="[" line="36" column="53" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/jsontomysqloperator.py" timestamp="1592960441758">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="16" column="32" />
       </file>
       <file name="$USER_HOME$/_dev/python/michart-python/main.py" timestamp="1555435146118">
         <mark key="[" line="2" column="0" />
@@ -310,7 +311,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFkCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1vZGVsID0gbW9kZWwK</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -322,31 +323,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFkCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1vZGVsID0gbW9kZWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaXRlbSBpbiB0b19pbXBvcnQ6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBtb2RlbCwgICMgdGhpcyBpcyBhIHNxbGFsY2hlbXkgbW9kZWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlc3Npb24gPSBzZXNzaW9ubWFrZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaXRlbSBpbiB0b19pbXBvcnQ6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzcWxfYWxjaGVteV9zZXNzaW9uID0gU2Vzcwo=</text>
+        <text encoding="base64">ICAgICAgICBlc3Npb24gPSBzZXNzaW9ubWFrZXIoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIF9fdGFibGVuYW1lX18gPSAncGVyc29uJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzcWxfYWxjaGVteV9zZXNzaW9uID0gU2Vzcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF9fdGFibGVuYW1lX18gPSAncGVyc29uJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnhjb21fdGFza19pZCA9IHhjb21fdGFza19pZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
