@@ -94,10 +94,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1593015279785">
+      <file name="/Python Console" timestamp="1593018242876">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1593015251488">
+      <file name="/fragment.py" timestamp="1593018060123">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/docker-airflow/dags/customhooks/ldaphook.py" timestamp="1591630858004">
@@ -205,10 +205,10 @@
       <file name="$USER_HOME$/_dev/docker-airflow/dags/canvastocsv.py" timestamp="1591120388076">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/ldap-poc/mcommunity.py" timestamp="1593015214328">
-        <mark key="[" line="10" column="117" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/_dev/ldap-poc/mcommunity.py" timestamp="1593018239854">
+        <mark key="[" line="14" column="10" />
+        <mark key="]" line="14" column="10" />
+        <mark key="." line="14" column="10" />
       </file>
       <file name="$USER_HOME$/_dev/euler/618-primefactorsum.py" timestamp="1516212441249">
         <mark key="[" line="47" column="26" />
@@ -329,10 +329,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx4XD4=</text>
@@ -341,31 +341,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15Cg==</text>
+        <text encoding="base64">ICAgIGNsZWFuX3IgPSByWzFdWzFdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvYmplY3RfbWFwID0gWyBmb3IgeCBpbiBvYmplY3RfbWFwXQo=</text>
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaW5uZXJfZW50cnlbJ3RlbGVwaG9uZU51bWJlciddIGFkOgo=</text>
+        <text encoding="base64">ICAgICAgICBvYmplY3RfbWFwID0gWyBmb3IgeCBpbiBvYmplY3RfbWFwXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjbGVhbl9vYmplY3RbJ3RlbGVwaG9uZU51bWJlciddID0gaW5uZXJfZW50cnlbJ3RlbGVwaG9uZU51bWJlciddWzBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaW5uZXJfZW50cnlbJ3RlbGVwaG9uZU51bWJlciddIGFkOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBjbGVhbl9vYmplY3RbJ3RlbGVwaG9uZU51bWJlciddID0gaW5uZXJfZW50cnlbJ3RlbGVwaG9uZU51bWJlciddWzBdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzcWxfYWxjaGVteV9lbmdpbmUgPSAK</text>
+        <text encoding="base64">ICAgIHByaW50KHJlc3VsdHMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBvcmdhbml6YXRpb25hbF91bml0OiBzdHIgPSBOb25lLAo=</text>
+        <text encoding="base64">ICAgICAgICBzcWxfYWxjaGVteV9lbmdpbmUgPSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm9yZ2FuaXphdGlvbmFsX3VuaXQgPSBvcmdhbml6YXRpb25hbF91bml0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBvcmdhbml6YXRpb25hbF91bml0OiBzdHIgPSBOb25lLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBCYXNlID0gZGVjbGFyYXRpdmVfYmFzZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm9yZ2FuaXphdGlvbmFsX3VuaXQgPSBvcmdhbml6YXRpb25hbF91bml0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
