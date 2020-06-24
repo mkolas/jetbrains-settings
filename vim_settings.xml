@@ -66,12 +66,11 @@
       <file name="$USER_HOME$/_dev/referrals-py/referrals/__init__.py" timestamp="1582641345832">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/docker-airflow/dags/models/person.py" timestamp="1593017557426">
-        <mark key="'" line="9" column="23" />
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="7" column="24" />
-        <mark key="." line="7" column="24" />
-        <mark key="^" line="7" column="24" />
+      <file name="$USER_HOME$/_dev/docker-airflow/dags/models/person.py" timestamp="1593024900807">
+        <mark key="'" line="12" column="23" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/python-ml/keras-dogcat.py" timestamp="1518453845149">
         <mark key="[" line="16" column="0" />
@@ -328,8 +327,8 @@
       <jump line="43" column="28" filename="$USER_HOME$/_dev/docker-airflow/dags/customoperators/jsontooracleoperator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
@@ -341,31 +340,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNsZWFuX3IgPSByWzFdWzFdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15Cg==</text>
+        <text encoding="base64">ICAgIGNsZWFuX3IgPSByWzFdWzFdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvYmplY3RfbWFwID0gWyBmb3IgeCBpbiBvYmplY3RfbWFwXQo=</text>
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaW5uZXJfZW50cnlbJ3RlbGVwaG9uZU51bWJlciddIGFkOgo=</text>
+        <text encoding="base64">ICAgICAgICBvYmplY3RfbWFwID0gWyBmb3IgeCBpbiBvYmplY3RfbWFwXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjbGVhbl9vYmplY3RbJ3RlbGVwaG9uZU51bWJlciddID0gaW5uZXJfZW50cnlbJ3RlbGVwaG9uZU51bWJlciddWzBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaW5uZXJfZW50cnlbJ3RlbGVwaG9uZU51bWJlciddIGFkOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBjbGVhbl9vYmplY3RbJ3RlbGVwaG9uZU51bWJlciddID0gaW5uZXJfZW50cnlbJ3RlbGVwaG9uZU51bWJlciddWzBdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzcWxfYWxjaGVteV9lbmdpbmUgPSAK</text>
+        <text encoding="base64">ICAgIHByaW50KHJlc3VsdHMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBvcmdhbml6YXRpb25hbF91bml0OiBzdHIgPSBOb25lLAo=</text>
+        <text encoding="base64">ICAgICAgICBzcWxfYWxjaGVteV9lbmdpbmUgPSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm9yZ2FuaXphdGlvbmFsX3VuaXQgPSBvcmdhbml6YXRpb25hbF91bml0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBvcmdhbml6YXRpb25hbF91bml0OiBzdHIgPSBOb25lLAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
