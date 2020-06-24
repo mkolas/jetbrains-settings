@@ -14,7 +14,6 @@
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/procedure/proceduremethods.py" timestamp="1535468279350">
         <mark key="[" line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/mysqltocsvoperator.py" timestamp="1592937433870" />
       <file name="/a.dummy" timestamp="1593007976713">
         <mark key="[" line="0" column="0" />
       </file>
@@ -67,11 +66,12 @@
       <file name="$USER_HOME$/_dev/referrals-py/referrals/__init__.py" timestamp="1582641345832">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/docker-airflow/dags/models/person.py" timestamp="1593013598175">
-        <mark key="'" line="10" column="23" />
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/_dev/docker-airflow/dags/models/person.py" timestamp="1593017557426">
+        <mark key="'" line="9" column="23" />
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="24" />
+        <mark key="." line="7" column="24" />
+        <mark key="^" line="7" column="24" />
       </file>
       <file name="$USER_HOME$/_dev/python/python-ml/keras-dogcat.py" timestamp="1518453845149">
         <mark key="[" line="16" column="0" />
@@ -94,7 +94,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1591807807392">
+      <file name="/Python Console" timestamp="1593015279785">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1593015251488">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/docker-airflow/dags/customhooks/ldaphook.py" timestamp="1591630858004">
@@ -102,7 +105,6 @@
         <mark key="]" line="17" column="18" />
         <mark key="." line="17" column="18" />
       </file>
-      <file name="$USER_HOME$/_dev/docker-airflow/Dockerfile" timestamp="1592931776831" />
       <file name="$USER_HOME$/_dev/docker-airflow/dags/peopledata.py" timestamp="1591710749587">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="19" />
@@ -203,6 +205,11 @@
       <file name="$USER_HOME$/_dev/docker-airflow/dags/canvastocsv.py" timestamp="1591120388076">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/_dev/ldap-poc/mcommunity.py" timestamp="1593015214328">
+        <mark key="[" line="10" column="117" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/_dev/euler/618-primefactorsum.py" timestamp="1516212441249">
         <mark key="[" line="47" column="26" />
       </file>
@@ -216,10 +223,11 @@
         <mark key="." line="289" column="28" />
         <mark key="^" line="14" column="23" />
       </file>
-      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/umichldapoperator.py" timestamp="1592412015350">
-        <mark key="[" line="27" column="44" />
-        <mark key="]" line="27" column="44" />
-        <mark key="." line="27" column="44" />
+      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/umichldapoperator.py" timestamp="1593017571621">
+        <mark key="[" line="30" column="45" />
+        <mark key="]" line="37" column="16" />
+        <mark key="." line="37" column="16" />
+        <mark key="^" line="37" column="17" />
       </file>
       <file name="$USER_HOME$/_dev/referrals-py/referrals/templates/cbct/index.html" timestamp="1582641987376">
         <mark key="[" line="0" column="0" />
@@ -232,11 +240,12 @@
         <mark key="." line="16" column="16" />
         <mark key="^" line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/jsontooracleoperator.py" timestamp="1593013125608">
-        <mark key="[" line="32" column="77" />
-        <mark key="]" line="32" column="77" />
-        <mark key="." line="32" column="77" />
-        <mark key="^" line="37" column="47" />
+      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/jsontooracleoperator.py" timestamp="1593017222355">
+        <mark key="'" line="43" column="28" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="42" column="23" />
       </file>
       <file name="$USER_HOME$/_dev/python/advent2018/09/9.py" timestamp="1544479756357">
         <mark key="[" line="0" column="0" />
@@ -316,58 +325,59 @@
       <jump line="293" column="37" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
       <jump line="6" column="19" filename="$USER_HOME$/_dev/docker-airflow/dags/populatepersonwhdag.py" />
       <jump line="10" column="23" filename="$USER_HOME$/_dev/docker-airflow/dags/models/person.py" />
+      <jump line="43" column="28" filename="$USER_HOME$/_dev/docker-airflow/dags/customoperators/jsontooracleoperator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbXBvcnRcPg==</text>
+        <text encoding="base64">XDx4XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzcWxfYWxjaGVteV9lbmdpbmUgPSAK</text>
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBvcmdhbml6YXRpb25hbF91bml0OiBzdHIgPSBOb25lLAo=</text>
+        <text encoding="base64">ICAgICAgICBvYmplY3RfbWFwID0gWyBmb3IgeCBpbiBvYmplY3RfbWFwXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm9yZ2FuaXphdGlvbmFsX3VuaXQgPSBvcmdhbml6YXRpb25hbF91bml0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaW5uZXJfZW50cnlbJ3RlbGVwaG9uZU51bWJlciddIGFkOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBCYXNlID0gZGVjbGFyYXRpdmVfYmFzZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBjbGVhbl9vYmplY3RbJ3RlbGVwaG9uZU51bWJlciddID0gaW5uZXJfZW50cnlbJ3RlbGVwaG9uZU51bWJlciddWzBdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBhaXJmbG93Lm1vZGVscy5iCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHJlc3VsdHMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15LmV4dC5kZWNsYXJhdGl2ZSBpbXBvcnQgZGVjbGFyYXRpdmVfYmFzZQo=</text>
+        <text encoding="base64">ICAgICAgICBzcWxfYWxjaGVteV9lbmdpbmUgPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBhaXJmbG93Lm1vZGVscy5iYXNlIGltcG9ydCBkZWNsYXJhdGl2ZV9iYXNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBvcmdhbml6YXRpb25hbF91bml0OiBzdHIgPSBOb25lLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QmFzZSA9IGRlY2xhcmF0aXZlX2Jhc2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm9yZ2FuaXphdGlvbmFsX3VuaXQgPSBvcmdhbml6YXRpb25hbF91bml0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15LmV4dC5kZWNsYXJhdGl2ZSBpbXBvcnQgZGVjbGFyYXRpdmVfYmFzZQo=</text>
+        <text encoding="base64">ICAgICAgICBCYXNlID0gZGVjbGFyYXRpdmVfYmFzZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbXBvcnRcPg==</last-search>
+      <last-search encoding="base64">XDx4XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbXBvcnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx4XD4=</last-pattern>
       <last-replace />
       <last-substitute>Stripped</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -387,6 +397,7 @@
         <entry>config</entry>
         <entry>upload</entry>
         <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
+        <entry encoding="base64">XDx4XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>/%s/encounter/guarantor/g</entry>
