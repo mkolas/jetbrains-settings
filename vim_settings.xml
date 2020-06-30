@@ -158,10 +158,10 @@
       <file name="$USER_HOME$/_dev/docker-airflow/dags/exampledag.py" timestamp="1591729438912">
         <mark key="[" line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/templates/users.html" timestamp="1593527974795">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/templates/users.html" timestamp="1593530157168">
+        <mark key="[" line="88" column="63" />
+        <mark key="]" line="46" column="79" />
+        <mark key="." line="46" column="79" />
       </file>
       <file name="$USER_HOME$/_dev/python/discord/testfile.txt" timestamp="1562603320029">
         <mark key="[" line="0" column="0" />
@@ -186,11 +186,11 @@
       <file name="$USER_HOME$/_dev/referrals-py/referrals/app.py" timestamp="1582641316184">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" timestamp="1593202084358">
+      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" timestamp="1593530142933">
         <mark key="'" line="513" column="62" />
-        <mark key="[" line="462" column="91" />
-        <mark key="]" line="362" column="38" />
-        <mark key="." line="362" column="38" />
+        <mark key="[" line="526" column="19" />
+        <mark key="]" line="526" column="19" />
+        <mark key="." line="526" column="19" />
         <mark key="^" line="362" column="38" />
       </file>
       <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/umichldapoperator.py" timestamp="1593017571621">
@@ -296,11 +296,11 @@
       <jump line="507" column="62" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90cj4K</text>
+      <register name="&quot;" type="4">
+        <text>INSERT INTO users ()</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>INSERT INTO users ()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkcm9wX3RhYmxlX3Rhc2tcPg==</text>
