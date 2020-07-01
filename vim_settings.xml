@@ -207,12 +207,11 @@
         <mark key="." line="16" column="16" />
         <mark key="^" line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/jsontooracleoperator.py" timestamp="1593622430814">
+      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/jsontooracleoperator.py" timestamp="1593629004190">
         <mark key="'" line="41" column="28" />
-        <mark key="[" line="22" column="13" />
-        <mark key="]" line="22" column="13" />
-        <mark key="." line="22" column="13" />
-        <mark key="^" line="22" column="16" />
+        <mark key="[" line="38" column="15" />
+        <mark key="]" line="38" column="15" />
+        <mark key="." line="38" column="15" />
       </file>
       <file name="$USER_HOME$/_dev/python/advent2018/09/9.py" timestamp="1544479756357">
         <mark key="[" line="0" column="0" />
@@ -300,10 +299,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkcm9wX3RhYmxlX3Rhc2tcPg==</text>
@@ -312,31 +311,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeGNvbV90YWtfaWRkZF9rZXk9ImxkYXBfcmVzdWx0cyIK</text>
+        <text encoding="base64">ICAgICAgICBtID0gTW9kZWwoKipkY3QpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnhjb21fdGFza19pZF9rZXkgPSB4Y29tX3Rhc2tfaWRfa2V5Cg==</text>
+        <text encoding="base64">ICAgICAgICBkY3QgPSB7azogdiBmb3IgaywgdiBpbiBkY3QuaXRlbXMoKSBpZiBrIGluIGZpZWxkc30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICB4Y29tX3Rhc2tfaWQ6IHN0ciA9IE5vbmUsCg==</text>
+        <text encoding="base64">ICAgICAgICBvYmplY3RfZmllbGRzID0gc2V0KGYubmFtZSBmb3IgZiBpbiBQZXJzb24uX21ldGEuZ2V0X2ZpZWxkcygpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrX2luc3RhbmNlLnhjb21fcHVzaChzZWxmLnhjb21fdGFza19pZF9rZXksIGNsZWFuX3Jlc3VsdHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIG9iamVjdF9tYXAgPSBqc29uLmR1bXBzKHhjb21fdmFsdWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrX2luc3RhbmNlID0gY29udGV4dFsndGFza19pbnN0YW5jZSddCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeGNvbV90YWtfaWRkZF9rZXk9ImxkYXBfcmVzdWx0cyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90cj4K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnhjb21fdGFza19pZF9rZXkgPSB4Y29tX3Rhc2tfaWRfa2V5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD48YSBkYXRhLXRvZ2dsZT0ibW9kYWwiIGRhdGEtdW5pcW5hbWU9Int7IHVzZXIudW5pcW5hbWUgfX0iIGRhdGEtbmFtZT0ie3sgdXNlci5uYW1lIH19IiBkYXRhLXByb3ZpZGVyPSJ7eyB1c2VyLnByb3ZpZGVyIH19IiBkYXRhLWNhbmFwcHJvdmU9Int7IHVzZXIuY2FuX2FwcHJvdmUgfX0iIGRhdGEtcm9sZT0ie3sgdXNlci5yb2xlIH19IiBkYXRhLXRhcmdldD0iI3VzZXJNb2RhbCIgY2xhc3M9ImJ0biBidG4tc3VjY2VzcyB0ZXh0LWxpZ2h0Ij5FZGl0PC9hPjwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICB4Y29tX3Rhc2tfaWQ6IHN0ciA9IE5vbmUsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD57eyAnWWVzJyBpZiB1c2VyLmNhbl9hcHByb3ZlIGVsc2UgJ05vJyB9fTwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICB0YXNrX2luc3RhbmNlLnhjb21fcHVzaChzZWxmLnhjb21fdGFza19pZF9rZXksIGNsZWFuX3Jlc3VsdHMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD57e3VzZXIucHJvdmlkZXJ9fTwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICB0YXNrX2luc3RhbmNlID0gY29udGV4dFsndGFza19pbnN0YW5jZSddCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
