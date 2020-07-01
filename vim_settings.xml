@@ -207,12 +207,12 @@
         <mark key="." line="16" column="16" />
         <mark key="^" line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/jsontooracleoperator.py" timestamp="1593631650456">
+      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/jsontooracleoperator.py" timestamp="1593636186876">
         <mark key="'" line="41" column="28" />
-        <mark key="[" line="48" column="20" />
-        <mark key="]" line="48" column="20" />
-        <mark key="." line="48" column="20" />
-        <mark key="^" line="48" column="43" />
+        <mark key="[" line="47" column="18" />
+        <mark key="]" line="47" column="18" />
+        <mark key="." line="47" column="18" />
+        <mark key="^" line="48" column="22" />
       </file>
       <file name="$USER_HOME$/_dev/python/advent2018/09/9.py" timestamp="1544479756357">
         <mark key="[" line="0" column="0" />
@@ -300,10 +300,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>())</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>())</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkcm9wX3RhYmxlX3Rhc2tcPg==</text>
