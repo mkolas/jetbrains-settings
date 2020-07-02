@@ -151,12 +151,12 @@
         <mark key="." line="72" column="23" />
         <mark key="^" line="72" column="27" />
       </file>
-      <file name="$USER_HOME$/_dev/docker-airflow/dags/populatepersonwhdag.py" timestamp="1593621330703">
+      <file name="$USER_HOME$/_dev/docker-airflow/dags/populatepersonwhdag.py" timestamp="1593717635147">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="42" column="47" />
-        <mark key="]" line="42" column="47" />
-        <mark key="." line="42" column="47" />
-        <mark key="^" line="42" column="47" />
+        <mark key="[" line="44" column="41" />
+        <mark key="]" line="44" column="42" />
+        <mark key="." line="44" column="42" />
+        <mark key="^" line="44" column="42" />
       </file>
       <file name="$USER_HOME$/_dev/docker-airflow/dags/exampledag.py" timestamp="1591729438912">
         <mark key="[" line="4" column="30" />
@@ -211,12 +211,12 @@
         <mark key="." line="16" column="16" />
         <mark key="^" line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/jsontooracleoperator.py" timestamp="1593716249100">
+      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/jsontooracleoperator.py" timestamp="1593717663621">
         <mark key="'" line="38" column="28" />
-        <mark key="[" line="29" column="9" />
-        <mark key="]" line="28" column="9" />
-        <mark key="." line="28" column="9" />
-        <mark key="^" line="28" column="9" />
+        <mark key="[" line="36" column="37" />
+        <mark key="]" line="36" column="37" />
+        <mark key="." line="36" column="37" />
+        <mark key="^" line="36" column="38" />
       </file>
       <file name="$USER_HOME$/_dev/python/advent2018/09/9.py" timestamp="1544479756357">
         <mark key="[" line="0" column="0" />
@@ -304,10 +304,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cheat and get the uri and create the engine ourselves.</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>cheat and get the uri and create the engine ourselves.</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkcm9wX3RhYmxlX3Rhc2tcPg==</text>
@@ -316,31 +316,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvYmplY3RfbGlzdCA9IHhjb21fdmFsdWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBiYXNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh4Y29tX3ZhbHVlWzBdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBtb2RlbCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNxbF9hbGNoZW15X2VuZ2luZSA9IG9yYWNsZV9ob29rLmdldF9zcWxhbGNoZW15X2VuZ2luZShlbmdpbmVfa3dhcmdzPW9yYWNsZV9ob29rLmdldF9jb25uZWN0aW9uKHNlbGYub3JhY2xlX2Nvbm5faWQpLmV4dHJhX2RlanNvbikK</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIH0K</text>
+        <text encoding="base64">ZnJvbSBtb2RlbHMucGVyc29uIGltcG9ydCBQZWRkcnNvbiwgQ2xpbkJhc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAnZHNuJzogJ2RlbnR0ZXN0LW9yYS5taXNlcnZlci5pdC51bWljaC5lZHUnCg==</text>
+        <text encoding="base64">ICAgICAgICBvYmplY3RfbGlzdCA9IHhjb21fdmFsdWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAnc2lkJzogJ2RlbnR0ZXN0JywK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh4Y29tX3ZhbHVlWzBdKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmJ29yYWNsZSB1cmkgaXMge29yYWNsZV9ob29rLmdldF91cmkoKX0nKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNxbF9hbGNoZW15X2VuZ2luZSA9IG9yYWNsZV9ob29rLmdldF9zcWxhbGNoZW15X2VuZ2luZShlbmdpbmVfa3dhcmdzPW9yYWNsZV9ob29rLmdldF9jb25uZWN0aW9uKHNlbGYub3JhY2xlX2Nvbm5faWQpLmV4dHJhX2RlanNvbikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGVuZ2luZV9rd2FyZ3MgPSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzcWxfYWxjaGVteV9lbmdpbmUgPSBjcmVhdGVfZW5naW5lKCJvcmFjbGUrY3hfe29yYWNsZV9ob29rLmdldF91cml9Oi8vbWtvbGFzOlBob3NwaGF0MyFAZGVudHRlc3Qtb3JhLm1pc2VydmVyLml0LnVtaWNoLmVkdS9kZW50dGVzdCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAnZHNuJzogJ2RlbnR0ZXN0LW9yYS5taXNlcnZlci5pdC51bWljaC5lZHUnCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
