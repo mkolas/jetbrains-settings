@@ -211,7 +211,7 @@
         <mark key="." line="16" column="16" />
         <mark key="^" line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/jsontooracleoperator.py" timestamp="1593713790388">
+      <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/jsontooracleoperator.py" timestamp="1593716249100">
         <mark key="'" line="38" column="28" />
         <mark key="[" line="29" column="9" />
         <mark key="]" line="28" column="9" />
