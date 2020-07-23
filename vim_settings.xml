@@ -95,6 +95,11 @@
         <mark key="^" line="20" column="72" />
         <mark key="." line="20" column="72" />
       </file>
+      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/models/wfstudent.py" timestamp="1595536264064">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+      </file>
       <file name="$USER_HOME$/_dev/referrals-py/templates/index.html" timestamp="1582641100552">
         <mark key="[" line="0" column="0" />
       </file>
@@ -325,11 +330,11 @@
       <jump line="527" column="45" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZXN1bHQ6Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ClinBase</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>ClinBase</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkcm9wX3RhYmxlX3Rhc2tcPg==</text>
