@@ -17,7 +17,6 @@
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/procedure/proceduremethods.py" timestamp="1535468279350">
         <mark key="[" line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/customoperators/mysqltocsvoperator.py" timestamp="1595448559000" />
       <file name="/a.dummy" timestamp="1593617263673">
         <mark key="[" line="0" column="0" />
       </file>
@@ -75,7 +74,6 @@
       <file name="$USER_HOME$/_dev/python/spotify-data/spotify.py" timestamp="1518806972917">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/templates/base.html" timestamp="1593113124742" />
       <file name="$USER_HOME$/_dev/referrals-py/referrals/__init__.py" timestamp="1582641345832">
         <mark key="[" line="0" column="0" />
       </file>
@@ -100,6 +98,11 @@
         <mark key="]" line="5" column="16" />
         <mark key="." line="5" column="16" />
       </file>
+      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/michartauditdag.py" timestamp="1596657935301">
+        <mark key="[" line="11" column="62" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/_dev/referrals-py/templates/index.html" timestamp="1582641100552">
         <mark key="[" line="0" column="0" />
       </file>
@@ -109,6 +112,7 @@
       <file name="$USER_HOME$/_dev/referrals-py/templates/foot.html" timestamp="1582641050258">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1596459553263" />
       <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/configurations.py" timestamp="1576593430580">
         <mark key="[" line="12" column="0" />
       </file>
@@ -194,7 +198,6 @@
       <file name="$USER_HOME$/_dev/docker-airflow/dags/exampledag.py" timestamp="1591729438912">
         <mark key="[" line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/customoperators/jsontooracleoperator.py" timestamp="1595448239199" />
       <file name="$USER_HOME$/_dev/di-docker-airflow/docker-compose.yml" timestamp="1594826991498">
         <mark key="[" line="84" column="8" />
       </file>
@@ -339,8 +342,8 @@
       <jump line="527" column="45" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZW1vdGVfaG9zdD0nJwo=</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -352,31 +355,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vZGVsPVdmU3R1ZGVudCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZW1vdGVfaG9zdD0nJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vZGVsPVdmU3R1ZGVudCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJhc2UgPSBiYXNlCg==</text>
+        <text encoding="base64">cAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1vZGVsID0gbW9kZWwK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJhc2UgPSBiYXNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFzZSwK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1vZGVsID0gbW9kZWwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9kZWwsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFzZSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZXN1bHQ6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWwsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxhdHRlbmVkX2RhdGEgPSBsaXN0KCkgICMgdHlwZTogTGlzdFtEaWN0XQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiByZXN1bHQ6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxhdHRlbmVkX2RhdGEgPSBsaXN0KCkgICMgdHlwZTogTGlzdFtEaWN0XQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
