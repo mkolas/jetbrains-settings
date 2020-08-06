@@ -17,7 +17,7 @@
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/procedure/proceduremethods.py" timestamp="1535468279350">
         <mark key="[" line="6" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1593617263673">
+      <file name="/a.dummy" timestamp="1596738334850">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/airflow-dags/example_bash_operator.py" timestamp="1589386415911">
@@ -98,10 +98,10 @@
         <mark key="]" line="5" column="16" />
         <mark key="." line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/michartauditdag.py" timestamp="1596735701877">
-        <mark key="[" line="34" column="18" />
-        <mark key="]" line="34" column="18" />
-        <mark key="." line="34" column="18" />
+      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/michartauditdag.py" timestamp="1596737960176">
+        <mark key="[" line="3" column="62" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/referrals-py/templates/index.html" timestamp="1582641100552">
         <mark key="[" line="0" column="0" />
@@ -235,8 +235,8 @@
       <file name="$USER_HOME$/_dev/referrals-py/referrals/app.py" timestamp="1582641316184">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/models/person.py" timestamp="1595622888329">
-        <mark key="[" line="18" column="45" />
+      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/models/person.py" timestamp="1596738324433">
+        <mark key="[" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" timestamp="1593533607103">
         <mark key="'" line="527" column="45" />
@@ -349,8 +349,8 @@
       <jump line="527" column="45" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>y</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy5kdW1teV9vcGVyYXRvciBpbXBvcnQgRHVtbXlPcGVyYXRvcgo=</text>
       </register>
       <register name="-" type="4">
         <text>y</text>
@@ -362,33 +362,33 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy5kdW1teV9vcGVyYXRvciBpbXBvcnQgRHVtbXlPcGVyYXRvcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dW56aXBfZmlsZXNfdGFzawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1bnppcCBcCg==</text>
+        <text encoding="base64">dW56aXBfZmlsZXNfdGFzawo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1bnppcCBcCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>chown_file_task = SSHOperator(task_id='chown_file_task',
                               ssh_conn_id='mitools_prod',
                               command='sudo chown ')</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZW1vdGVfaG9zdD0nJwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vZGVsPVdmU3R1ZGVudCwK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vZGVsPVdmU3R1ZGVudCwK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
