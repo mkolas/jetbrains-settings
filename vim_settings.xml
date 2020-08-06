@@ -87,10 +87,10 @@
       <file name="$USER_HOME$/_dev/python/python-ml/keras-dogcat.py" timestamp="1518453845149">
         <mark key="[" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/populatepersonwhdag.py" timestamp="1595619593081">
-        <mark key="[" line="54" column="32" />
-        <mark key="]" line="54" column="32" />
-        <mark key="." line="54" column="32" />
+      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/populatepersonwhdag.py" timestamp="1596740980810">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
         <mark key="^" line="54" column="33" />
       </file>
       <file name="$USER_HOME$/_dev/di-docker-airflow/dags/models/wfstudent.py" timestamp="1595536264064">
@@ -203,6 +203,11 @@
       </file>
       <file name="$USER_HOME$/_dev/docker-airflow/dags/exampledag.py" timestamp="1591729438912">
         <mark key="[" line="4" column="30" />
+      </file>
+      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/customoperators/jsontooracleoperator.py" timestamp="1596740972931">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/di-docker-airflow/docker-compose.yml" timestamp="1594826991498">
         <mark key="[" line="84" column="8" />
@@ -350,7 +355,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy5kdW1teV9vcGVyYXRvciBpbXBvcnQgRHVtbXlPcGVyYXRvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGFibGVfbmFtZT0idW1kZW50LnBlcnNvbiIsCg==</text>
       </register>
       <register name="-" type="4">
         <text>y</text>
@@ -362,33 +367,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy5kdW1teV9vcGVyYXRvciBpbXBvcnQgRHVtbXlPcGVyYXRvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGFibGVfbmFtZT0idW1kZW50LnBlcnNvbiIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRhYmxlX25hbWUgPSB0YWJsZV9uYW1lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dW56aXBfZmlsZXNfdGFzawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICB0YWJsZV9uYW1lOiBzdHIgPSBOb25lLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1bnppcCBcCg==</text>
+        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy5kdW1teV9vcGVyYXRvciBpbXBvcnQgRHVtbXlPcGVyYXRvcgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dW56aXBfZmlsZXNfdGFzawo=</text>
       </register>
-      <register name="7" type="4">
-        <text>chown_file_task = SSHOperator(task_id='chown_file_task',
-                              ssh_conn_id='mitools_prod',
-                              command='sudo chown ')</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB1bnppcCBcCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZW1vdGVfaG9zdD0nJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vZGVsPVdmU3R1ZGVudCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
