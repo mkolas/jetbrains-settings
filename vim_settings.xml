@@ -98,11 +98,10 @@
         <mark key="]" line="5" column="16" />
         <mark key="." line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/michartauditdag.py" timestamp="1596733959892">
-        <mark key="[" line="19" column="53" />
-        <mark key="]" line="19" column="52" />
-        <mark key="." line="19" column="52" />
-        <mark key="^" line="18" column="64" />
+      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/michartauditdag.py" timestamp="1596735701877">
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="34" column="18" />
+        <mark key="." line="34" column="18" />
       </file>
       <file name="$USER_HOME$/_dev/referrals-py/templates/index.html" timestamp="1582641100552">
         <mark key="[" line="0" column="0" />
@@ -147,11 +146,11 @@
       <file name="$USER_HOME$/_dev/di-docker-airflow/dags/warehouse/organizepersons.py" timestamp="1595618695643">
         <mark key="[" line="2" column="67" />
       </file>
-      <file name="$USER_HOME$/_dev/di-docker-airflow/Dockerfile" timestamp="1596734303146">
-        <mark key="[" line="53" column="17" />
-        <mark key="]" line="54" column="14" />
-        <mark key="^" line="54" column="14" />
-        <mark key="." line="54" column="14" />
+      <file name="$USER_HOME$/_dev/di-docker-airflow/Dockerfile" timestamp="1596735569907">
+        <mark key="[" line="96" column="87" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="94" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/biopsy/requirements.txt" timestamp="1583441280733">
         <mark key="[" line="6" column="16" />
@@ -351,10 +350,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>~</text>
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>~</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkcm9wX3RhYmxlX3Rhc2tcPg==</text>
@@ -366,30 +365,30 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">dW56aXBfZmlsZXNfdGFzawo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB1bnppcCBcCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>chown_file_task = SSHOperator(task_id='chown_file_task',
                               ssh_conn_id='mitools_prod',
                               command='sudo chown ')</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZW1vdGVfaG9zdD0nJwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vZGVsPVdmU3R1ZGVudCwK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">cAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJhc2UgPSBiYXNlCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1vZGVsID0gbW9kZWwK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFzZSwK</text>
+        <text encoding="base64">cAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
