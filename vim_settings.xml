@@ -98,10 +98,11 @@
         <mark key="]" line="5" column="16" />
         <mark key="." line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/michartauditdag.py" timestamp="1596657935301">
-        <mark key="[" line="11" column="62" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/michartauditdag.py" timestamp="1596728423421">
+        <mark key="[" line="13" column="54" />
+        <mark key="]" line="13" column="69" />
+        <mark key="." line="13" column="69" />
+        <mark key="^" line="13" column="85" />
       </file>
       <file name="$USER_HOME$/_dev/referrals-py/templates/index.html" timestamp="1582641100552">
         <mark key="[" line="0" column="0" />
@@ -239,6 +240,7 @@
         <mark key="." line="526" column="19" />
         <mark key="^" line="362" column="38" />
       </file>
+      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/qualtrics_general_ssh.py" timestamp="1596728436073" />
       <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/umichldapoperator.py" timestamp="1593639973581">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -342,11 +344,11 @@
       <jump line="527" column="45" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZW1vdGVfaG9zdD0nJwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkcm9wX3RhYmxlX3Rhc2tcPg==</text>
@@ -355,31 +357,33 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZW1vdGVfaG9zdD0nJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vZGVsPVdmU3R1ZGVudCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">cAo=</text>
+      <register name="3" type="4">
+        <text>chown_file_task = SSHOperator(task_id='chown_file_task',
+                              ssh_conn_id='mitools_prod',
+                              command='sudo chown ')</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJhc2UgPSBiYXNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZW1vdGVfaG9zdD0nJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1vZGVsID0gbW9kZWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vZGVsPVdmU3R1ZGVudCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFzZSwK</text>
+        <text encoding="base64">cAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9kZWwsCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJhc2UgPSBiYXNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZXN1bHQ6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1vZGVsID0gbW9kZWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxhdHRlbmVkX2RhdGEgPSBsaXN0KCkgICMgdHlwZTogTGlzdFtEaWN0XQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFzZSwK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
