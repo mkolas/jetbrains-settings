@@ -26,11 +26,11 @@
       <file name="$USER_HOME$/_dev/biopsy-service/guniconf" timestamp="1575912629775">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/templates/configuration.html" timestamp="1593195883430">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="18" />
-        <mark key="." line="4" column="18" />
-        <mark key="^" line="32" column="7" />
+      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/templates/configuration.html" timestamp="1597090467569">
+        <mark key="[" line="28" column="40" />
+        <mark key="]" line="28" column="40" />
+        <mark key="." line="28" column="40" />
+        <mark key="^" line="28" column="40" />
       </file>
       <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/main.py" timestamp="1560780486955">
         <mark key="[" line="0" column="0" />
