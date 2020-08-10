@@ -26,11 +26,10 @@
       <file name="$USER_HOME$/_dev/biopsy-service/guniconf" timestamp="1575912629775">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/templates/configuration.html" timestamp="1597090467569">
-        <mark key="[" line="28" column="40" />
-        <mark key="]" line="28" column="40" />
-        <mark key="." line="28" column="40" />
-        <mark key="^" line="28" column="40" />
+      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/templates/configuration.html" timestamp="1597092704378">
+        <mark key="[" line="77" column="61" />
+        <mark key="]" line="77" column="61" />
+        <mark key="." line="77" column="61" />
       </file>
       <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/main.py" timestamp="1560780486955">
         <mark key="[" line="0" column="0" />
@@ -354,11 +353,11 @@
       <jump line="527" column="45" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UlVOIGFwdC1nZXQgaW5zdGFsbCAteSB6aXAgdW56aXAK</text>
+      <register name="&quot;" type="4">
+        <text>configuration</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>configuration</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkcm9wX3RhYmxlX3Rhc2tcPg==</text>
@@ -367,31 +366,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UlVOIGFwdC1nZXQgaW5zdGFsbCAteSB6aXAgdW56aXAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPDwvcD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGFibGVfbmFtZT0idW1kZW50LnBlcnNvbiIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRhYmxlX25hbWUgPSB0YWJsZV9uYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jb250cm9sIiBuYW1lPSJjb25maWdfa2V5IiBpZD0iY29uZmlnX2tleSI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICB0YWJsZV9uYW1lOiBzdHIgPSBOb25lLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iZm9ybS1sYWJlbCIgZm9yPSJjb25maWdfa2V5Ij5Ecm9wZG93biBUZXh0OjwvbGFiZWw+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy5kdW1teV9vcGVyYXRvciBpbXBvcnQgRHVtbXlPcGVyYXRvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jb250cm9sIiBuYW1lPSJjb25maWdfdmFsdWUiIGlkPSJjb25maWdfdmFsdWUiPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dW56aXBfZmlsZXNfdGFzawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iZm9ybS1sYWJlbCIgZm9yPSJjb25maWdfdmFsdWUiPkRyb3Bkb3duIFZhbHVlOjwvbGFiZWw+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB1bnppcCBcCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jb250cm9sIiBuYW1lPSJjb25maWdfdmFsdWUiIGlkPSJjb25maWdfdmFsdWUiPgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
