@@ -26,10 +26,11 @@
       <file name="$USER_HOME$/_dev/biopsy-service/guniconf" timestamp="1575912629775">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/templates/configuration.html" timestamp="1597168751066">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/templates/configuration.html" timestamp="1597170452765">
+        <mark key="[" line="71" column="62" />
+        <mark key="]" line="71" column="62" />
+        <mark key="^" line="71" column="67" />
+        <mark key="." line="71" column="62" />
       </file>
       <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/main.py" timestamp="1560780486955">
         <mark key="[" line="0" column="0" />
@@ -353,11 +354,11 @@
       <jump line="527" column="45" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGRhdGEtdG9nZ2xlPSJtb2RhbCIgZGF0YS1pZD0ie3sgY29uZmlnX2l0ZW1bJ2lkJ119fSIgZGF0YS10YXJnZXQ9IiNkZWxldGVNb2RhbCIgY2xhc3M9ImJ0biBidG4tZGFuZ2VyIHRleHQtd2hpdGUiPkRlbGV0ZTwvYT4K</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkcm9wX3RhYmxlX3Rhc2tcPg==</text>
