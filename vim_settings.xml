@@ -243,12 +243,12 @@
       <file name="$USER_HOME$/_dev/di-docker-airflow/dags/models/person.py" timestamp="1596738324433">
         <mark key="[" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" timestamp="1597258211883">
-        <mark key="'" line="529" column="45" />
-        <mark key="[" line="511" column="105" />
-        <mark key="]" line="538" column="44" />
-        <mark key="." line="538" column="44" />
-        <mark key="^" line="538" column="44" />
+      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" timestamp="1597260882777">
+        <mark key="'" line="385" column="41" />
+        <mark key="[" line="385" column="0" />
+        <mark key="]" line="385" column="0" />
+        <mark key="." line="385" column="0" />
+        <mark key="^" line="385" column="40" />
       </file>
       <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/umichldapoperator.py" timestamp="1593639973581">
         <mark key="[" line="42" column="0" />
@@ -351,56 +351,57 @@
       <jump line="495" column="58" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
       <jump line="507" column="62" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
       <jump line="527" column="45" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
+      <jump line="385" column="41" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwYXRoID0gQ04uVVBMT0FEX0ZPTERFUi5yZXBsYWNlKCJiaW9wc3lfZmxhc2svIiwgIiIpICsgZmlsZW5hbWUK</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkcm9wX3RhYmxlX3Rhc2tcPg==</text>
+        <text encoding="base64">XDxiaW9wc3lfZmxhc2tcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlID0gPwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXRoID0gQ04uVVBMT0FEX0ZPTERFUi5yZXBsYWNlKCJiaW9wc3lfZmxhc2svIiwgIiIpICsgZmlsZW5hbWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgaWQ9ImNvbmZpZ19pZCIgbmFtZT0iY29uZmlnX2lkIiB2YWx1ZT0iIiAvPiA8IS0tIHVudXNlZCAtLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlID0gPwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgaWQ9ImNvbmZpZ19pZCIgbmFtZT0iY29uZmlnX2lkIiB2YWx1ZT0iIiAvPiA8IS0tIHVudXNlZCAtLT4K</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJzdWJtaXQiIGNsYXNzPSJmb3JtLWNvbnRyb2wgYnRuIGJ0bi1kYW5nZXIiIHZhbHVlPSIgQ29uZmlndXJhdGlvbiI+Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>SET label = ?,
                 value = ?</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHRyeToK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgaWQ9ImNvbmZpZ19pZCIgbmFtZT0iY29uZmlnX2lkIiB2YWx1ZT0iIiAvPgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGRhdGEtdG9nZ2xlPSJtb2RhbCIgZGF0YS1pZD0ie3sgY29uZmlnX2l0ZW1bJ2lkJ119fSIgZGF0YS10YXJnZXQ9IiNkZWxldGVNb2RhbCIgY2xhc3M9ImJ0biBidG4tZGFuZ2VyIHRleHQtd2hpdGUiPkRlbGV0ZTwvYT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgaWQ9ImNvbmZpZ19pZCIgbmFtZT0iY29uZmlnX2lkIiB2YWx1ZT0iIiAvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkcm9wX3RhYmxlX3Rhc2tcPg==</last-search>
+      <last-search encoding="base64">XDxiaW9wc3lfZmxhc2tcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkcm9wX3RhYmxlX3Rhc2tcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxiaW9wc3lfZmxhc2tcPg==</last-pattern>
       <last-replace />
       <last-substitute>Stripped</last-substitute>
       <last-dir>-1</last-dir>
@@ -425,6 +426,7 @@
         <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
         <entry encoding="base64">XDx4XD4=</entry>
         <entry encoding="base64">XDxkcm9wX3RhYmxlX3Rhc2tcPg==</entry>
+        <entry encoding="base64">XDxiaW9wc3lfZmxhc2tcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>/%s/encounter/guarantor/g</entry>
