@@ -26,11 +26,11 @@
       <file name="$USER_HOME$/_dev/biopsy-service/guniconf" timestamp="1575912629775">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/templates/configuration.html" timestamp="1597268196774">
-        <mark key="[" line="58" column="85" />
-        <mark key="]" line="75" column="39" />
-        <mark key="." line="75" column="39" />
-        <mark key="^" line="75" column="39" />
+      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/templates/configuration.html" timestamp="1597269797679">
+        <mark key="[" line="110" column="23" />
+        <mark key="]" line="110" column="23" />
+        <mark key="^" line="110" column="20" />
+        <mark key="." line="110" column="23" />
       </file>
       <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/main.py" timestamp="1560780486955">
         <mark key="[" line="0" column="0" />
@@ -355,11 +355,11 @@
       <jump line="385" column="41" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRoID0gQ04uVVBMT0FEX0ZPTERFUi5yZXBsYWNlKCJiaW9wc3lfZmxhc2svIiwgIiIpICsgZmlsZW5hbWUK</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaW9wc3lfZmxhc2tcPg==</text>
@@ -368,32 +368,32 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRoID0gQ04uVVBMT0FEX0ZPTERFUi5yZXBsYWNlKCJiaW9wc3lfZmxhc2svIiwgIiIpICsgZmlsZW5hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCgnI2NvbmZpZ192YWx1ZScpLnZhbCgkKCIjIiArIGdldElkRnJvbVJvdyArICItdmFsdWUiKVswXS5pbm5lclRleHQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlID0gPwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCgnI2NvbmZpZ19rZXknKS52YWwoJCgiIyIgKyBnZXRJZEZyb21Sb3cgKyAiLWtleSIpWzBdLmlubmVyVGV4dCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgaWQ9ImNvbmZpZ19pZCIgbmFtZT0iY29uZmlnX2lkIiB2YWx1ZT0iIiAvPiA8IS0tIHVudXNlZCAtLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGdldElkRnJvbVJvdyA9IGJ1dHRvbi5kYXRhKCdpZCcpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXRoID0gQ04uVVBMT0FEX0ZPTERFUi5yZXBsYWNlKCJiaW9wc3lfZmxhc2svIiwgIiIpICsgZmlsZW5hbWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJzdWJtaXQiIGNsYXNzPSJmb3JtLWNvbnRyb2wgYnRuIGJ0bi1kYW5nZXIiIHZhbHVlPSIgQ29uZmlndXJhdGlvbiI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlID0gPwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>SET label = ?,
-                value = ?</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgaWQ9ImNvbmZpZ19pZCIgbmFtZT0iY29uZmlnX2lkIiB2YWx1ZT0iIiAvPiA8IS0tIHVudXNlZCAtLT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJzdWJtaXQiIGNsYXNzPSJmb3JtLWNvbnRyb2wgYnRuIGJ0bi1kYW5nZXIiIHZhbHVlPSIgQ29uZmlndXJhdGlvbiI+Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgaWQ9ImNvbmZpZ19pZCIgbmFtZT0iY29uZmlnX2lkIiB2YWx1ZT0iIiAvPgo=</text>
+      <register name="9" type="4">
+        <text>SET label = ?,
+                value = ?</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
