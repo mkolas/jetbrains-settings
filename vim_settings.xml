@@ -74,8 +74,10 @@
       <file name="$USER_HOME$/_dev/python/spotify-data/spotify.py" timestamp="1518806972917">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/antigen_students/studentappointments.py" timestamp="1598625893861">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/_dev/python/antigen_students/studentappointments.py" timestamp="1598627067195">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/referrals-py/referrals/__init__.py" timestamp="1582641345832">
         <mark key="[" line="0" column="0" />
@@ -361,11 +363,11 @@
       <jump line="385" column="41" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">W3ggZm9yIHggaW4gcmVzdWx0c10K</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaW9wc3lfZmxhc2tcPg==</text>
@@ -374,32 +376,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnI2NvbmZpZ192YWx1ZScpLnZhbCgkKCIjIiArIGdldElkRnJvbVJvdyArICItdmFsdWUiKVswXS5pbm5lclRleHQpOwo=</text>
+        <text encoding="base64">W3ggZm9yIHggaW4gcmVzdWx0c10K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnI2NvbmZpZ19rZXknKS52YWwoJCgiIyIgKyBnZXRJZEZyb21Sb3cgKyAiLWtleSIpWzBdLmlubmVyVGV4dCk7Cg==</text>
+        <text encoding="base64">Y254ID0gbXlzcWwuY29ubmVjdG9yLmNvbm5lY3QoZGF0YWJhc2U9J3dvcmxkJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGdldElkRnJvbVJvdyA9IGJ1dHRvbi5kYXRhKCdpZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCgnI2NvbmZpZ192YWx1ZScpLnZhbCgkKCIjIiArIGdldElkRnJvbVJvdyArICItdmFsdWUiKVswXS5pbm5lclRleHQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRoID0gQ04uVVBMT0FEX0ZPTERFUi5yZXBsYWNlKCJiaW9wc3lfZmxhc2svIiwgIiIpICsgZmlsZW5hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCgnI2NvbmZpZ19rZXknKS52YWwoJCgiIyIgKyBnZXRJZEZyb21Sb3cgKyAiLWtleSIpWzBdLmlubmVyVGV4dCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlID0gPwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGdldElkRnJvbVJvdyA9IGJ1dHRvbi5kYXRhKCdpZCcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgaWQ9ImNvbmZpZ19pZCIgbmFtZT0iY29uZmlnX2lkIiB2YWx1ZT0iIiAvPiA8IS0tIHVudXNlZCAtLT4K</text>
+        <text encoding="base64">ICAgICAgICBwYXRoID0gQ04uVVBMT0FEX0ZPTERFUi5yZXBsYWNlKCJiaW9wc3lfZmxhc2svIiwgIiIpICsgZmlsZW5hbWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlID0gPwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJzdWJtaXQiIGNsYXNzPSJmb3JtLWNvbnRyb2wgYnRuIGJ0bi1kYW5nZXIiIHZhbHVlPSIgQ29uZmlndXJhdGlvbiI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgaWQ9ImNvbmZpZ19pZCIgbmFtZT0iY29uZmlnX2lkIiB2YWx1ZT0iIiAvPiA8IS0tIHVudXNlZCAtLT4K</text>
       </register>
-      <register name="9" type="4">
-        <text>SET label = ?,
-                value = ?</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
