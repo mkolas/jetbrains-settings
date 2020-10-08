@@ -40,6 +40,7 @@
         <mark key="]" line="15" column="9" />
         <mark key="." line="15" column="9" />
       </file>
+      <file name="$USER_HOME$/_dev/um-shib-auth/saml/certs/sp-encrypt-cert.pem" timestamp="1602185129236" />
       <file name="$USER_HOME$/_dev/di-docker-airflow/dags/customoperators/canvasoperator.py" timestamp="1595444804960">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="1" column="5" />
@@ -90,6 +91,7 @@
       <file name="$USER_HOME$/_dev/python/spotify-data/spotify.py" timestamp="1518806972917">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/_dev/um-shib-auth/saml/certs/sp-signing-cert.pem" timestamp="1602185148253" />
       <file name="$USER_HOME$/_dev/python/antigen_students/studentappointments.py" timestamp="1598627067195">
         <mark key="[" line="12" column="30" />
         <mark key="]" line="13" column="0" />
@@ -127,7 +129,6 @@
       <file name="$USER_HOME$/_dev/referrals-py/templates/foot.html" timestamp="1582641050258">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1596459553263" />
       <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/configurations.py" timestamp="1576593430580">
         <mark key="[" line="12" column="0" />
       </file>
