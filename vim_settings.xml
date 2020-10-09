@@ -91,6 +91,11 @@
       <file name="$USER_HOME$/_dev/python/spotify-data/spotify.py" timestamp="1518806972917">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/_dev/um-shib-auth/__init__.py" timestamp="1602276935796">
+        <mark key="[" line="43" column="7" />
+        <mark key="]" line="43" column="7" />
+        <mark key="." line="43" column="7" />
+      </file>
       <file name="$USER_HOME$/_dev/um-shib-auth/Dockerfile" timestamp="1602274635927">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -377,11 +382,11 @@
       <jump line="385" column="41" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>/ Oracle</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaW9wc3lfZmxhc2tcPg==</text>
