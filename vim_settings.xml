@@ -96,8 +96,8 @@
         <mark key="]" line="43" column="7" />
         <mark key="." line="43" column="7" />
       </file>
-      <file name="$USER_HOME$/_dev/um-shib-auth/Dockerfile" timestamp="1602274635927">
-        <mark key="[" line="19" column="0" />
+      <file name="$USER_HOME$/_dev/um-shib-auth/Dockerfile" timestamp="1603378904764">
+        <mark key="[" line="26" column="59" />
         <mark key="]" line="19" column="0" />
         <mark key="^" line="2" column="39" />
         <mark key="." line="19" column="0" />
@@ -193,10 +193,10 @@
       <file name="$USER_HOME$/_dev/biopsy/requirements.txt" timestamp="1583441280733">
         <mark key="[" line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/_dev/um-shib-auth/app.py" timestamp="1602261529641">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="0" column="53" />
-        <mark key="." line="0" column="53" />
+      <file name="$USER_HOME$/_dev/um-shib-auth/app.py" timestamp="1603378868571">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/__init__.py" timestamp="1593187123556">
         <mark key="[" line="14" column="53" />
@@ -386,8 +386,8 @@
       <jump line="385" column="41" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ClJVTg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -398,32 +398,33 @@
       <register name="0" type="2">
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ClJVTg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ClJVTg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Vk9MVU1FIC9zcWxpdGVfZGF0YQo=</text>
+      <register name="4" type="4">
+        <text>if __name__ == '__main__':
+    app.run()</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Q09QWSAuL2luaXRfY29uZmlnX2NzdnMgL3NxbGl0ZV9kYXRhCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ClJVTg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC9zcWxpdGVfZGF0YQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ClJVTg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RU5WIFBBVEg9JFBBVEg6L3Vzci9saWIvb3JhY2xlLyR7cmVsZWFzZX0uJHt1cGRhdGV9L2NsaWVudDY0L2Jpbgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Vk9MVU1FIC9zcWxpdGVfZGF0YQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICAgcm0gLXJmIC92YXIvY2FjaGUveXVtCg==</text>
+        <text encoding="base64">Q09QWSAuL2luaXRfY29uZmlnX2NzdnMgL3NxbGl0ZV9kYXRhCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
