@@ -106,10 +106,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/di-docker-airflow/README.md" timestamp="1605729357979">
-        <mark key="[" line="25" column="15" />
-        <mark key="]" line="25" column="15" />
-        <mark key="." line="25" column="15" />
+      <file name="$USER_HOME$/_dev/di-docker-airflow/README.md" timestamp="1605730093708">
+        <mark key="[" line="40" column="69" />
+        <mark key="]" line="42" column="52" />
+        <mark key="." line="42" column="52" />
+        <mark key="^" line="42" column="52" />
       </file>
       <file name="$USER_HOME$/_dev/referrals-py/referrals/__init__.py" timestamp="1582641345832">
         <mark key="[" line="0" column="0" />
@@ -390,11 +391,11 @@
       <jump line="385" column="41" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>branc</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Mi5kIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>branc</text>
+        <text>Check webserver, make sure that DAG is flipped to ON</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaW9wc3lfZmxhc2tcPg==</text>
@@ -403,7 +404,7 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Mi5kIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -412,23 +413,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UlVOIGFwdC1nZXQgaW5zdGFsbCAteSBsaWJ4bWxzZWMxLWRldiBwa2ctY29uZmlnCg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIGFwdC1nZXQgaW5zdGFsbCAteSBsaWJ4bWxzZWMxLWRldiBwa2ctY29uZmlnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>if __name__ == '__main__':
-    app.run()</text>
+      <register name="8" type="2">
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
