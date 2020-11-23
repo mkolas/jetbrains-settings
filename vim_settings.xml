@@ -46,7 +46,6 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/saml/settings.json" timestamp="1605631308338" />
       <file name="$USER_HOME$/personal/ebay_test/templates/index.html" timestamp="1600188949358">
         <mark key="[" line="36" column="17" />
         <mark key="]" line="36" column="17" />
@@ -253,8 +252,8 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/di-docker-airflow/docker-compose.yml" timestamp="1594826991498">
-        <mark key="[" line="84" column="8" />
+      <file name="$USER_HOME$/_dev/di-docker-airflow/docker-compose.yml" timestamp="1606153849985">
+        <mark key="[" line="33" column="11" />
       </file>
       <file name="$USER_HOME$/_dev/python/discord/testfile.txt" timestamp="1562603320029">
         <mark key="[" line="0" column="0" />
@@ -307,6 +306,12 @@
       </file>
       <file name="$USER_HOME$/_dev/python/advent2018/09/9.py" timestamp="1544479756357">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/_dev/di-docker-airflow/config/airflow.cfg" timestamp="1606154282105">
+        <mark key="[" line="350" column="7" />
+        <mark key="]" line="350" column="10" />
+        <mark key="." line="350" column="10" />
+        <mark key="^" line="350" column="10" />
       </file>
       <file name="$USER_HOME$/_dev/airflow-dags/peopleloader.py" timestamp="1588106369804">
         <mark key="[" line="0" column="0" />
@@ -391,11 +396,11 @@
       <jump line="385" column="41" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Mi5kIAo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>Check webserver, make sure that DAG is flipped to ON</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaW9wc3lfZmxhc2tcPg==</text>
