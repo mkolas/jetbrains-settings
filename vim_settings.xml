@@ -5,8 +5,11 @@
       <mark key="N" line="288" column="21" filename="$USER_HOME$/_dev/python/ice-json-create/models.py" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/canvas_extract_ssh.py" timestamp="1594826126590">
-        <mark key="[" line="6" column="33" />
+      <file name="$USER_HOME$/_dev/dent-etl-utilities/Dockerfile" timestamp="1608065052817">
+        <mark key="[" line="24" column="23" />
+        <mark key="]" line="24" column="23" />
+        <mark key="." line="24" column="23" />
+        <mark key="^" line="24" column="22" />
       </file>
       <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/xcomoperator.py" timestamp="1592941505022">
         <mark key="[" line="13" column="0" />
@@ -14,26 +17,11 @@
         <mark key="^" line="18" column="29" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/procedure/proceduremethods.py" timestamp="1535468279350">
-        <mark key="[" line="6" column="20" />
-      </file>
-      <file name="/a.dummy" timestamp="1596738334850">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/airflow-dags/example_bash_operator.py" timestamp="1589386415911">
-        <mark key="[" line="24" column="27" />
-      </file>
-      <file name="$USER_HOME$/_dev/biopsy-service/guniconf" timestamp="1575912629775">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/templates/configuration.html" timestamp="1597325682355">
         <mark key="[" line="55" column="29" />
         <mark key="]" line="55" column="29" />
         <mark key="^" line="110" column="20" />
         <mark key="." line="55" column="29" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/main.py" timestamp="1560780486955">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/personal/ebay_test/ebay.yaml" timestamp="1600184756984">
         <mark key="[" line="15" column="8" />
@@ -51,9 +39,6 @@
         <mark key="]" line="36" column="17" />
         <mark key="." line="36" column="17" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/query.txt" timestamp="1559852453859">
-        <mark key="[" line="3" column="36" />
-      </file>
       <file name="$USER_HOME$/_dev/docker-airflow/dags/customoperators/jsontomysqloperator.py" timestamp="1593007937285">
         <mark key="[" line="29" column="8" />
         <mark key="]" line="29" column="8" />
@@ -66,30 +51,13 @@
         <mark key="^" line="50" column="55" />
         <mark key="." line="50" column="54" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/main.py" timestamp="1555435146118">
-        <mark key="[" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/docker-airflow/dags/scripts/sample_script.sh" timestamp="1591711324706">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/joindatabases.py" timestamp="1583107292895">
-        <mark key="[" line="214" column="74" />
-      </file>
       <file name="$USER_HOME$/personal/ebay_test/main.py" timestamp="1600188136495">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
         <mark key="^" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/python/michart-python/scripts/testmrns/tester.py" timestamp="1559744169543">
-        <mark key="[" line="15" column="25" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/findings/findingcodes.py" timestamp="1541539476099">
-        <mark key="[" line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/spotify-data/spotify.py" timestamp="1518806972917">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/_dev/dent-etl-utilities/get_dent_students.py" timestamp="1608064428826" />
       <file name="$USER_HOME$/_dev/um-shib-auth/__init__.py" timestamp="1602276935796">
         <mark key="[" line="43" column="7" />
         <mark key="]" line="43" column="7" />
@@ -111,17 +79,11 @@
         <mark key="." line="42" column="52" />
         <mark key="^" line="42" column="52" />
       </file>
-      <file name="$USER_HOME$/_dev/referrals-py/referrals/__init__.py" timestamp="1582641345832">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/biopsy/Dockerfile" timestamp="1608062259743">
+      <file name="$USER_HOME$/_dev/biopsy/Dockerfile" timestamp="1608064442075">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="5" column="14" />
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/python-ml/keras-dogcat.py" timestamp="1518453845149">
-        <mark key="[" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/di-docker-airflow/dags/populatepersonwhdag.py" timestamp="1596747246423">
         <mark key="[" line="50" column="0" />
@@ -140,33 +102,15 @@
         <mark key="." line="24" column="20" />
         <mark key="^" line="24" column="24" />
       </file>
-      <file name="$USER_HOME$/_dev/referrals-py/templates/index.html" timestamp="1582641100552">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/mapfunctions.py" timestamp="1607031488437">
         <mark key="[" line="74" column="61" />
       </file>
-      <file name="$USER_HOME$/_dev/referrals-py/templates/foot.html" timestamp="1582641050258">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1604512705311" />
-      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/configurations.py" timestamp="1576593430580">
-        <mark key="[" line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/_dev/biopsy/.config" timestamp="1607101332616">
         <mark key="[" line="3" column="42" />
         <mark key="]" line="3" column="42" />
         <mark key="^" line="3" column="42" />
         <mark key="." line="3" column="42" />
-      </file>
-      <file name="/Python Console" timestamp="1600187061845">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1600187019476">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/docker-airflow/dags/warehouse/organize_persons.py" timestamp="1593617249365">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/di-docker-airflow/dags/customoperators/mysqltojsonoperator.py" timestamp="1595618613538">
         <mark key="[" line="26" column="49" />
@@ -185,15 +129,6 @@
         <mark key="]" line="7" column="19" />
         <mark key="^" line="14" column="16" />
         <mark key="." line="7" column="19" />
-      </file>
-      <file name="$USER_HOME$/_dev/referrals-py/templates/head.html" timestamp="1582641086247">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/shibboleth-poc/Dockerfile" timestamp="1589222654602">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/warehouse/organizepersons.py" timestamp="1596824017946">
-        <mark key="[" line="2" column="67" />
       </file>
       <file name="$USER_HOME$/_dev/di-docker-airflow/Dockerfile" timestamp="1598020520117">
         <mark key="[" line="97" column="0" />
@@ -215,44 +150,11 @@
         <mark key="." line="41" column="8" />
         <mark key="^" line="27" column="1" />
       </file>
-      <file name="$USER_HOME$/_dev/shibboleth-poc/requirements.txt" timestamp="1583432486201">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/templates/form.html" timestamp="1597330320591">
-        <mark key="[" line="688" column="30" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/kmeans-mich-voters/centroids.csv" timestamp="1519077019292">
-        <mark key="[" line="13" column="25" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/providers/customfields.py" timestamp="1529697843340">
-        <mark key="[" line="9" column="32" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/wsse/main.py" timestamp="1555349227902">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/shibboleth-poc/guniconf" timestamp="1583443437165">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/euler/1-fizzbuzz.py" timestamp="1516203913077">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1600187396831">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/database-scripts/mpitools/__init__.py" timestamp="1560780204229">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/drwangprocedures/main.py" timestamp="1596033825557">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/_dev/biopsy/README.md" timestamp="1593191951497">
         <mark key="[" line="72" column="23" />
         <mark key="]" line="72" column="23" />
         <mark key="." line="72" column="23" />
         <mark key="^" line="72" column="27" />
-      </file>
-      <file name="$USER_HOME$/_dev/docker-airflow/dags/exampledag.py" timestamp="1591729438912">
-        <mark key="[" line="4" column="30" />
       </file>
       <file name="$USER_HOME$/_dev/di-docker-airflow/dags/customoperators/jsontooracleoperator.py" timestamp="1596740972931">
         <mark key="[" line="20" column="0" />
@@ -265,18 +167,6 @@
         <mark key="^" line="30" column="42" />
         <mark key="." line="30" column="42" />
       </file>
-      <file name="$USER_HOME$/_dev/python/discord/testfile.txt" timestamp="1562603320029">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/referrals-py/requirements.txt" timestamp="1582641203324">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/ehr_shared_meds/axium sql query.txt" timestamp="1574114593600">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/docker-airflow/dags/canvastocsv.py" timestamp="1591120388076">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/_dev/ldap-poc/mcommunity.py" timestamp="1593639456975">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="16" column="10" />
@@ -286,12 +176,6 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/euler/618-primefactorsum.py" timestamp="1516212441249">
-        <mark key="[" line="47" column="26" />
-      </file>
-      <file name="$USER_HOME$/_dev/referrals-py/referrals/app.py" timestamp="1582641316184">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/di-docker-airflow/docker-compose-prod.yml" timestamp="1606237157614">
         <mark key="[" line="29" column="0" />
@@ -303,9 +187,6 @@
         <mark key="[" line="7" column="5" />
         <mark key="]" line="7" column="5" />
         <mark key="." line="7" column="5" />
-      </file>
-      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/models/person.py" timestamp="1596738324433">
-        <mark key="[" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" timestamp="1607098528254">
         <mark key="'" line="402" column="41" />
@@ -325,17 +206,11 @@
         <mark key="." line="16" column="16" />
         <mark key="^" line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/_dev/python/advent2018/09/9.py" timestamp="1544479756357">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/_dev/di-docker-airflow/config/airflow.cfg" timestamp="1606158036727">
         <mark key="[" line="350" column="7" />
         <mark key="]" line="350" column="10" />
         <mark key="." line="350" column="10" />
         <mark key="^" line="350" column="10" />
-      </file>
-      <file name="$USER_HOME$/_dev/airflow-dags/peopleloader.py" timestamp="1588106369804">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -418,10 +293,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>7</text>
+        <text>-server</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>-server</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaW9wc3lfZmxhc2tcPg==</text>
@@ -429,32 +304,32 @@
       <register name="0" type="2">
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">UlVOIGFwdC1nZXQgaW5zdGFsbCAteSBldiBwa2ctY29uZmlnCg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">CmxpYnhtbHNlYzEtZGV2</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">NC4gRXhlY3V0ZSB0aGUgYGVudHJ5cG9pbnQuc2hgIHNjcmlwdCBpbiB0aGUgcm9vdCBvZiB0aGUgY29udGFpbmVyIHRvIGdldCB0aGUgY29ycmVjdCBlbnZpcm9ubWVudCB2YXJpYWJsZXMgc2V0IHVwIG9uIHlvdXIgc2hlbGwgc28gdGhhdCB5b3UgY2FuIGNvbm5lY3QgdG8gdGhlIGRhdGFiYXNlIGZyb20gYmFzaC4K</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLSBBSVJGTE9XX19XRUJTRVJWRVJfX0FVVEhfQkFDS0VORD1haXJmbG93LmNvbnRyaWIuYmFja2VuZHMucGFzc3dvcmRfYXV0aAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLSBBSVJGTE9XX19HT09HTEVfX0RPTUFJTj11bWljaC5lZHUK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLSBBSVJGTE9XX19HT09HTEVfX09BVVRIX0NBTExCQUNLX1JPVVRFPS9vYXV0aDJjYWxsYmFjawo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLSBBSVJGTE9XX19HT09HTEVfX0NMSUVOVF9TRUNSRVQ9aEF3dmlCZU5iY2EzYjBSZTN3TzNjbENrCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLSBBSVJGTE9XX19HT09HTEVfX0NMSUVOVF9JRD04MTE2NDcwMTQyMzQtaW44cGUyMmc2Y3I0c2U3am9qODQwY3J2cmhyYTY2NGYuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAtIEFJUkZMT1dfX0dPT0dMRV9fRE9NQUlOPXVtaWNoLmVkdQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAtIEFJUkZMT1dfX0dPT0dMRV9fT0FVVEhfQ0FMTEJBQ0tfUk9VVEU9L29hdXRoMmNhbGxiYWNrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAtIEFJUkZMT1dfX0dPT0dMRV9fRE9NQUlOPXVtaWNoLmVkdQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
