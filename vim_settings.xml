@@ -70,6 +70,12 @@
         <mark key="]" line="36" column="17" />
         <mark key="." line="36" column="17" />
       </file>
+      <file name="$USER_HOME$/_dev/exrefpy/requirements.txt" timestamp="1611169917662">
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="23" />
+        <mark key="^" line="19" column="14" />
+        <mark key="." line="20" column="23" />
+      </file>
       <file name="$USER_HOME$/_dev/biopsy/requirements.txt" timestamp="1608062130649">
         <mark key="[" line="6" column="16" />
       </file>
@@ -301,10 +307,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaW9wc3lfZmxhc2tcPg==</text>
