@@ -42,7 +42,7 @@
         <mark key="." line="24" column="22" />
         <mark key="^" line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/_dev/exrefpy/app/__init__.py" timestamp="1611610295085">
+      <file name="$USER_HOME$/_dev/exrefpy/app/__init__.py" timestamp="1611611431748">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
@@ -339,35 +339,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZWRpcmVjdChyZXFbJ3Bvc3RfZGF0YSddWydSZWxheVN0YXRlJ10pCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>@app.route('/saml/acs', methods=['GET', 'POST'])
-def saml_acs():
-    req = prepare_flask_request(request)
-    auth = init_saml_auth(req)  # Constructor of the SP, loads settings.json
-    auth.process_response()
-    session['auth_user'] = auth.get_attribute('http://its.umich.edu/shibboleth/attributes/umichPrincipalName')[0]
-    # if 'RelayState' in req['post_data']:
-    return redirect(req['post_data']['RelayState'])</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmICdSZWxheVN0YXRlJyBpbiByZXFbJ3Bvc3RfZGF0YSddOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgc2Vzc2lvblsnYXV0aCddID0gYXV0aAo=</text>
+        <text encoding="base64">ICAgIHNlc3Npb25bJ2F1dGhfdXNlciddID0gYXV0aC5nZXRfYXR0cmlidXRlKCdodHRwOi8vaXRzLnVtaWNoLmVkdS9zaGliYm9sZXRoL2F0dHJpYnV0ZXMvdW1pY2hQcmluY2lwYWxOYW1lJylbMF0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZWRpcmVjdChhdXRoLmxvZ2luKCkpCg==</text>
+        <text encoding="base64">ICAgICMgc2Vzc2lvblsnYXV0aCddID0gYXV0aAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGF1dGgubG9naW4oKSkK</text>
+        <text encoding="base64">ICAgIGF1dGgucHJvY2Vzc19yZXNwb25zZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgYXV0aC5sb2dpbigpICAgICAgICAgICAgICAgICMgTWV0aG9kIHRoYXQgYnVpbGRzIGFuZCBzZW5kcyB0aGUgQXV0aE5SZXF1ZXN0Cg==</text>
+        <text encoding="base64">ICAgIGF1dGggPSBpbml0X3NhbWxfYXV0aChyZXEpICAjIENvbnN0cnVjdG9yIG9mIHRoZSBTUCwgbG9hZHMgc2V0dGluZ3MuanNvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
+        <text encoding="base64">ICAgIHJlcSA9IHByZXBhcmVfZmxhc2tfcmVxdWVzdChyZXF1ZXN0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IGNoZWNrX3VzZXJfYWNjZXNzKCkK</text>
+        <text encoding="base64">ZGVmIHNhbWxfc3NvKCk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
