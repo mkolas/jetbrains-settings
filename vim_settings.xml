@@ -135,6 +135,15 @@
         <mark key="^" line="3" column="42" />
         <mark key="." line="3" column="42" />
       </file>
+      <file name="/Python Console" timestamp="1611776084368">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1611776046593">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
       <file name="$USER_HOME$/_dev/di-docker-airflow/dags/customoperators/mysqltojsonoperator.py" timestamp="1595618613538">
         <mark key="[" line="26" column="49" />
         <mark key="]" line="28" column="0" />
@@ -226,8 +235,11 @@
         <mark key="]" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/_dev/exrefpy/app/mcommunity.py" timestamp="1611774238597">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/_dev/exrefpy/app/mcommunity.py" timestamp="1611776050651">
+        <mark key="[" line="9" column="69" />
+        <mark key="]" line="9" column="68" />
+        <mark key="^" line="9" column="89" />
+        <mark key="." line="9" column="68" />
       </file>
       <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" timestamp="1611766049116">
         <mark key="'" line="402" column="41" />
@@ -334,10 +346,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICA8YSBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiBo</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICA8YSBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiBo</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaW9wc3lfZmxhc2tcPg==</text>
