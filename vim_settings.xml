@@ -51,6 +51,11 @@
         <mark key="]" line="36" column="17" />
         <mark key="." line="36" column="17" />
       </file>
+      <file name="$USER_HOME$/_dev/exrefpy/app/templates/tables/endodontics-table.html" timestamp="1611779752346">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="4" />
+        <mark key="." line="61" column="4" />
+      </file>
       <file name="$USER_HOME$/_dev/exrefpy/requirements.txt" timestamp="1611772617631">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="37" column="23" />
@@ -69,7 +74,7 @@
         <mark key="^" line="50" column="55" />
         <mark key="." line="50" column="54" />
       </file>
-      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/customoperators/umichldapoperator.py" timestamp="1611774005810" />
+      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/customoperators/umichldapoperator.py" timestamp="1611779677532" />
       <file name="$USER_HOME$/personal/ebay_test/main.py" timestamp="1600188136495">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -135,10 +140,10 @@
         <mark key="^" line="3" column="42" />
         <mark key="." line="3" column="42" />
       </file>
-      <file name="/Python Console" timestamp="1611776084368">
+      <file name="/Python Console" timestamp="1611777812434">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1611776046593">
+      <file name="/fragment.py" timestamp="1611777802465">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="14" />
@@ -167,11 +172,11 @@
         <mark key="]" line="174" column="24" />
         <mark key="." line="174" column="24" />
       </file>
-      <file name="$USER_HOME$/_dev/exrefpy/app/routes.py" timestamp="1611682952106">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/_dev/exrefpy/app/routes.py" timestamp="1611779626251">
+        <mark key="[" line="163" column="91" />
+        <mark key="]" line="163" column="4" />
+        <mark key="^" line="163" column="115" />
+        <mark key="." line="163" column="4" />
       </file>
       <file name="$USER_HOME$/_dev/di-docker-airflow/Dockerfile" timestamp="1598020520117">
         <mark key="[" line="97" column="0" />
@@ -214,6 +219,11 @@
         <mark key="." line="30" column="42" />
       </file>
       <file name="$USER_HOME$/_dev/exrefpy/app/forms.py" timestamp="1611686301610" />
+      <file name="$USER_HOME$/_dev/exrefpy/app/templates/tables/unauthorized.html" timestamp="1611779211594">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/_dev/ldap-poc/mcommunity.py" timestamp="1593639456975">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="16" column="10" />
@@ -235,11 +245,10 @@
         <mark key="]" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/_dev/exrefpy/app/mcommunity.py" timestamp="1611776050651">
-        <mark key="[" line="9" column="69" />
-        <mark key="]" line="9" column="68" />
-        <mark key="^" line="9" column="89" />
-        <mark key="." line="9" column="68" />
+      <file name="$USER_HOME$/_dev/exrefpy/app/mcommunity.py" timestamp="1611778091448">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" timestamp="1611766049116">
         <mark key="'" line="402" column="41" />
@@ -346,10 +355,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaW9wc3lfZmxhc2tcPg==</text>
@@ -357,32 +366,32 @@
       <register name="0" type="2">
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICMgaWYgJ1JlbGF5U3RhdGUnIGluIHJlcVsncG9zdF9kYXRhJ10gYW5kIHNlbGZfdXJsICE9IHJlcVsncG9zdF9kYXRhJ11bJ1JlbGF5U3RhdGUnXToKICAgICMgICAgIHJldHVybiByZWRpcmVjdChyZXFbJ3Bvc3RfZGF0YSddWydSZWxheVN0YXRlJ10p</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVuZGVyX3RlbXBsYXRlKCcvdGFibGVzL3VuYXV0aG9yaXplZC5odG1sJywgdW5pcW5hbWU9c2Vzc2lvblsnYXV0aF91c2VyJ10pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QGNzcmYuZXhlbXB0Cg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBmbGFza193dGYgaW1wb3J0IGNzcmYK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZWRfaW4gPSBUcnVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNzcmYK</text>
+        <text encoding="base64">ICAgIGlmIHNlc3Npb25bJ2F1dGhfdXNlciddIGlzIG5vdCBOb25lOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgc2Vzc2lvblsnYXV0aCddID0gYXV0aAo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlZF9pbiA9IEZhbHNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIHJlcXVlc3QuZW5kcG9pbnQgaXMgTm9uZToK</text>
+        <text encoding="base64">PAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ZGl2IGNsYXNzPSJjb250YWluZXItZmx1aWQgbWItNCI+CiAgICA8ZGl2IGNsYXNzPSJyb3ciPgogICAgICAgIDxkaXYgY2xhc3M9ImNvbC0xMCBvZmZzZXQtMSI+CiAgICAgICAgICAgIDxoMiBjbGFzcz0ibXktMiI+RU5ET0RPTlRJQ1MgU1VCTUlTU0lPTlM8L2gyPgogICAgICAgIDwvZGl2PgogICAgPC9kaXY+CjwvZGl2Pgo8ZGl2IGNsYXNzPSJjb250YWluZXItZmx1aWQiPgogICAgPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtMTAgb2Zmc2V0LTEiPgogICAgICAgICAgICA8aHI+CiAgICAgICAgICAgIFRvdGFsIFJlc3VsdHM6IHt7IHJlZmVycmFsc3xsZW5ndGggfX08YnI+CgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJ0YWJsZS1yZXNwb25zaXZlIj4KCgogICAgICAgICAgICAgICAgPCEtLTxhIGhyZWY9Int7IHVybF9mb3IoJ3N0YXRpYycsIGZpbGVuYW1lPSdyZWZlcnJhbHMvR3JleV9OaW5hLnBkZicpIH19Ij5OaW5hIEdyZXk8L2E+PGJyPi0tPgoKICAgICAgICAgICAgICAgIDx0YWJsZSBpZD0iZW5kb2RvbnRpY3Mtb3BzLXRhYmxlIiBjbGFzcz0idGFibGUgdGFibGUtc3RyaXBlZCB0YWJsZS1ib3JkZXJlZCBkdC1yZXNwb25zaXZlIG5vd3JhcCIgc3R5bGU9IndpZHRoOjEwMCUiPgogICAgICAgICAgICAgICAgICAgIDx0aGVhZD4KICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0aD5SZWYgSUQ8L3RoPgogICAgICAgICAgICAgICAgICAgICAgICA8dGg+UGF0aWVudDwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0aD5SZWYuRG9jLjwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0aD5UaW1lPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRoPlJlYXNvbjwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0aD5Qcm9jZWR1cmVzPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRoPlRlZXRoPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRoPlJlZmVycmFsPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRoPkF0dGFjaG1lbnRzPC90aD4KICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgIDwvdGhlYWQ+CiAgICAgICAgICAgICAgICAgICAgPHRib2R5PgoKICAgICAgICAgICAgICAgICAgICB7JSBmb3IgciBpbiByZWZlcnJhbHMgJX0KICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD57eyByLmlkIH19PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnt7IHIucHRfbmFtZSB9fTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD57eyByLmRvY19uYW1lIH19PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnt7IHIuZGF0ZXRpbWUgfX08L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgci5wdF9yZWFzb25zIH19PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnt7IHIucHJvY19saXN0IH19PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnt7IHIucHJvY190ZWV0aCB9fTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD48YSBocmVmPSIvc3RhdGljL3JlZmVycmFscy9lbmRvL3t7IHIucmVmX2xpbmsgfX0iPnt7IHIucHRfbmFtZSB9fSBQREY8L2E+IDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD48YSBocmVmPSIvc3RhdGljL3VwbG9hZHMvZW5kby8ie3sgci51cGxvYWRzIH19PC90ZD4KCiAgICAgICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAgICAgICB7JSBlbmRmb3IgJX0KICAgICAgICAgICAgICAgICAgICA8L3Rib2R5PgogICAgICAgICAgICAgICAgPC90YWJsZT4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KPC9kaXY+</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZWRpcmVjdChyZXFbJ3Bvc3RfZGF0YSddWydSZWxheVN0YXRlJ10pCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHVuaXFuYW1lcykK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
