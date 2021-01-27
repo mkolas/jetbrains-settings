@@ -54,8 +54,10 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/_dev/exrefpy/app/templates/base.html" timestamp="1611767433146">
-        <mark key="[" line="155" column="86" />
+      <file name="$USER_HOME$/_dev/exrefpy/app/templates/base.html" timestamp="1611767515186">
+        <mark key="[" line="174" column="24" />
+        <mark key="]" line="174" column="24" />
+        <mark key="." line="174" column="24" />
       </file>
       <file name="$USER_HOME$/_dev/biopsy/biopsy_flask/templates/configuration.html" timestamp="1597325682355">
         <mark key="[" line="55" column="29" />
@@ -91,7 +93,7 @@
         <mark key="]" line="36" column="17" />
         <mark key="." line="36" column="17" />
       </file>
-      <file name="$USER_HOME$/_dev/exrefpy/requirements.txt" timestamp="1611334002125">
+      <file name="$USER_HOME$/_dev/exrefpy/requirements.txt" timestamp="1611768182926">
         <mark key="[" line="37" column="14" />
         <mark key="]" line="37" column="23" />
         <mark key="^" line="36" column="14" />
@@ -139,7 +141,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1611007877105">
+      <file name="/Dummy.txt" timestamp="1611767864776">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/python/antigen_students/studentappointments.py" timestamp="1598627067195">
@@ -328,10 +330,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICMgaWYgJ1JlbGF5U3RhdGUnIGluIHJlcVsncG9zdF9kYXRhJ10gYW5kIHNlbGZfdXJsICE9IHJlcVsncG9zdF9kYXRhJ11bJ1JlbGF5U3RhdGUnXToKICAgICMgICAgIHJldHVybiByZWRpcmVjdChyZXFbJ3Bvc3RfZGF0YSddWydSZWxheVN0YXRlJ10p</text>
+        <text encoding="base64">ICAgICAgICAgICA8YSBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiBo</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text encoding="base64">ICAgICAgICAgICA8YSBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiBo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaW9wc3lfZmxhc2tcPg==</text>
