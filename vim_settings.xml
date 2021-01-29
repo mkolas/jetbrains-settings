@@ -180,11 +180,10 @@
         <mark key="]" line="174" column="24" />
         <mark key="." line="174" column="24" />
       </file>
-      <file name="$USER_HOME$/_dev/exrefpy/app/routes.py" timestamp="1611877930840">
-        <mark key="[" line="159" column="18" />
-        <mark key="]" line="159" column="7" />
-        <mark key="^" line="4" column="79" />
-        <mark key="." line="159" column="7" />
+      <file name="$USER_HOME$/_dev/exrefpy/app/routes.py" timestamp="1611932626199">
+        <mark key="[" line="27" column="53" />
+        <mark key="]" line="28" column="16" />
+        <mark key="." line="28" column="16" />
       </file>
       <file name="$USER_HOME$/_dev/di-docker-airflow/Dockerfile" timestamp="1598020520117">
         <mark key="[" line="97" column="0" />
@@ -363,11 +362,11 @@
       <jump line="385" column="41" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHVuaXFuYW1lID0gc2Vzc2lvblsnYXV0aF91c2VyJ10K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Checks to see if the session user is in the named group. Returns the user as</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaW9wc3lfZmxhc2tcPg==</text>
@@ -376,31 +375,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnLmF1dGhfdXNlciA9IHNlc3Npb25bJ2F1dGhfdXNlciddCg==</text>
+        <text encoding="base64">ICAgIHVuaXFuYW1lID0gc2Vzc2lvblsnYXV0aF91c2VyJ10K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF1dGhvcml6ZWQgPSBUcnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoaW5fbWNvbW11bml0eV9ncm91cCgnbWtvbGFzJywgJ09NRlMgRVhUUkVGJykpCg==</text>
+        <text encoding="base64">ICAgIGlmICcnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZ3BhcnNlcgo=</text>
+        <text encoding="base64">ICAgIHVuaXFuYW1lID0gTm9uZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVuZGVyX3RlbXBsYXRlKCcvdGFibGVzL3VuYXV0aG9yaXplZC5odG1sJywgdW5pcW5hbWU9c2Vzc2lvblsnYXV0aF91c2VyJ10pCg==</text>
+        <text encoding="base64">ICAgIGF1dGhvcml6ZWQgPSBGYWxzZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZWRfaW4gPSBUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZy5hdXRoX3VzZXIgPSBzZXNzaW9uWydhdXRoX3VzZXInXSAgIyBwdXQgc2Vzc2lvbiB2YXIgdG8gZ2xvYmFsIGNvbnRleHQgZm9yIGVhc2Ugb2YgdXNlIGluIHJlc3Qgb2YgY29kZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIHNlc3Npb25bJ2F1dGhfdXNlciddIGlzIG5vdCBOb25lOgo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlZF9pbiA9IEZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAgICAgYWJvcnQoNDAxKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
