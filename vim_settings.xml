@@ -34,6 +34,11 @@
       <file name="$USER_HOME$/_dev/exrefpy/app/saml/certs/sp-encrypt-cert.pem" timestamp="1611937569976">
         <mark key="[" line="1" column="63" />
       </file>
+      <file name="$USER_HOME$/_dev/di-docker-airflow/docker-compose-2.0.yml" timestamp="1612386369900">
+        <mark key="[" line="50" column="35" />
+        <mark key="]" line="50" column="35" />
+        <mark key="." line="50" column="35" />
+      </file>
       <file name="$USER_HOME$/_dev/exrefpy/app/templates/tables/endodontics-table.html" timestamp="1611865310882">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="4" />
@@ -178,11 +183,11 @@
       <jump line="385" column="41" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBhaXJmbG93LnByb3ZpZAo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>operators.oracle_operator import OracleHook</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaW9wc3lfZmxhc2tcPg==</text>
