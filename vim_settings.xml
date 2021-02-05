@@ -1,12 +1,58 @@
 <application>
-  <component name="VimSettings">
-    <state version="4" enabled="true" />
-    <globalmarks>
-      <mark key="N" line="288" column="21" filename="$USER_HOME$/_dev/python/ice-json-create/models.py" protocol="file" />
-    </globalmarks>
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>Perio</entry>
+        <entry>Base</entry>
+        <entry>self</entry>
+        <entry>dontia</entry>
+        <entry>primaryClinic</entry>
+        <entry encoding="base64">XDxyZXN1bHRzXD4=</entry>
+        <entry>print</entry>
+        <entry>encounter</entry>
+        <entry>StrippedString</entry>
+        <entry>Stripped</entry>
+        <entry>1000</entry>
+        <entry encoding="base64">XDxjb25uZWN0XD4=</entry>
+        <entry>config</entry>
+        <entry>upload</entry>
+        <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
+        <entry encoding="base64">XDx4XD4=</entry>
+        <entry encoding="base64">XDxkcm9wX3RhYmxlX3Rhc2tcPg==</entry>
+        <entry encoding="base64">XDxiaW9wc3lfZmxhc2tcPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>/%s/encounter/guarantor/g</entry>
+        <entry>%s/encounter/guarantor/g</entry>
+        <entry>%s/StrippedString//g</entry>
+        <entry>%s/Stripped//g</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/models.py" timestamp="1612270528692" />
-      <file name="/Python Console" timestamp="1612538743683">
+      <file name="/Python Console" timestamp="1612538984435">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1611953427527">
@@ -18,25 +64,16 @@
         <mark key="." line="101" column="0" />
         <mark key="^" line="101" column="41" />
       </file>
-      <file name="$USER_HOME$/_dev/classroomcalendarv1/requirements.txt" timestamp="1612538453093">
-        <mark key="[" line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/_dev/exrefpy/app/templates/base.html" timestamp="1611767515186">
-        <mark key="[" line="174" column="24" />
-        <mark key="]" line="174" column="24" />
-        <mark key="." line="174" column="24" />
-      </file>
-      <file name="$USER_HOME$/_dev/di-docker-airflow/Dockerfile-1.0" timestamp="1612391906498" />
-      <file name="$USER_HOME$/_dev/exrefpy/app/routes.py" timestamp="1611932626199">
-        <mark key="[" line="27" column="53" />
-        <mark key="]" line="28" column="16" />
-        <mark key="." line="28" column="16" />
+      <file name="$USER_HOME$/_dev/classroomcalendarv1/requirements.txt" timestamp="1612539651255">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/exrefpy/configprod.py" timestamp="1611953564510">
         <mark key="[" line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/_dev/exrefpy/app/saml/certs/sp-encrypt-cert.pem" timestamp="1611937569976">
-        <mark key="[" line="1" column="63" />
+      <file name="$USER_HOME$/_dev/classroomcalendarv1/app/__init__.py" timestamp="1612539937689">
+        <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/di-docker-airflow/Dockerfile" timestamp="1612388365120">
         <mark key="[" line="112" column="0" />
@@ -46,15 +83,10 @@
         <mark key="]" line="51" column="35" />
         <mark key="." line="51" column="35" />
       </file>
-      <file name="$USER_HOME$/_dev/classroomcalendarv1/Dockerfile" timestamp="1612538825547">
-        <mark key="[" line="6" column="0" />
+      <file name="$USER_HOME$/_dev/classroomcalendarv1/Dockerfile" timestamp="1612539832723">
+        <mark key="[" line="26" column="32" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/exrefpy/app/templates/tables/endodontics-table.html" timestamp="1611865310882">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="4" />
-        <mark key="." line="61" column="4" />
       </file>
       <file name="$USER_HOME$/_dev/exrefpy/requirements.txt" timestamp="1612538449980">
         <mark key="[" line="0" column="0" />
@@ -62,21 +94,12 @@
         <mark key="^" line="36" column="14" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/biopsy/requirements.txt" timestamp="1611171798283">
-        <mark key="[" line="6" column="16" />
-      </file>
       <file name="$USER_HOME$/_dev/di-docker-airflow/dags/customoperators/oracletocsvoperator.py" timestamp="1612373527005">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/exrefpy/config.py" timestamp="1611935149445">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="22" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1611865233515">
+      <file name="/Dummy.txt" timestamp="1612539213416">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/biopsy/README.md" timestamp="1611953758410">
@@ -85,35 +108,25 @@
         <mark key="." line="72" column="23" />
         <mark key="^" line="72" column="27" />
       </file>
-      <file name="$USER_HOME$/_dev/exrefpy/Dockerfile" timestamp="1611865317736">
-        <mark key="[" line="13" column="95" />
-        <mark key="]" line="13" column="113" />
-        <mark key="." line="13" column="113" />
-        <mark key="^" line="13" column="113" />
-      </file>
       <file name="$USER_HOME$/_dev/exrefpy/README.md" timestamp="1611953454768">
         <mark key="[" line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/_dev/exrefpy/app/saml/settings.json" timestamp="1611938777701">
-        <mark key="[" line="25" column="17" />
-        <mark key="]" line="17" column="27" />
-        <mark key="." line="17" column="27" />
-        <mark key="^" line="17" column="27" />
+      <file name="$USER_HOME$/_dev/classroomcalendarv1/guniconf" timestamp="1612539815104">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/_dev/exrefpy/guniconf" timestamp="1612539911237" />
       <file name="$USER_HOME$/_dev/di-docker-airflow/dags/omfsexternalreferralsdag.py" timestamp="1612369561331">
         <mark key="[" line="27" column="39" />
         <mark key="]" line="27" column="39" />
         <mark key="." line="27" column="39" />
         <mark key="^" line="27" column="34" />
       </file>
-      <file name="$USER_HOME$/_dev/exrefpy/app/mcommunity.py" timestamp="1611864746143">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="20" column="32" />
-      </file>
-      <file name="$USER_HOME$/_dev/python/ice-json-create/json_extract/mapfunctions.py" timestamp="1607031488437">
-        <mark key="[" line="74" column="61" />
+      <file name="$USER_HOME$/_dev/classroomcalendarv1/app/routes.py" timestamp="1612540071196">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -194,9 +207,11 @@
       <jump line="527" column="45" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
       <jump line="385" column="41" filename="$USER_HOME$/_dev/biopsy/biopsy_flask/app.py" />
     </jumps>
+  </component>
+  <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">TEFCRUwgbWFpbnRhaW5lcj0iZGxzYWRtaW5zQHVtaWNoLmVkdSIK</text>
+        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgRmxhc2sK</text>
       </register>
       <register name="-" type="4">
         <text>-dev</text>
@@ -208,36 +223,38 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TEFCRUwgbWFpbnRhaW5lcj0iZGxzYWRtaW5zQHVtaWNoLmVkdSIK</text>
+        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgRmxhc2sK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I0ZST00gcHl0aG9uOjMuNwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyBweXRob24gc2V0dXAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyBmb3IgZGVwbG95bWVudHMhCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Rmxhc2s9PTEuMS4yCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBodHRwczovL3VtaWNoLmFwcC5ib3guY29tL2ZvbGRlci8xMTIwMDY5MDA1ODkK</text>
+        <text encoding="base64">TEFCRUwgbWFpbnRhaW5lcj0iZGxzYWRtaW5zQHVtaWNoLmVkdSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBOb3RlLSB3ZSBkb24ndCBoYXZlIGFuIGVhc3kgd2F5IHRvIHN0b3JlIHRoZXNlIHJlbW90ZWx5LCBzbyB5b3UnbGwgbmVlZCB0byBnZXQgdGhlc2UgUlBNcyBmcm9tIEJveDoK</text>
+        <text encoding="base64">I0ZST00gcHl0aG9uOjMuNwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBhaXJmbG93LnByb3ZpZAo=</text>
+        <text encoding="base64">IyBweXRob24gc2V0dXAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGFnPWRhZykK</text>
+        <text encoding="base64">IyBodHRwczovL3VtaWNoLmFwcC5ib3guY29tL2ZvbGRlci8xMTIwMDY5MDA1ODkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
       </register>
     </registers>
+  </component>
+  <component name="VimSearchSettings">
     <search>
       <last-search encoding="base64">XDxiaW9wc3lfZmxhc2tcPg==</last-search>
       <last-offset />
@@ -247,49 +264,12 @@
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search>
-        <entry>Perio</entry>
-        <entry>Base</entry>
-        <entry>self</entry>
-        <entry>dontia</entry>
-        <entry>primaryClinic</entry>
-        <entry encoding="base64">XDxyZXN1bHRzXD4=</entry>
-        <entry>print</entry>
-        <entry>encounter</entry>
-        <entry>StrippedString</entry>
-        <entry>Stripped</entry>
-        <entry>1000</entry>
-        <entry encoding="base64">XDxjb25uZWN0XD4=</entry>
-        <entry>config</entry>
-        <entry>upload</entry>
-        <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
-        <entry encoding="base64">XDx4XD4=</entry>
-        <entry encoding="base64">XDxkcm9wX3RhYmxlX3Rhc2tcPg==</entry>
-        <entry encoding="base64">XDxiaW9wc3lfZmxhc2tcPg==</entry>
-      </history-search>
-      <history-cmd>
-        <entry>/%s/encounter/guarantor/g</entry>
-        <entry>%s/encounter/guarantor/g</entry>
-        <entry>%s/StrippedString//g</entry>
-        <entry>%s/Stripped//g</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed T</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed M</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
