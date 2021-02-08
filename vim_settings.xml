@@ -69,8 +69,10 @@
       <file name="$USER_HOME$/_dev/classroomcalendarv1/app/__init__.py" timestamp="1612539937689">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/di-docker-airflow/Dockerfile" timestamp="1612560620863">
-        <mark key="[" line="172" column="32" />
+      <file name="$USER_HOME$/_dev/di-docker-airflow/Dockerfile" timestamp="1612804205950">
+        <mark key="[" line="173" column="10" />
+        <mark key="]" line="173" column="10" />
+        <mark key="." line="173" column="10" />
       </file>
       <file name="$USER_HOME$/_dev/di-docker-airflow/docker-compose-2.0.yml" timestamp="1612386369900">
         <mark key="[" line="51" column="35" />
@@ -207,11 +209,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgRmxhc2sK</text>
+      <register name="&quot;" type="4">
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>-dev</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaW9wc3lfZmxhc2tcPg==</text>
@@ -220,31 +222,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgRmxhc2sK</text>
+        <text encoding="base64">ICAgIHNsYWNrIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNzaCBcCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBmb3IgZGVwbG95bWVudHMhCg==</text>
+        <text encoding="base64">ICAgIG15c3FsIFwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Rmxhc2s9PTEuMS4yCg==</text>
+        <text encoding="base64">ICAgIGpkYmMgXAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">TEFCRUwgbWFpbnRhaW5lcj0iZGxzYWRtaW5zQHVtaWNoLmVkdSIK</text>
+        <text encoding="base64">ICAgIGdvb2dsZSBcCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I0ZST00gcHl0aG9uOjMuNwo=</text>
+        <text encoding="base64">ICAgIHBvc3RncmVzIFwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBweXRob24gc2V0dXAK</text>
+        <text encoding="base64">ICAgIGNlbGVyeSBcCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdvb2dsZV9hdXRoIFwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBodHRwczovL3VtaWNoLmFwcC5ib3guY29tL2ZvbGRlci8xMTIwMDY5MDA1ODkK</text>
+        <text encoding="base64">ICAgIGNyeXB0byBcCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
