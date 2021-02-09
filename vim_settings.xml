@@ -52,7 +52,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1612552190439">
+      <file name="$USER_HOME$/_dev/classroomcalendarv1/docker-compose.yml" timestamp="1612897635492">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1612897645799">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/classroomcalendarv1/ReadMe.txt" timestamp="1612542973480">
@@ -89,7 +92,7 @@
       <file name="$USER_HOME$/_dev/classroomcalendarv1/app/__init__.py" timestamp="1612539937689">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="/" timestamp="1612896962500">
+      <file name="/" timestamp="1612897275400">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/di-docker-airflow/Dockerfile" timestamp="1612804205950">
