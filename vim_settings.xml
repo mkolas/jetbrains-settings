@@ -98,11 +98,6 @@
       <file name="/" timestamp="1612897275400">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/di-docker-airflow/Dockerfile" timestamp="1612804205950">
-        <mark key="[" line="173" column="10" />
-        <mark key="]" line="173" column="10" />
-        <mark key="." line="173" column="10" />
-      </file>
       <file name="$USER_HOME$/_dev/di-docker-airflow/docker-compose-2.0.yml" timestamp="1612386369900">
         <mark key="[" line="51" column="35" />
         <mark key="]" line="51" column="35" />
@@ -124,6 +119,12 @@
         <mark key="]" line="9" column="7" />
         <mark key="." line="9" column="6" />
         <mark key="^" line="9" column="7" />
+      </file>
+      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/omfsexport.py" timestamp="1613065338337">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="3" column="25" />
+        <mark key="^" line="3" column="25" />
+        <mark key="." line="3" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -207,8 +208,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>StopValidation</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIHN0YXJ0X2RhdGU9ZGF0ZXRpbWUoMjAyMSwgMiwgMSksCiAgICAgICAgICBjYXRjaHVwPUZhbHNlKQo=</text>
       </register>
       <register name="-" type="4">
         <text>StopValidation</text>
@@ -220,31 +221,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpZWxkLmVycm9yc1s6XSA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHN0YXJ0X2RhdGU9ZGF0ZXRpbWUoMjAyMSwgMiwgMSksCiAgICAgICAgICBjYXRjaHVwPUZhbHNlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmllbGQuZXJyb3JzWzpdID0gW10gICMgd2hhdCBkb2VzIHRoaXMgZG8/Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpZWxkLmVycm9yc1s6XSA9IFtdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmllbGQuZXJyb3JzWzpdID0gW10gICMgd2hhdCBkb2VzIHRoaXMgZG8/Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dGVzdF92YWxpZGF0b3IoIjgwODQwMTIzNDU2Nzg5MyIpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">dGVzdF92YWxpZGF0b3IoIjgwODQwMTIzNDU2Nzg5MyIpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHZlcmlmeSh0ZXN0X3ZhbHVlKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfdmFsaWRhdG9yKHRlc3RfdmFsdWUpOgo=</text>
+        <text encoding="base64">ICAgIHByaW50KHZlcmlmeSh0ZXN0X3ZhbHVlKSkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IyBpZiAxNSwgcmVtb3ZlIHRoZSBmaXJzdCA1IGNoYXJhY3RlcnMtIHNob3VsZCBiZSA4MDg0MAogICAgICAgICAgICB0b19jaGVjayA9IHRvX2NoZWNrWzU6XQogICAgICAgICAgICAjIGNoZWNrIGRpZ2l0IGlzIGxhc3QgY2hhcmFjdGVyLiBzYXZlIHRoYXQgYW5kIHBvcCBpdCBvZmYKICAgICAgICAgICAgY2hlY2tfZGlnaXQgPSB0b19jaGVja1s6LTFdCiAgICAgICAgICAgIHRvX2NoZWNrID0gdG9fY2hlY2tbOjldCiAgICAgICAgICAgICMgMS4gZG91YmxlIHZhbHVlCg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZGVmIHRlc3RfdmFsaWRhdG9yKHRlc3RfdmFsdWUpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
