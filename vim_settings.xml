@@ -76,11 +76,8 @@
       <file name="/fragment.py" timestamp="1612992276038">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/classroomcalendarv1/requirements.txt" timestamp="1612539651255">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/customoperators/mysqltocsvoperator.py" timestamp="1613075917624" />
+      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/mysqloperatorexampledag.py" timestamp="1613076096785" />
       <file name="/Flask Console" timestamp="1612970839571">
         <mark key="[" line="0" column="0" />
       </file>
@@ -88,21 +85,16 @@
       <file name="$USER_HOME$/_dev/exrefpy/app/forms.py" timestamp="1612989036220">
         <mark key="[" line="7" column="83" />
       </file>
-      <file name="$USER_HOME$/_dev/classroomcalendarv1/guniconf" timestamp="1612539815104">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/customoperators/oracletocsvoperator.csv" timestamp="1613075922759">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="6" />
+        <mark key="." line="7" column="6" />
       </file>
       <file name="$USER_HOME$/_dev/classroomcalendarv1/app/__init__.py" timestamp="1612539937689">
         <mark key="[" line="3" column="0" />
       </file>
       <file name="/" timestamp="1612897275400">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/_dev/classroomcalendarv1/Dockerfile" timestamp="1612539832723">
-        <mark key="[" line="26" column="32" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/_dev/di-docker-airflow/docker-compose-prod.yml" timestamp="1613073332291" />
       <file name="$USER_HOME$/_dev/exrefpy/requirements.txt" timestamp="1612988604283">
@@ -117,11 +109,11 @@
         <mark key="." line="9" column="6" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/omfsexport.py" timestamp="1613074712401">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="74" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/omfsexport.py" timestamp="1613076373599">
+        <mark key="[" line="1" column="48" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="18" />
+        <mark key="." line="1" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -205,11 +197,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>git@gitlab.umich.edu:dental-informatics/di-docker-airflow.git</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>ti</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaW9wc3lfZmxhc2tcPg==</text>
@@ -218,31 +210,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text>git@gitlab.umich.edu:dental-informatics/di-docker-airflow.git</text>
+        <text encoding="base64">ICAgIHB5dGhvbl9jYWxsYWJsZT1vcmFjbGVfcHVsbCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIG93bmVyPSJhaXJmbG93IiwK</text>
+        <text encoding="base64">ICAgIHByb3ZpZGVfY29udGV4dD1UcnVlLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVtYWlsPVsnbWtvbGFzQHVtaWNoLmVkdSddLAo=</text>
+        <text encoding="base64">ICAgIG9wX2t3YXJncz17J29yYWNsZV9jb25uX2lkJzogJ2F4aXVtX3Byb2QnLCAnc3FsJzogJ3NlbGVjdCAqIGZyb20gdW1kZW50LnVtX29tZnNfZXh0X3JlZmVycmFscyd9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy5weXRob25fb3BlcmF0b3IgaW1wb3J0IFB5dGhvbk9wZXJhdG9yCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy5vcmFjbGVfb3BlcmF0b3IgaW1wb3J0IE9yYWNsZUhvb2sK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3FsPSJzZWxlY3QgKiBmcm9tIHVtZGVudC51bV9vbWZzX2V4dF9yZWZlcnJhbHMiCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBvcmFjbGVfaG9vay5nZXRfcmVjb3JkcyhzcWw9a3dhcmdzWydzcWwnXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb3JhY2xlX2Nvbm5faWQ9J2F4aXVtX3Byb2QnLAo=</text>
+        <text encoding="base64">ICAgIG9yYWNsZV9ob29rID0gT3JhY2xlSG9vayhvcmFjbGVfY29ubl9pZD1rd2FyZ3NbJ29yYWNsZV9jb25uX2lkJ10pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0Cg==</text>
+        <text encoding="base64">ZGVmIG9yYWNsZV9wdWxsKCoqa3dhcmdzKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text>git@gitlab.umich.edu:dental-informatics/di-docker-airflow.git</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
