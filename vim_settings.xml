@@ -117,11 +117,11 @@
         <mark key="." line="9" column="6" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/omfsexport.py" timestamp="1613073131905">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="36" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/omfsexport.py" timestamp="1613074712401">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="74" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -206,7 +206,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIG93bmVyPSJhaXJmbG93IiwK</text>
+        <text>git@gitlab.umich.edu:dental-informatics/di-docker-airflow.git</text>
       </register>
       <register name="-" type="4">
         <text>ti</text>
@@ -218,31 +218,31 @@
         <text encoding="base64">KiBgLiJDaGFydCJgIGlzIG5vdCBlbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIG93bmVyPSJhaXJmbG93IiwK</text>
+        <text>git@gitlab.umich.edu:dental-informatics/di-docker-airflow.git</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVtYWlsPVsnbWtvbGFzQHVtaWNoLmVkdSddLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIG93bmVyPSJhaXJmbG93IiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGVtYWlsPVsnbWtvbGFzQHVtaWNoLmVkdSddLAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3FsPSJzZWxlY3QgKiBmcm9tIHVtZGVudC51bV9vbWZzX2V4dF9yZWZlcnJhbHMiCg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb3JhY2xlX2Nvbm5faWQ9J2F4aXVtX3Byb2QnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3FsPSJzZWxlY3QgKiBmcm9tIHVtZGVudC51bV9vbWZzX2V4dF9yZWZlcnJhbHMiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb3JhY2xlX2Nvbm5faWQ9J2F4aXVtX3Byb2QnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Stripped//g</text>
