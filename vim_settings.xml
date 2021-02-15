@@ -72,10 +72,11 @@
         <mark key="]" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/customoperators/oracletocsvoperator.py" timestamp="1613421921177">
+      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/customoperators/oracletocsvoperator.py" timestamp="1613426598783">
         <mark key="[" line="26" column="28" />
-        <mark key="]" line="26" column="28" />
-        <mark key="." line="26" column="28" />
+        <mark key="]" line="9" column="31" />
+        <mark key="." line="9" column="30" />
+        <mark key="^" line="9" column="31" />
       </file>
       <file name="$USER_HOME$/_dev/exrefpy/docker-compose-prod.yml" timestamp="1613418098237">
         <mark key="[" line="0" column="0" />
