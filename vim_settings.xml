@@ -79,11 +79,25 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="77" column="76" />
       </file>
-      <file name="/a.dummy" timestamp="1613417331876">
-        <mark key="[" line="0" column="24" />
+      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/televoxappointmentupdate.py" timestamp="1615230192757">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="23" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="6" column="23" />
+      </file>
+      <file name="/a.dummy" timestamp="1615230160287">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="/Flask Console" timestamp="1614619081525">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/tableauappointmentupdate.py" timestamp="1615230146613">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="11" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="5" column="11" />
       </file>
       <file name="$USER_HOME$/_dev/exrefpy/README.md" timestamp="1613418275391">
         <mark key="[" line="23" column="61" />
@@ -115,7 +129,7 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/omfsexport.py" timestamp="1613492612629">
+      <file name="$USER_HOME$/_dev/di-docker-airflow/dags/omfsexport.py" timestamp="1615230049818">
         <mark key="[" line="14" column="20" />
         <mark key="]" line="14" column="20" />
         <mark key="^" line="14" column="25" />
@@ -204,10 +218,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaW9wc3lfZmxhc2tcPg==</text>
