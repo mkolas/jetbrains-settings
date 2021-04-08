@@ -52,7 +52,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1617304264802">
+      <file name="/Python Console" timestamp="1617895729857">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1617301920667">
@@ -106,7 +106,6 @@
         <mark key="^" line="20" column="33" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/_dev/exrefpy/app/templates/tables/central-records-table.html" timestamp="1617722482354" />
       <file name="$USER_HOME$/_dev/exrefpy/docker-compose-prod.yml" timestamp="1616181633609">
         <mark key="[" line="7" column="35" />
         <mark key="]" line="12" column="10" />
